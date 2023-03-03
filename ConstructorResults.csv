@@ -1,0 +1,3986 @@
+year,round,raceId,constructorId,statusId,points
+2010,1,Bahrain Grand Prix,ferrari,Finished,43.0
+2010,1,Bahrain Grand Prix,force_india,Finished,2.0
+2010,1,Bahrain Grand Prix,hrt,Accident,0.0
+2010,1,Bahrain Grand Prix,hrt,Overheating,0.0
+2010,1,Bahrain Grand Prix,lotus_racing,+2 Laps,0.0
+2010,1,Bahrain Grand Prix,lotus_racing,Hydraulics,0.0
+2010,1,Bahrain Grand Prix,mclaren,Finished,21.0
+2010,1,Bahrain Grand Prix,mercedes,Finished,18.0
+2010,1,Bahrain Grand Prix,red_bull,Finished,16.0
+2010,1,Bahrain Grand Prix,renault,Finished,0.0
+2010,1,Bahrain Grand Prix,renault,Suspension,0.0
+2010,1,Bahrain Grand Prix,sauber,Hydraulics,0.0
+2010,1,Bahrain Grand Prix,toro_rosso,Electrical,0.0
+2010,1,Bahrain Grand Prix,toro_rosso,Finished,0.0
+2010,1,Bahrain Grand Prix,virgin,Gearbox,0.0
+2010,1,Bahrain Grand Prix,virgin,Hydraulics,0.0
+2010,1,Bahrain Grand Prix,williams,+1 Lap,0.0
+2010,1,Bahrain Grand Prix,williams,Finished,1.0
+2010,2,Australian Grand Prix,ferrari,Finished,27.0
+2010,2,Australian Grand Prix,force_india,Engine,0.0
+2010,2,Australian Grand Prix,force_india,Finished,6.0
+2010,2,Australian Grand Prix,hrt,+5 Laps,0.0
+2010,2,Australian Grand Prix,hrt,Hydraulics,0.0
+2010,2,Australian Grand Prix,lotus_racing,+2 Laps,0.0
+2010,2,Australian Grand Prix,lotus_racing,Hydraulics,0.0
+2010,2,Australian Grand Prix,mclaren,Finished,33.0
+2010,2,Australian Grand Prix,mercedes,Finished,11.0
+2010,2,Australian Grand Prix,red_bull,Finished,2.0
+2010,2,Australian Grand Prix,red_bull,Wheel,0.0
+2010,2,Australian Grand Prix,renault,Finished,18.0
+2010,2,Australian Grand Prix,renault,Spun off,0.0
+2010,2,Australian Grand Prix,sauber,Collision,0.0
+2010,2,Australian Grand Prix,sauber,Finished,0.0
+2010,2,Australian Grand Prix,toro_rosso,Collision,0.0
+2010,2,Australian Grand Prix,toro_rosso,Finished,0.0
+2010,2,Australian Grand Prix,virgin,Hydraulics,0.0
+2010,2,Australian Grand Prix,virgin,Suspension,0.0
+2010,2,Australian Grand Prix,williams,Collision,0.0
+2010,2,Australian Grand Prix,williams,Finished,4.0
+2010,3,Malaysian Grand Prix,ferrari,Engine,0.0
+2010,3,Malaysian Grand Prix,ferrari,Finished,6.0
+2010,3,Malaysian Grand Prix,force_india,Finished,10.0
+2010,3,Malaysian Grand Prix,force_india,Throttle,0.0
+2010,3,Malaysian Grand Prix,hrt,+3 Laps,0.0
+2010,3,Malaysian Grand Prix,hrt,+4 Laps,0.0
+2010,3,Malaysian Grand Prix,lotus_racing,+10 Laps,0.0
+2010,3,Malaysian Grand Prix,lotus_racing,+5 Laps,0.0
+2010,3,Malaysian Grand Prix,mclaren,Finished,12.0
+2010,3,Malaysian Grand Prix,mercedes,Finished,15.0
+2010,3,Malaysian Grand Prix,mercedes,Wheel,0.0
+2010,3,Malaysian Grand Prix,red_bull,Finished,43.0
+2010,3,Malaysian Grand Prix,renault,Finished,12.0
+2010,3,Malaysian Grand Prix,renault,Gearbox,0.0
+2010,3,Malaysian Grand Prix,sauber,Engine,0.0
+2010,3,Malaysian Grand Prix,toro_rosso,Finished,2.0
+2010,3,Malaysian Grand Prix,virgin,+3 Laps,0.0
+2010,3,Malaysian Grand Prix,virgin,Spun off,0.0
+2010,3,Malaysian Grand Prix,williams,+1 Lap,0.0
+2010,3,Malaysian Grand Prix,williams,Finished,1.0
+2010,4,Chinese Grand Prix,ferrari,Finished,14.0
+2010,4,Chinese Grand Prix,force_india,Accident,0.0
+2010,4,Chinese Grand Prix,force_india,Finished,0.0
+2010,4,Chinese Grand Prix,hrt,+2 Laps,0.0
+2010,4,Chinese Grand Prix,hrt,+4 Laps,0.0
+2010,4,Chinese Grand Prix,lotus_racing,+1 Lap,0.0
+2010,4,Chinese Grand Prix,lotus_racing,Hydraulics,0.0
+2010,4,Chinese Grand Prix,mclaren,Finished,43.0
+2010,4,Chinese Grand Prix,mercedes,Finished,16.0
+2010,4,Chinese Grand Prix,red_bull,Finished,12.0
+2010,4,Chinese Grand Prix,renault,Finished,16.0
+2010,4,Chinese Grand Prix,sauber,Accident,0.0
+2010,4,Chinese Grand Prix,sauber,Technical,0.0
+2010,4,Chinese Grand Prix,toro_rosso,Accident,0.0
+2010,4,Chinese Grand Prix,toro_rosso,Finished,0.0
+2010,4,Chinese Grand Prix,virgin,Clutch,0.0
+2010,4,Chinese Grand Prix,virgin,Engine,0.0
+2010,4,Chinese Grand Prix,williams,+1 Lap,0.0
+2010,4,Chinese Grand Prix,williams,Finished,0.0
+2010,5,Spanish Grand Prix,ferrari,Finished,26.0
+2010,5,Spanish Grand Prix,force_india,Engine,0.0
+2010,5,Spanish Grand Prix,force_india,Finished,6.0
+2010,5,Spanish Grand Prix,hrt,Accident,0.0
+2010,5,Spanish Grand Prix,hrt,Suspension,0.0
+2010,5,Spanish Grand Prix,lotus_racing,+3 Laps,0.0
+2010,5,Spanish Grand Prix,lotus_racing,Gearbox,0.0
+2010,5,Spanish Grand Prix,mclaren,Finished,10.0
+2010,5,Spanish Grand Prix,mclaren,Puncture,0.0
+2010,5,Spanish Grand Prix,mercedes,+1 Lap,0.0
+2010,5,Spanish Grand Prix,mercedes,Finished,12.0
+2010,5,Spanish Grand Prix,red_bull,Finished,40.0
+2010,5,Spanish Grand Prix,renault,+1 Lap,0.0
+2010,5,Spanish Grand Prix,renault,Finished,4.0
+2010,5,Spanish Grand Prix,sauber,+1 Lap,0.0
+2010,5,Spanish Grand Prix,sauber,Collision,0.0
+2010,5,Spanish Grand Prix,toro_rosso,+1 Lap,1.0
+2010,5,Spanish Grand Prix,toro_rosso,Hydraulics,0.0
+2010,5,Spanish Grand Prix,virgin,+3 Laps,0.0
+2010,5,Spanish Grand Prix,virgin,+4 Laps,0.0
+2010,5,Spanish Grand Prix,williams,+1 Lap,2.0
+2010,5,Spanish Grand Prix,williams,+2 Laps,0.0
+2010,6,Monaco Grand Prix,ferrari,Finished,20.0
+2010,6,Monaco Grand Prix,force_india,Finished,6.0
+2010,6,Monaco Grand Prix,hrt,Collision,0.0
+2010,6,Monaco Grand Prix,hrt,Hydraulics,0.0
+2010,6,Monaco Grand Prix,lotus_racing,Collision,0.0
+2010,6,Monaco Grand Prix,lotus_racing,Steering,0.0
+2010,6,Monaco Grand Prix,mclaren,Engine,0.0
+2010,6,Monaco Grand Prix,mclaren,Finished,10.0
+2010,6,Monaco Grand Prix,mercedes,Finished,6.0
+2010,6,Monaco Grand Prix,red_bull,Finished,43.0
+2010,6,Monaco Grand Prix,renault,Brakes,0.0
+2010,6,Monaco Grand Prix,renault,Finished,15.0
+2010,6,Monaco Grand Prix,sauber,Gearbox,0.0
+2010,6,Monaco Grand Prix,sauber,Hydraulics,0.0
+2010,6,Monaco Grand Prix,toro_rosso,Finished,1.0
+2010,6,Monaco Grand Prix,virgin,Track rod,0.0
+2010,6,Monaco Grand Prix,virgin,Wheel,0.0
+2010,6,Monaco Grand Prix,williams,Front wing,0.0
+2010,6,Monaco Grand Prix,williams,Suspension,0.0
+2010,7,Turkish Grand Prix,ferrari,Finished,10.0
+2010,7,Turkish Grand Prix,force_india,+1 Lap,0.0
+2010,7,Turkish Grand Prix,force_india,Finished,2.0
+2010,7,Turkish Grand Prix,hrt,Fuel pressure,0.0
+2010,7,Turkish Grand Prix,hrt,Fuel pump,0.0
+2010,7,Turkish Grand Prix,lotus_racing,Hydraulics,0.0
+2010,7,Turkish Grand Prix,mclaren,Finished,43.0
+2010,7,Turkish Grand Prix,mercedes,Finished,22.0
+2010,7,Turkish Grand Prix,red_bull,Collision,0.0
+2010,7,Turkish Grand Prix,red_bull,Finished,15.0
+2010,7,Turkish Grand Prix,renault,+1 Lap,0.0
+2010,7,Turkish Grand Prix,renault,Finished,8.0
+2010,7,Turkish Grand Prix,sauber,Finished,1.0
+2010,7,Turkish Grand Prix,toro_rosso,+1 Lap,0.0
+2010,7,Turkish Grand Prix,toro_rosso,Finished,0.0
+2010,7,Turkish Grand Prix,virgin,+3 Laps,0.0
+2010,7,Turkish Grand Prix,williams,+1 Lap,0.0
+2010,8,Canadian Grand Prix,ferrari,+1 Lap,0.0
+2010,8,Canadian Grand Prix,ferrari,Finished,15.0
+2010,8,Canadian Grand Prix,force_india,+1 Lap,3.0
+2010,8,Canadian Grand Prix,hrt,+4 Laps,0.0
+2010,8,Canadian Grand Prix,hrt,Hydraulics,0.0
+2010,8,Canadian Grand Prix,lotus_racing,+2 Laps,0.0
+2010,8,Canadian Grand Prix,lotus_racing,Brakes,0.0
+2010,8,Canadian Grand Prix,mclaren,Finished,43.0
+2010,8,Canadian Grand Prix,mercedes,+1 Lap,0.0
+2010,8,Canadian Grand Prix,mercedes,Finished,8.0
+2010,8,Canadian Grand Prix,red_bull,Finished,22.0
+2010,8,Canadian Grand Prix,renault,+2 Laps,0.0
+2010,8,Canadian Grand Prix,renault,Finished,6.0
+2010,8,Canadian Grand Prix,sauber,Accident,0.0
+2010,8,Canadian Grand Prix,sauber,Engine,0.0
+2010,8,Canadian Grand Prix,toro_rosso,+1 Lap,4.0
+2010,8,Canadian Grand Prix,virgin,+5 Laps,0.0
+2010,8,Canadian Grand Prix,virgin,Mechanical,0.0
+2010,8,Canadian Grand Prix,williams,+1 Lap,0.0
+2010,9,European Grand Prix,ferrari,Finished,4.0
+2010,9,European Grand Prix,force_india,Finished,8.0
+2010,9,European Grand Prix,hrt,+2 Laps,0.0
+2010,9,European Grand Prix,lotus_racing,+4 Laps,0.0
+2010,9,European Grand Prix,lotus_racing,Collision,0.0
+2010,9,European Grand Prix,mclaren,Finished,33.0
+2010,9,European Grand Prix,mercedes,Finished,1.0
+2010,9,European Grand Prix,red_bull,Collision,0.0
+2010,9,European Grand Prix,red_bull,Finished,25.0
+2010,9,European Grand Prix,renault,Finished,10.0
+2010,9,European Grand Prix,sauber,Finished,6.0
+2010,9,European Grand Prix,toro_rosso,Finished,2.0
+2010,9,European Grand Prix,virgin,+1 Lap,0.0
+2010,9,European Grand Prix,virgin,+2 Laps,0.0
+2010,9,European Grand Prix,williams,Exhaust,0.0
+2010,9,European Grand Prix,williams,Finished,12.0
+2010,10,British Grand Prix,ferrari,Finished,0.0
+2010,10,British Grand Prix,force_india,Finished,4.0
+2010,10,British Grand Prix,hrt,+2 Laps,0.0
+2010,10,British Grand Prix,lotus_racing,+1 Lap,0.0
+2010,10,British Grand Prix,mclaren,Finished,30.0
+2010,10,British Grand Prix,mercedes,Finished,17.0
+2010,10,British Grand Prix,red_bull,Finished,31.0
+2010,10,British Grand Prix,renault,Driveshaft,0.0
+2010,10,British Grand Prix,renault,Finished,0.0
+2010,10,British Grand Prix,sauber,Collision,0.0
+2010,10,British Grand Prix,sauber,Finished,8.0
+2010,10,British Grand Prix,toro_rosso,Brakes,0.0
+2010,10,British Grand Prix,toro_rosso,Finished,0.0
+2010,10,British Grand Prix,virgin,+2 Laps,0.0
+2010,10,British Grand Prix,virgin,Hydraulics,0.0
+2010,10,British Grand Prix,williams,Finished,11.0
+2010,11,German Grand Prix,ferrari,Finished,43.0
+2010,11,German Grand Prix,force_india,+2 Laps,0.0
+2010,11,German Grand Prix,hrt,+4 Laps,0.0
+2010,11,German Grand Prix,hrt,Engine,0.0
+2010,11,German Grand Prix,lotus_racing,Collision,0.0
+2010,11,German Grand Prix,lotus_racing,Gearbox,0.0
+2010,11,German Grand Prix,mclaren,Finished,22.0
+2010,11,German Grand Prix,mercedes,+1 Lap,6.0
+2010,11,German Grand Prix,red_bull,Finished,23.0
+2010,11,German Grand Prix,renault,+1 Lap,7.0
+2010,11,German Grand Prix,sauber,+1 Lap,0.0
+2010,11,German Grand Prix,toro_rosso,+1 Lap,0.0
+2010,11,German Grand Prix,toro_rosso,Collision,0.0
+2010,11,German Grand Prix,virgin,+3 Laps,0.0
+2010,11,German Grand Prix,virgin,Gearbox,0.0
+2010,11,German Grand Prix,williams,+1 Lap,0.0
+2010,12,Hungarian Grand Prix,ferrari,Finished,30.0
+2010,12,Hungarian Grand Prix,force_india,+1 Lap,0.0
+2010,12,Hungarian Grand Prix,force_india,Collision,0.0
+2010,12,Hungarian Grand Prix,hrt,+3 Laps,0.0
+2010,12,Hungarian Grand Prix,hrt,+4 Laps,0.0
+2010,12,Hungarian Grand Prix,lotus_racing,+3 Laps,0.0
+2010,12,Hungarian Grand Prix,mclaren,+1 Lap,4.0
+2010,12,Hungarian Grand Prix,mclaren,Gearbox,0.0
+2010,12,Hungarian Grand Prix,mercedes,+1 Lap,0.0
+2010,12,Hungarian Grand Prix,mercedes,Wheel,0.0
+2010,12,Hungarian Grand Prix,red_bull,Finished,40.0
+2010,12,Hungarian Grand Prix,renault,Finished,10.0
+2010,12,Hungarian Grand Prix,renault,Retired,0.0
+2010,12,Hungarian Grand Prix,sauber,+1 Lap,8.0
+2010,12,Hungarian Grand Prix,toro_rosso,+1 Lap,0.0
+2010,12,Hungarian Grand Prix,toro_rosso,Engine,0.0
+2010,12,Hungarian Grand Prix,virgin,+3 Laps,0.0
+2010,12,Hungarian Grand Prix,virgin,+4 Laps,0.0
+2010,12,Hungarian Grand Prix,williams,+1 Lap,1.0
+2010,12,Hungarian Grand Prix,williams,Finished,8.0
+2010,13,Belgian Grand Prix,ferrari,Accident,0.0
+2010,13,Belgian Grand Prix,ferrari,Finished,12.0
+2010,13,Belgian Grand Prix,force_india,Finished,11.0
+2010,13,Belgian Grand Prix,hrt,+2 Laps,0.0
+2010,13,Belgian Grand Prix,hrt,Retired,0.0
+2010,13,Belgian Grand Prix,lotus_racing,+1 Lap,0.0
+2010,13,Belgian Grand Prix,mclaren,Collision,0.0
+2010,13,Belgian Grand Prix,mclaren,Finished,25.0
+2010,13,Belgian Grand Prix,mercedes,Finished,14.0
+2010,13,Belgian Grand Prix,red_bull,+1 Lap,0.0
+2010,13,Belgian Grand Prix,red_bull,Finished,18.0
+2010,13,Belgian Grand Prix,renault,Finished,17.0
+2010,13,Belgian Grand Prix,sauber,Finished,4.0
+2010,13,Belgian Grand Prix,toro_rosso,Finished,0.0
+2010,13,Belgian Grand Prix,virgin,+1 Lap,0.0
+2010,13,Belgian Grand Prix,williams,+1 Lap,0.0
+2010,13,Belgian Grand Prix,williams,Collision,0.0
+2010,14,Italian Grand Prix,ferrari,Finished,40.0
+2010,14,Italian Grand Prix,force_india,+1 Lap,0.0
+2010,14,Italian Grand Prix,force_india,Finished,0.0
+2010,14,Italian Grand Prix,hrt,+2 Laps,0.0
+2010,14,Italian Grand Prix,hrt,Retired,0.0
+2010,14,Italian Grand Prix,lotus_racing,+2 Laps,0.0
+2010,14,Italian Grand Prix,lotus_racing,Engine,0.0
+2010,14,Italian Grand Prix,mclaren,Collision,0.0
+2010,14,Italian Grand Prix,mclaren,Finished,18.0
+2010,14,Italian Grand Prix,mercedes,Finished,12.0
+2010,14,Italian Grand Prix,red_bull,Finished,20.0
+2010,14,Italian Grand Prix,renault,Finished,4.0
+2010,14,Italian Grand Prix,sauber,+1 Lap,0.0
+2010,14,Italian Grand Prix,sauber,Gearbox,0.0
+2010,14,Italian Grand Prix,toro_rosso,+1 Lap,0.0
+2010,14,Italian Grand Prix,toro_rosso,Finished,0.0
+2010,14,Italian Grand Prix,virgin,+2 Laps,0.0
+2010,14,Italian Grand Prix,virgin,+3 Laps,0.0
+2010,14,Italian Grand Prix,williams,Finished,7.0
+2010,15,Singapore Grand Prix,ferrari,Finished,29.0
+2010,15,Singapore Grand Prix,force_india,Collision,0.0
+2010,15,Singapore Grand Prix,force_india,Finished,2.0
+2010,15,Singapore Grand Prix,hrt,Accident,0.0
+2010,15,Singapore Grand Prix,hrt,Hydraulics,0.0
+2010,15,Singapore Grand Prix,lotus_racing,Engine,0.0
+2010,15,Singapore Grand Prix,lotus_racing,Hydraulics,0.0
+2010,15,Singapore Grand Prix,mclaren,Collision,0.0
+2010,15,Singapore Grand Prix,mclaren,Finished,12.0
+2010,15,Singapore Grand Prix,mercedes,+1 Lap,0.0
+2010,15,Singapore Grand Prix,mercedes,Finished,10.0
+2010,15,Singapore Grand Prix,red_bull,Finished,33.0
+2010,15,Singapore Grand Prix,renault,+1 Lap,0.0
+2010,15,Singapore Grand Prix,renault,Finished,6.0
+2010,15,Singapore Grand Prix,sauber,Accident,0.0
+2010,15,Singapore Grand Prix,sauber,Collision,0.0
+2010,15,Singapore Grand Prix,toro_rosso,+1 Lap,0.0
+2010,15,Singapore Grand Prix,virgin,+2 Laps,0.0
+2010,15,Singapore Grand Prix,virgin,Hydraulics,0.0
+2010,15,Singapore Grand Prix,williams,Finished,9.0
+2010,16,Japanese Grand Prix,ferrari,Accident,0.0
+2010,16,Japanese Grand Prix,ferrari,Finished,15.0
+2010,16,Japanese Grand Prix,force_india,Accident,0.0
+2010,16,Japanese Grand Prix,force_india,Oil leak,0.0
+2010,16,Japanese Grand Prix,hrt,+2 Laps,0.0
+2010,16,Japanese Grand Prix,hrt,+3 Laps,0.0
+2010,16,Japanese Grand Prix,lotus_racing,+1 Lap,0.0
+2010,16,Japanese Grand Prix,lotus_racing,+2 Laps,0.0
+2010,16,Japanese Grand Prix,mclaren,Finished,22.0
+2010,16,Japanese Grand Prix,mercedes,Finished,8.0
+2010,16,Japanese Grand Prix,mercedes,Suspension,0.0
+2010,16,Japanese Grand Prix,red_bull,Finished,43.0
+2010,16,Japanese Grand Prix,renault,Accident,0.0
+2010,16,Japanese Grand Prix,renault,Wheel,0.0
+2010,16,Japanese Grand Prix,sauber,Finished,10.0
+2010,16,Japanese Grand Prix,toro_rosso,+1 Lap,0.0
+2010,16,Japanese Grand Prix,toro_rosso,Finished,1.0
+2010,16,Japanese Grand Prix,virgin,+2 Laps,0.0
+2010,16,Japanese Grand Prix,virgin,Suspension,0.0
+2010,16,Japanese Grand Prix,williams,Accident,0.0
+2010,16,Japanese Grand Prix,williams,Finished,2.0
+2010,17,Korean Grand Prix,ferrari,Finished,40.0
+2010,17,Korean Grand Prix,force_india,Collision,0.0
+2010,17,Korean Grand Prix,force_india,Finished,8.0
+2010,17,Korean Grand Prix,hrt,+2 Laps,0.0
+2010,17,Korean Grand Prix,lotus_racing,+1 Lap,0.0
+2010,17,Korean Grand Prix,lotus_racing,Hydraulics,0.0
+2010,17,Korean Grand Prix,mclaren,Finished,18.0
+2010,17,Korean Grand Prix,mercedes,Collision,0.0
+2010,17,Korean Grand Prix,mercedes,Finished,12.0
+2010,17,Korean Grand Prix,red_bull,Accident,0.0
+2010,17,Korean Grand Prix,red_bull,Engine,0.0
+2010,17,Korean Grand Prix,renault,Accident,0.0
+2010,17,Korean Grand Prix,renault,Finished,10.0
+2010,17,Korean Grand Prix,sauber,Finished,6.0
+2010,17,Korean Grand Prix,toro_rosso,Collision,0.0
+2010,17,Korean Grand Prix,toro_rosso,Finished,0.0
+2010,17,Korean Grand Prix,virgin,Accident,0.0
+2010,17,Korean Grand Prix,virgin,Collision,0.0
+2010,17,Korean Grand Prix,williams,Finished,7.0
+2010,18,Brazilian Grand Prix,ferrari,+1 Lap,0.0
+2010,18,Brazilian Grand Prix,ferrari,Finished,15.0
+2010,18,Brazilian Grand Prix,force_india,+1 Lap,0.0
+2010,18,Brazilian Grand Prix,force_india,Accident,0.0
+2010,18,Brazilian Grand Prix,hrt,+2 Laps,0.0
+2010,18,Brazilian Grand Prix,hrt,+6 Laps,0.0
+2010,18,Brazilian Grand Prix,lotus_racing,+2 Laps,0.0
+2010,18,Brazilian Grand Prix,mclaren,Finished,22.0
+2010,18,Brazilian Grand Prix,mercedes,Finished,14.0
+2010,18,Brazilian Grand Prix,red_bull,Finished,43.0
+2010,18,Brazilian Grand Prix,renault,+1 Lap,2.0
+2010,18,Brazilian Grand Prix,sauber,+1 Lap,1.0
+2010,18,Brazilian Grand Prix,toro_rosso,+1 Lap,0.0
+2010,18,Brazilian Grand Prix,virgin,+2 Laps,0.0
+2010,18,Brazilian Grand Prix,virgin,+9 Laps,0.0
+2010,18,Brazilian Grand Prix,williams,+1 Lap,4.0
+2010,19,Abu Dhabi Grand Prix,ferrari,Finished,7.0
+2010,19,Abu Dhabi Grand Prix,force_india,Collision,0.0
+2010,19,Abu Dhabi Grand Prix,force_india,Finished,0.0
+2010,19,Abu Dhabi Grand Prix,hrt,+2 Laps,0.0
+2010,19,Abu Dhabi Grand Prix,lotus_racing,+1 Lap,0.0
+2010,19,Abu Dhabi Grand Prix,lotus_racing,Rear wing,0.0
+2010,19,Abu Dhabi Grand Prix,mclaren,Finished,33.0
+2010,19,Abu Dhabi Grand Prix,mercedes,Collision,0.0
+2010,19,Abu Dhabi Grand Prix,mercedes,Finished,12.0
+2010,19,Abu Dhabi Grand Prix,red_bull,Finished,29.0
+2010,19,Abu Dhabi Grand Prix,renault,Finished,18.0
+2010,19,Abu Dhabi Grand Prix,sauber,Finished,0.0
+2010,19,Abu Dhabi Grand Prix,toro_rosso,Finished,2.0
+2010,19,Abu Dhabi Grand Prix,virgin,+2 Laps,0.0
+2010,19,Abu Dhabi Grand Prix,virgin,Gearbox,0.0
+2010,19,Abu Dhabi Grand Prix,williams,Finished,0.0
+2011,1,Australian Grand Prix,ferrari,Finished,18.0
+2011,1,Australian Grand Prix,force_india,+1 Lap,3.0
+2011,1,Australian Grand Prix,hrt,Did not qualify,0.0
+2011,1,Australian Grand Prix,lotus_racing,+2 Laps,0.0
+2011,1,Australian Grand Prix,lotus_racing,Water leak,0.0
+2011,1,Australian Grand Prix,mclaren,Finished,26.0
+2011,1,Australian Grand Prix,mercedes,Collision,0.0
+2011,1,Australian Grand Prix,red_bull,Finished,35.0
+2011,1,Australian Grand Prix,renault,+1 Lap,0.0
+2011,1,Australian Grand Prix,renault,Finished,15.0
+2011,1,Australian Grand Prix,sauber,Disqualified,0.0
+2011,1,Australian Grand Prix,toro_rosso,+1 Lap,4.0
+2011,1,Australian Grand Prix,virgin,+4 Laps,0.0
+2011,1,Australian Grand Prix,virgin,+9 Laps,0.0
+2011,1,Australian Grand Prix,williams,Transmission,0.0
+2011,2,Malaysian Grand Prix,ferrari,Finished,18.0
+2011,2,Malaysian Grand Prix,force_india,+1 Lap,0.0
+2011,2,Malaysian Grand Prix,force_india,Finished,1.0
+2011,2,Malaysian Grand Prix,hrt,+10 Laps,0.0
+2011,2,Malaysian Grand Prix,hrt,+42 Laps,0.0
+2011,2,Malaysian Grand Prix,lotus_racing,+1 Lap,0.0
+2011,2,Malaysian Grand Prix,lotus_racing,Clutch,0.0
+2011,2,Malaysian Grand Prix,mclaren,Finished,22.0
+2011,2,Malaysian Grand Prix,mercedes,+1 Lap,0.0
+2011,2,Malaysian Grand Prix,mercedes,Finished,2.0
+2011,2,Malaysian Grand Prix,red_bull,Finished,37.0
+2011,2,Malaysian Grand Prix,renault,Accident,0.0
+2011,2,Malaysian Grand Prix,renault,Finished,15.0
+2011,2,Malaysian Grand Prix,sauber,Accident,0.0
+2011,2,Malaysian Grand Prix,sauber,Finished,6.0
+2011,2,Malaysian Grand Prix,toro_rosso,+1 Lap,0.0
+2011,2,Malaysian Grand Prix,virgin,+2 Laps,0.0
+2011,2,Malaysian Grand Prix,virgin,Accident,0.0
+2011,2,Malaysian Grand Prix,williams,Engine misfire,0.0
+2011,2,Malaysian Grand Prix,williams,Gearbox,0.0
+2011,3,Chinese Grand Prix,ferrari,Finished,14.0
+2011,3,Chinese Grand Prix,force_india,+1 Lap,0.0
+2011,3,Chinese Grand Prix,force_india,Finished,0.0
+2011,3,Chinese Grand Prix,hrt,+2 Laps,0.0
+2011,3,Chinese Grand Prix,lotus_racing,+1 Lap,0.0
+2011,3,Chinese Grand Prix,mclaren,Finished,37.0
+2011,3,Chinese Grand Prix,mercedes,Finished,14.0
+2011,3,Chinese Grand Prix,red_bull,Finished,33.0
+2011,3,Chinese Grand Prix,renault,Finished,2.0
+2011,3,Chinese Grand Prix,sauber,+1 Lap,0.0
+2011,3,Chinese Grand Prix,sauber,Finished,1.0
+2011,3,Chinese Grand Prix,toro_rosso,Finished,0.0
+2011,3,Chinese Grand Prix,toro_rosso,Wheel,0.0
+2011,3,Chinese Grand Prix,virgin,+2 Laps,0.0
+2011,3,Chinese Grand Prix,williams,+1 Lap,0.0
+2011,3,Chinese Grand Prix,williams,Finished,0.0
+2011,4,Turkish Grand Prix,ferrari,Finished,15.0
+2011,4,Turkish Grand Prix,force_india,+1 Lap,0.0
+2011,4,Turkish Grand Prix,force_india,Retired,0.0
+2011,4,Turkish Grand Prix,hrt,+3 Laps,0.0
+2011,4,Turkish Grand Prix,hrt,+5 Laps,0.0
+2011,4,Turkish Grand Prix,lotus_racing,+1 Lap,0.0
+2011,4,Turkish Grand Prix,lotus_racing,+2 Laps,0.0
+2011,4,Turkish Grand Prix,mclaren,Finished,20.0
+2011,4,Turkish Grand Prix,mercedes,Finished,10.0
+2011,4,Turkish Grand Prix,red_bull,Finished,43.0
+2011,4,Turkish Grand Prix,renault,Finished,10.0
+2011,4,Turkish Grand Prix,sauber,+1 Lap,0.0
+2011,4,Turkish Grand Prix,sauber,Finished,1.0
+2011,4,Turkish Grand Prix,toro_rosso,+1 Lap,0.0
+2011,4,Turkish Grand Prix,toro_rosso,Finished,2.0
+2011,4,Turkish Grand Prix,virgin,+2 Laps,0.0
+2011,4,Turkish Grand Prix,virgin,Gearbox,0.0
+2011,4,Turkish Grand Prix,williams,+1 Lap,0.0
+2011,5,Spanish Grand Prix,ferrari,+1 Lap,10.0
+2011,5,Spanish Grand Prix,ferrari,Gearbox,0.0
+2011,5,Spanish Grand Prix,force_india,+1 Lap,0.0
+2011,5,Spanish Grand Prix,hrt,+5 Laps,0.0
+2011,5,Spanish Grand Prix,hrt,Gearbox,0.0
+2011,5,Spanish Grand Prix,lotus_racing,+2 Laps,0.0
+2011,5,Spanish Grand Prix,lotus_racing,Accident,0.0
+2011,5,Spanish Grand Prix,mclaren,Finished,33.0
+2011,5,Spanish Grand Prix,mercedes,+1 Lap,14.0
+2011,5,Spanish Grand Prix,red_bull,Finished,37.0
+2011,5,Spanish Grand Prix,renault,+1 Lap,4.0
+2011,5,Spanish Grand Prix,sauber,+1 Lap,3.0
+2011,5,Spanish Grand Prix,toro_rosso,+1 Lap,0.0
+2011,5,Spanish Grand Prix,toro_rosso,+2 Laps,0.0
+2011,5,Spanish Grand Prix,virgin,+3 Laps,0.0
+2011,5,Spanish Grand Prix,virgin,+4 Laps,0.0
+2011,5,Spanish Grand Prix,williams,+1 Lap,0.0
+2011,5,Spanish Grand Prix,williams,+2 Laps,0.0
+2011,6,Monaco Grand Prix,ferrari,Accident,0.0
+2011,6,Monaco Grand Prix,ferrari,Finished,18.0
+2011,6,Monaco Grand Prix,force_india,+1 Lap,6.0
+2011,6,Monaco Grand Prix,force_india,+2 Laps,0.0
+2011,6,Monaco Grand Prix,hrt,+3 Laps,0.0
+2011,6,Monaco Grand Prix,hrt,+4 Laps,0.0
+2011,6,Monaco Grand Prix,lotus_racing,+2 Laps,0.0
+2011,6,Monaco Grand Prix,mclaren,Finished,23.0
+2011,6,Monaco Grand Prix,mercedes,+2 Laps,0.0
+2011,6,Monaco Grand Prix,mercedes,Engine,0.0
+2011,6,Monaco Grand Prix,red_bull,Finished,37.0
+2011,6,Monaco Grand Prix,renault,+1 Lap,4.0
+2011,6,Monaco Grand Prix,renault,Collision,0.0
+2011,6,Monaco Grand Prix,sauber,Finished,10.0
+2011,6,Monaco Grand Prix,sauber,Injury,0.0
+2011,6,Monaco Grand Prix,toro_rosso,+1 Lap,1.0
+2011,6,Monaco Grand Prix,toro_rosso,Collision,0.0
+2011,6,Monaco Grand Prix,virgin,+3 Laps,0.0
+2011,6,Monaco Grand Prix,virgin,Suspension,0.0
+2011,6,Monaco Grand Prix,williams,+1 Lap,2.0
+2011,6,Monaco Grand Prix,williams,Accident,0.0
+2011,7,Canadian Grand Prix,ferrari,Collision,0.0
+2011,7,Canadian Grand Prix,ferrari,Finished,8.0
+2011,7,Canadian Grand Prix,force_india,Accident,0.0
+2011,7,Canadian Grand Prix,hrt,+1 Lap,0.0
+2011,7,Canadian Grand Prix,lotus_racing,+1 Lap,0.0
+2011,7,Canadian Grand Prix,lotus_racing,Transmission,0.0
+2011,7,Canadian Grand Prix,mclaren,Collision,0.0
+2011,7,Canadian Grand Prix,mclaren,Finished,25.0
+2011,7,Canadian Grand Prix,mercedes,Finished,12.0
+2011,7,Canadian Grand Prix,red_bull,Finished,33.0
+2011,7,Canadian Grand Prix,renault,Accident,0.0
+2011,7,Canadian Grand Prix,renault,Finished,10.0
+2011,7,Canadian Grand Prix,sauber,Finished,6.0
+2011,7,Canadian Grand Prix,toro_rosso,Finished,5.0
+2011,7,Canadian Grand Prix,virgin,+1 Lap,0.0
+2011,7,Canadian Grand Prix,williams,Finished,2.0
+2011,7,Canadian Grand Prix,williams,Retired,0.0
+2011,8,European Grand Prix,ferrari,Finished,28.0
+2011,8,European Grand Prix,force_india,+1 Lap,2.0
+2011,8,European Grand Prix,hrt,+3 Laps,0.0
+2011,8,European Grand Prix,lotus_racing,+2 Laps,0.0
+2011,8,European Grand Prix,mclaren,Finished,20.0
+2011,8,European Grand Prix,mercedes,+1 Lap,0.0
+2011,8,European Grand Prix,mercedes,Finished,6.0
+2011,8,European Grand Prix,red_bull,Finished,40.0
+2011,8,European Grand Prix,renault,+1 Lap,1.0
+2011,8,European Grand Prix,sauber,+1 Lap,0.0
+2011,8,European Grand Prix,toro_rosso,+1 Lap,4.0
+2011,8,European Grand Prix,virgin,+2 Laps,0.0
+2011,8,European Grand Prix,williams,+1 Lap,0.0
+2011,9,British Grand Prix,ferrari,Finished,35.0
+2011,9,British Grand Prix,force_india,+1 Lap,0.0
+2011,9,British Grand Prix,force_india,Finished,0.0
+2011,9,British Grand Prix,hrt,+2 Laps,0.0
+2011,9,British Grand Prix,hrt,+3 Laps,0.0
+2011,9,British Grand Prix,lotus_racing,Gearbox,0.0
+2011,9,British Grand Prix,lotus_racing,Oil leak,0.0
+2011,9,British Grand Prix,mclaren,Finished,12.0
+2011,9,British Grand Prix,mclaren,Wheel nut,0.0
+2011,9,British Grand Prix,mercedes,Finished,10.0
+2011,9,British Grand Prix,red_bull,Finished,33.0
+2011,9,British Grand Prix,renault,Finished,4.0
+2011,9,British Grand Prix,sauber,Engine,0.0
+2011,9,British Grand Prix,sauber,Finished,6.0
+2011,9,British Grand Prix,toro_rosso,Accident,0.0
+2011,9,British Grand Prix,toro_rosso,Finished,1.0
+2011,9,British Grand Prix,virgin,+2 Laps,0.0
+2011,9,British Grand Prix,williams,+1 Lap,0.0
+2011,10,German Grand Prix,ferrari,Finished,28.0
+2011,10,German Grand Prix,force_india,+1 Lap,0.0
+2011,10,German Grand Prix,force_india,Finished,8.0
+2011,10,German Grand Prix,hrt,+3 Laps,0.0
+2011,10,German Grand Prix,hrt,Electrical,0.0
+2011,10,German Grand Prix,lotus_racing,+2 Laps,0.0
+2011,10,German Grand Prix,lotus_racing,+4 Laps,0.0
+2011,10,German Grand Prix,mclaren,Finished,25.0
+2011,10,German Grand Prix,mclaren,Hydraulics,0.0
+2011,10,German Grand Prix,mercedes,+1 Lap,10.0
+2011,10,German Grand Prix,red_bull,Finished,27.0
+2011,10,German Grand Prix,renault,+1 Lap,1.0
+2011,10,German Grand Prix,renault,Collision,0.0
+2011,10,German Grand Prix,sauber,+1 Lap,2.0
+2011,10,German Grand Prix,toro_rosso,+1 Lap,0.0
+2011,10,German Grand Prix,virgin,+3 Laps,0.0
+2011,10,German Grand Prix,williams,+1 Lap,0.0
+2011,10,German Grand Prix,williams,Oil leak,0.0
+2011,11,Hungarian Grand Prix,ferrari,Finished,23.0
+2011,11,Hungarian Grand Prix,force_india,+1 Lap,6.0
+2011,11,Hungarian Grand Prix,force_india,+2 Laps,0.0
+2011,11,Hungarian Grand Prix,hrt,+4 Laps,0.0
+2011,11,Hungarian Grand Prix,hrt,+5 Laps,0.0
+2011,11,Hungarian Grand Prix,lotus_racing,Oil leak,0.0
+2011,11,Hungarian Grand Prix,lotus_racing,Water leak,0.0
+2011,11,Hungarian Grand Prix,mclaren,Finished,37.0
+2011,11,Hungarian Grand Prix,mercedes,+1 Lap,2.0
+2011,11,Hungarian Grand Prix,mercedes,Gearbox,0.0
+2011,11,Hungarian Grand Prix,red_bull,Finished,28.0
+2011,11,Hungarian Grand Prix,renault,+1 Lap,0.0
+2011,11,Hungarian Grand Prix,renault,Heat shield fire,0.0
+2011,11,Hungarian Grand Prix,sauber,+1 Lap,0.0
+2011,11,Hungarian Grand Prix,sauber,+2 Laps,0.0
+2011,11,Hungarian Grand Prix,toro_rosso,+1 Lap,5.0
+2011,11,Hungarian Grand Prix,virgin,+4 Laps,0.0
+2011,11,Hungarian Grand Prix,virgin,+5 Laps,0.0
+2011,11,Hungarian Grand Prix,williams,+2 Laps,0.0
+2011,12,Belgian Grand Prix,ferrari,Finished,16.0
+2011,12,Belgian Grand Prix,force_india,Finished,6.0
+2011,12,Belgian Grand Prix,hrt,+1 Lap,0.0
+2011,12,Belgian Grand Prix,hrt,Engine,0.0
+2011,12,Belgian Grand Prix,lotus_racing,+1 Lap,0.0
+2011,12,Belgian Grand Prix,mclaren,Collision,0.0
+2011,12,Belgian Grand Prix,mclaren,Finished,15.0
+2011,12,Belgian Grand Prix,mercedes,Finished,18.0
+2011,12,Belgian Grand Prix,red_bull,Finished,43.0
+2011,12,Belgian Grand Prix,renault,Finished,2.0
+2011,12,Belgian Grand Prix,sauber,Finished,0.0
+2011,12,Belgian Grand Prix,sauber,Suspension,0.0
+2011,12,Belgian Grand Prix,toro_rosso,Collision,0.0
+2011,12,Belgian Grand Prix,toro_rosso,Rear wing,0.0
+2011,12,Belgian Grand Prix,virgin,+1 Lap,0.0
+2011,12,Belgian Grand Prix,williams,+1 Lap,0.0
+2011,12,Belgian Grand Prix,williams,Finished,1.0
+2011,13,Italian Grand Prix,ferrari,Finished,23.0
+2011,13,Italian Grand Prix,force_india,+1 Lap,4.0
+2011,13,Italian Grand Prix,force_india,Hydraulics,0.0
+2011,13,Italian Grand Prix,hrt,+14 Laps,0.0
+2011,13,Italian Grand Prix,hrt,Collision,0.0
+2011,13,Italian Grand Prix,lotus_racing,+2 Laps,0.0
+2011,13,Italian Grand Prix,mclaren,Finished,30.0
+2011,13,Italian Grand Prix,mercedes,Collision,0.0
+2011,13,Italian Grand Prix,mercedes,Finished,10.0
+2011,13,Italian Grand Prix,red_bull,Accident,0.0
+2011,13,Italian Grand Prix,red_bull,Finished,25.0
+2011,13,Italian Grand Prix,renault,+1 Lap,2.0
+2011,13,Italian Grand Prix,renault,Collision,0.0
+2011,13,Italian Grand Prix,sauber,Gearbox,0.0
+2011,13,Italian Grand Prix,toro_rosso,+1 Lap,7.0
+2011,13,Italian Grand Prix,virgin,+2 Laps,0.0
+2011,13,Italian Grand Prix,virgin,Gearbox,0.0
+2011,13,Italian Grand Prix,williams,+1 Lap,0.0
+2011,14,Singapore Grand Prix,ferrari,+1 Lap,2.0
+2011,14,Singapore Grand Prix,ferrari,Finished,12.0
+2011,14,Singapore Grand Prix,force_india,+1 Lap,4.0
+2011,14,Singapore Grand Prix,force_india,Finished,8.0
+2011,14,Singapore Grand Prix,hrt,+4 Laps,0.0
+2011,14,Singapore Grand Prix,lotus_racing,+2 Laps,0.0
+2011,14,Singapore Grand Prix,lotus_racing,Gearbox,0.0
+2011,14,Singapore Grand Prix,mclaren,Finished,28.0
+2011,14,Singapore Grand Prix,mercedes,+1 Lap,6.0
+2011,14,Singapore Grand Prix,mercedes,Accident,0.0
+2011,14,Singapore Grand Prix,red_bull,Finished,40.0
+2011,14,Singapore Grand Prix,renault,+2 Laps,0.0
+2011,14,Singapore Grand Prix,sauber,+1 Lap,1.0
+2011,14,Singapore Grand Prix,sauber,+2 Laps,0.0
+2011,14,Singapore Grand Prix,toro_rosso,+1 Lap,0.0
+2011,14,Singapore Grand Prix,toro_rosso,Accident,0.0
+2011,14,Singapore Grand Prix,virgin,+2 Laps,0.0
+2011,14,Singapore Grand Prix,virgin,Accident,0.0
+2011,14,Singapore Grand Prix,williams,+1 Lap,0.0
+2011,15,Japanese Grand Prix,ferrari,Finished,24.0
+2011,15,Japanese Grand Prix,force_india,Finished,0.0
+2011,15,Japanese Grand Prix,hrt,+2 Laps,0.0
+2011,15,Japanese Grand Prix,hrt,+3 Laps,0.0
+2011,15,Japanese Grand Prix,lotus_racing,Finished,0.0
+2011,15,Japanese Grand Prix,mclaren,Finished,35.0
+2011,15,Japanese Grand Prix,mercedes,Finished,9.0
+2011,15,Japanese Grand Prix,red_bull,Finished,27.0
+2011,15,Japanese Grand Prix,renault,Finished,2.0
+2011,15,Japanese Grand Prix,sauber,Finished,4.0
+2011,15,Japanese Grand Prix,toro_rosso,Finished,0.0
+2011,15,Japanese Grand Prix,toro_rosso,Wheel,0.0
+2011,15,Japanese Grand Prix,virgin,+2 Laps,0.0
+2011,15,Japanese Grand Prix,williams,Finished,0.0
+2011,16,Korean Grand Prix,ferrari,Finished,18.0
+2011,16,Korean Grand Prix,force_india,Finished,1.0
+2011,16,Korean Grand Prix,hrt,+1 Lap,0.0
+2011,16,Korean Grand Prix,hrt,+3 Laps,0.0
+2011,16,Korean Grand Prix,lotus_racing,+1 Lap,0.0
+2011,16,Korean Grand Prix,mclaren,Finished,30.0
+2011,16,Korean Grand Prix,mercedes,Collision,0.0
+2011,16,Korean Grand Prix,mercedes,Finished,4.0
+2011,16,Korean Grand Prix,red_bull,Finished,40.0
+2011,16,Korean Grand Prix,renault,+1 Lap,0.0
+2011,16,Korean Grand Prix,renault,Collision,0.0
+2011,16,Korean Grand Prix,sauber,+1 Lap,0.0
+2011,16,Korean Grand Prix,toro_rosso,Finished,8.0
+2011,16,Korean Grand Prix,virgin,+1 Lap,0.0
+2011,16,Korean Grand Prix,williams,Clutch,0.0
+2011,16,Korean Grand Prix,williams,Finished,0.0
+2011,17,Indian Grand Prix,ferrari,Finished,15.0
+2011,17,Indian Grand Prix,ferrari,Suspension,0.0
+2011,17,Indian Grand Prix,force_india,+1 Lap,2.0
+2011,17,Indian Grand Prix,hrt,+3 Laps,0.0
+2011,17,Indian Grand Prix,lotus_racing,+2 Laps,0.0
+2011,17,Indian Grand Prix,lotus_racing,+5 Laps,0.0
+2011,17,Indian Grand Prix,mclaren,Finished,24.0
+2011,17,Indian Grand Prix,mercedes,Finished,18.0
+2011,17,Indian Grand Prix,red_bull,Finished,37.0
+2011,17,Indian Grand Prix,renault,+1 Lap,0.0
+2011,17,Indian Grand Prix,sauber,+1 Lap,1.0
+2011,17,Indian Grand Prix,sauber,Collision,0.0
+2011,17,Indian Grand Prix,toro_rosso,+1 Lap,4.0
+2011,17,Indian Grand Prix,toro_rosso,Engine,0.0
+2011,17,Indian Grand Prix,virgin,+3 Laps,0.0
+2011,17,Indian Grand Prix,virgin,Collision,0.0
+2011,17,Indian Grand Prix,williams,+2 Laps,0.0
+2011,17,Indian Grand Prix,williams,Gearbox,0.0
+2011,18,Abu Dhabi Grand Prix,ferrari,Finished,28.0
+2011,18,Abu Dhabi Grand Prix,force_india,Finished,6.0
+2011,18,Abu Dhabi Grand Prix,hrt,+2 Laps,0.0
+2011,18,Abu Dhabi Grand Prix,hrt,Mechanical,0.0
+2011,18,Abu Dhabi Grand Prix,lotus_racing,+1 Lap,0.0
+2011,18,Abu Dhabi Grand Prix,lotus_racing,+2 Laps,0.0
+2011,18,Abu Dhabi Grand Prix,mclaren,Finished,40.0
+2011,18,Abu Dhabi Grand Prix,mercedes,Finished,14.0
+2011,18,Abu Dhabi Grand Prix,red_bull,Finished,12.0
+2011,18,Abu Dhabi Grand Prix,red_bull,Puncture,0.0
+2011,18,Abu Dhabi Grand Prix,renault,+1 Lap,0.0
+2011,18,Abu Dhabi Grand Prix,sauber,+1 Lap,1.0
+2011,18,Abu Dhabi Grand Prix,toro_rosso,+1 Lap,0.0
+2011,18,Abu Dhabi Grand Prix,toro_rosso,Hydraulics,0.0
+2011,18,Abu Dhabi Grand Prix,virgin,+2 Laps,0.0
+2011,18,Abu Dhabi Grand Prix,virgin,Brakes,0.0
+2011,18,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2011,19,Brazilian Grand Prix,ferrari,Finished,22.0
+2011,19,Brazilian Grand Prix,force_india,+1 Lap,12.0
+2011,19,Brazilian Grand Prix,hrt,+3 Laps,0.0
+2011,19,Brazilian Grand Prix,hrt,Retired,0.0
+2011,19,Brazilian Grand Prix,lotus_racing,+2 Laps,0.0
+2011,19,Brazilian Grand Prix,mclaren,Finished,15.0
+2011,19,Brazilian Grand Prix,mclaren,Gearbox,0.0
+2011,19,Brazilian Grand Prix,mercedes,+1 Lap,6.0
+2011,19,Brazilian Grand Prix,red_bull,Finished,43.0
+2011,19,Brazilian Grand Prix,renault,+1 Lap,1.0
+2011,19,Brazilian Grand Prix,renault,+2 Laps,0.0
+2011,19,Brazilian Grand Prix,sauber,+1 Lap,2.0
+2011,19,Brazilian Grand Prix,toro_rosso,+1 Lap,0.0
+2011,19,Brazilian Grand Prix,virgin,+3 Laps,0.0
+2011,19,Brazilian Grand Prix,virgin,Retired,0.0
+2011,19,Brazilian Grand Prix,williams,+1 Lap,0.0
+2011,19,Brazilian Grand Prix,williams,Retired,0.0
+2012,1,Australian Grand Prix,caterham,Steering,0.0
+2012,1,Australian Grand Prix,caterham,Suspension,0.0
+2012,1,Australian Grand Prix,ferrari,Collision,0.0
+2012,1,Australian Grand Prix,ferrari,Finished,10.0
+2012,1,Australian Grand Prix,force_india,Collision,0.0
+2012,1,Australian Grand Prix,force_india,Finished,1.0
+2012,1,Australian Grand Prix,hrt,Did not qualify,0.0
+2012,1,Australian Grand Prix,lotus_f1,Collision,0.0
+2012,1,Australian Grand Prix,lotus_f1,Finished,6.0
+2012,1,Australian Grand Prix,marussia,+1 Lap,0.0
+2012,1,Australian Grand Prix,marussia,+5 Laps,0.0
+2012,1,Australian Grand Prix,mclaren,Finished,40.0
+2012,1,Australian Grand Prix,mercedes,Finished,0.0
+2012,1,Australian Grand Prix,mercedes,Gearbox,0.0
+2012,1,Australian Grand Prix,red_bull,Finished,30.0
+2012,1,Australian Grand Prix,sauber,Finished,12.0
+2012,1,Australian Grand Prix,toro_rosso,Finished,2.0
+2012,1,Australian Grand Prix,williams,Accident,0.0
+2012,1,Australian Grand Prix,williams,Collision,0.0
+2012,2,Malaysian Grand Prix,caterham,+1 Lap,0.0
+2012,2,Malaysian Grand Prix,ferrari,Finished,25.0
+2012,2,Malaysian Grand Prix,force_india,Finished,8.0
+2012,2,Malaysian Grand Prix,hrt,+2 Laps,0.0
+2012,2,Malaysian Grand Prix,lotus_f1,Collision,0.0
+2012,2,Malaysian Grand Prix,lotus_f1,Finished,10.0
+2012,2,Malaysian Grand Prix,marussia,+1 Lap,0.0
+2012,2,Malaysian Grand Prix,marussia,+2 Laps,0.0
+2012,2,Malaysian Grand Prix,mclaren,Finished,15.0
+2012,2,Malaysian Grand Prix,mercedes,Finished,1.0
+2012,2,Malaysian Grand Prix,red_bull,Finished,12.0
+2012,2,Malaysian Grand Prix,sauber,Finished,18.0
+2012,2,Malaysian Grand Prix,sauber,Retired,0.0
+2012,2,Malaysian Grand Prix,toro_rosso,Finished,4.0
+2012,2,Malaysian Grand Prix,williams,Engine,0.0
+2012,2,Malaysian Grand Prix,williams,Finished,8.0
+2012,3,Chinese Grand Prix,caterham,+1 Lap,0.0
+2012,3,Chinese Grand Prix,caterham,+3 Laps,0.0
+2012,3,Chinese Grand Prix,ferrari,Finished,2.0
+2012,3,Chinese Grand Prix,force_india,Finished,0.0
+2012,3,Chinese Grand Prix,hrt,+1 Lap,0.0
+2012,3,Chinese Grand Prix,hrt,+2 Laps,0.0
+2012,3,Chinese Grand Prix,lotus_f1,Finished,8.0
+2012,3,Chinese Grand Prix,marussia,+1 Lap,0.0
+2012,3,Chinese Grand Prix,mclaren,Finished,33.0
+2012,3,Chinese Grand Prix,mercedes,Finished,25.0
+2012,3,Chinese Grand Prix,mercedes,Wheel nut,0.0
+2012,3,Chinese Grand Prix,red_bull,Finished,22.0
+2012,3,Chinese Grand Prix,sauber,Finished,1.0
+2012,3,Chinese Grand Prix,toro_rosso,Finished,0.0
+2012,3,Chinese Grand Prix,williams,Finished,10.0
+2012,4,Bahrain Grand Prix,caterham,+1 Lap,0.0
+2012,4,Bahrain Grand Prix,ferrari,Finished,8.0
+2012,4,Bahrain Grand Prix,force_india,Finished,8.0
+2012,4,Bahrain Grand Prix,hrt,+2 Laps,0.0
+2012,4,Bahrain Grand Prix,lotus_f1,Finished,33.0
+2012,4,Bahrain Grand Prix,marussia,+2 Laps,0.0
+2012,4,Bahrain Grand Prix,marussia,Engine,0.0
+2012,4,Bahrain Grand Prix,mclaren,Exhaust,0.0
+2012,4,Bahrain Grand Prix,mclaren,Finished,4.0
+2012,4,Bahrain Grand Prix,mercedes,Finished,11.0
+2012,4,Bahrain Grand Prix,red_bull,Finished,37.0
+2012,4,Bahrain Grand Prix,sauber,Finished,0.0
+2012,4,Bahrain Grand Prix,toro_rosso,+1 Lap,0.0
+2012,4,Bahrain Grand Prix,toro_rosso,Finished,0.0
+2012,4,Bahrain Grand Prix,williams,Puncture,0.0
+2012,4,Bahrain Grand Prix,williams,Vibrations,0.0
+2012,5,Spanish Grand Prix,caterham,+1 Lap,0.0
+2012,5,Spanish Grand Prix,ferrari,+1 Lap,0.0
+2012,5,Spanish Grand Prix,ferrari,Finished,18.0
+2012,5,Spanish Grand Prix,force_india,+1 Lap,1.0
+2012,5,Spanish Grand Prix,hrt,+3 Laps,0.0
+2012,5,Spanish Grand Prix,hrt,Mechanical,0.0
+2012,5,Spanish Grand Prix,lotus_f1,Finished,27.0
+2012,5,Spanish Grand Prix,marussia,+2 Laps,0.0
+2012,5,Spanish Grand Prix,marussia,Mechanical,0.0
+2012,5,Spanish Grand Prix,mclaren,Finished,6.0
+2012,5,Spanish Grand Prix,mercedes,Collision,0.0
+2012,5,Spanish Grand Prix,mercedes,Finished,6.0
+2012,5,Spanish Grand Prix,red_bull,+1 Lap,0.0
+2012,5,Spanish Grand Prix,red_bull,Finished,8.0
+2012,5,Spanish Grand Prix,sauber,Finished,10.0
+2012,5,Spanish Grand Prix,sauber,Wheel nut,0.0
+2012,5,Spanish Grand Prix,toro_rosso,+1 Lap,0.0
+2012,5,Spanish Grand Prix,williams,Collision,0.0
+2012,5,Spanish Grand Prix,williams,Finished,25.0
+2012,6,Monaco Grand Prix,caterham,+1 Lap,0.0
+2012,6,Monaco Grand Prix,caterham,Electrical,0.0
+2012,6,Monaco Grand Prix,ferrari,Finished,23.0
+2012,6,Monaco Grand Prix,force_india,Finished,10.0
+2012,6,Monaco Grand Prix,hrt,+2 Laps,0.0
+2012,6,Monaco Grand Prix,hrt,Accident,0.0
+2012,6,Monaco Grand Prix,lotus_f1,Accident,0.0
+2012,6,Monaco Grand Prix,lotus_f1,Finished,2.0
+2012,6,Monaco Grand Prix,marussia,+1 Lap,0.0
+2012,6,Monaco Grand Prix,marussia,Retired,0.0
+2012,6,Monaco Grand Prix,mclaren,Collision,0.0
+2012,6,Monaco Grand Prix,mclaren,Finished,10.0
+2012,6,Monaco Grand Prix,mercedes,Finished,18.0
+2012,6,Monaco Grand Prix,mercedes,Fuel pressure,0.0
+2012,6,Monaco Grand Prix,red_bull,Finished,37.0
+2012,6,Monaco Grand Prix,sauber,+1 Lap,0.0
+2012,6,Monaco Grand Prix,sauber,Accident,0.0
+2012,6,Monaco Grand Prix,toro_rosso,+1 Lap,0.0
+2012,6,Monaco Grand Prix,toro_rosso,Retired,0.0
+2012,6,Monaco Grand Prix,williams,Accident,0.0
+2012,6,Monaco Grand Prix,williams,Finished,1.0
+2012,7,Canadian Grand Prix,caterham,+1 Lap,0.0
+2012,7,Canadian Grand Prix,ferrari,Finished,11.0
+2012,7,Canadian Grand Prix,force_india,Finished,0.0
+2012,7,Canadian Grand Prix,hrt,Brakes,0.0
+2012,7,Canadian Grand Prix,hrt,Suspension,0.0
+2012,7,Canadian Grand Prix,lotus_f1,Finished,22.0
+2012,7,Canadian Grand Prix,marussia,+3 Laps,0.0
+2012,7,Canadian Grand Prix,marussia,Suspension,0.0
+2012,7,Canadian Grand Prix,mclaren,+1 Lap,0.0
+2012,7,Canadian Grand Prix,mclaren,Finished,25.0
+2012,7,Canadian Grand Prix,mercedes,Finished,8.0
+2012,7,Canadian Grand Prix,mercedes,Rear wing,0.0
+2012,7,Canadian Grand Prix,red_bull,Finished,18.0
+2012,7,Canadian Grand Prix,sauber,Finished,17.0
+2012,7,Canadian Grand Prix,toro_rosso,+1 Lap,0.0
+2012,7,Canadian Grand Prix,toro_rosso,Finished,0.0
+2012,7,Canadian Grand Prix,williams,+1 Lap,0.0
+2012,7,Canadian Grand Prix,williams,Finished,0.0
+2012,8,European Grand Prix,caterham,Finished,0.0
+2012,8,European Grand Prix,ferrari,+1 Lap,0.0
+2012,8,European Grand Prix,ferrari,Finished,25.0
+2012,8,European Grand Prix,force_india,Finished,16.0
+2012,8,European Grand Prix,hrt,+1 Lap,0.0
+2012,8,European Grand Prix,lotus_f1,Electronics,0.0
+2012,8,European Grand Prix,lotus_f1,Finished,18.0
+2012,8,European Grand Prix,marussia,Finished,0.0
+2012,8,European Grand Prix,marussia,Withdrew,0.0
+2012,8,European Grand Prix,mclaren,Collision,0.0
+2012,8,European Grand Prix,mclaren,Finished,4.0
+2012,8,European Grand Prix,mercedes,Finished,23.0
+2012,8,European Grand Prix,red_bull,Finished,12.0
+2012,8,European Grand Prix,red_bull,Gearbox,0.0
+2012,8,European Grand Prix,sauber,Collision,0.0
+2012,8,European Grand Prix,sauber,Finished,2.0
+2012,8,European Grand Prix,toro_rosso,Collision,0.0
+2012,8,European Grand Prix,toro_rosso,Finished,0.0
+2012,8,European Grand Prix,williams,Finished,1.0
+2012,9,British Grand Prix,caterham,+1 Lap,0.0
+2012,9,British Grand Prix,caterham,Engine,0.0
+2012,9,British Grand Prix,ferrari,Finished,30.0
+2012,9,British Grand Prix,force_india,Collision,0.0
+2012,9,British Grand Prix,force_india,Finished,0.0
+2012,9,British Grand Prix,hrt,+2 Laps,0.0
+2012,9,British Grand Prix,lotus_f1,Finished,18.0
+2012,9,British Grand Prix,marussia,+1 Lap,0.0
+2012,9,British Grand Prix,mclaren,Finished,5.0
+2012,9,British Grand Prix,mercedes,Finished,6.0
+2012,9,British Grand Prix,red_bull,Finished,40.0
+2012,9,British Grand Prix,sauber,Collision,0.0
+2012,9,British Grand Prix,sauber,Finished,0.0
+2012,9,British Grand Prix,toro_rosso,Finished,0.0
+2012,9,British Grand Prix,williams,+1 Lap,0.0
+2012,9,British Grand Prix,williams,Finished,2.0
+2012,10,German Grand Prix,caterham,+1 Lap,0.0
+2012,10,German Grand Prix,caterham,+2 Laps,0.0
+2012,10,German Grand Prix,ferrari,Finished,25.0
+2012,10,German Grand Prix,force_india,Finished,2.0
+2012,10,German Grand Prix,hrt,+3 Laps,0.0
+2012,10,German Grand Prix,lotus_f1,+1 Lap,0.0
+2012,10,German Grand Prix,lotus_f1,Finished,15.0
+2012,10,German Grand Prix,marussia,+2 Laps,0.0
+2012,10,German Grand Prix,marussia,+3 Laps,0.0
+2012,10,German Grand Prix,mclaren,Finished,18.0
+2012,10,German Grand Prix,mclaren,Puncture,0.0
+2012,10,German Grand Prix,mercedes,Finished,7.0
+2012,10,German Grand Prix,red_bull,Finished,14.0
+2012,10,German Grand Prix,sauber,Finished,20.0
+2012,10,German Grand Prix,toro_rosso,Finished,0.0
+2012,10,German Grand Prix,williams,+1 Lap,0.0
+2012,11,Hungarian Grand Prix,caterham,+1 Lap,0.0
+2012,11,Hungarian Grand Prix,caterham,+2 Laps,0.0
+2012,11,Hungarian Grand Prix,ferrari,Finished,12.0
+2012,11,Hungarian Grand Prix,force_india,Finished,0.0
+2012,11,Hungarian Grand Prix,hrt,+3 Laps,0.0
+2012,11,Hungarian Grand Prix,hrt,Suspension,0.0
+2012,11,Hungarian Grand Prix,lotus_f1,Finished,33.0
+2012,11,Hungarian Grand Prix,marussia,+2 Laps,0.0
+2012,11,Hungarian Grand Prix,marussia,+3 Laps,0.0
+2012,11,Hungarian Grand Prix,mclaren,Finished,33.0
+2012,11,Hungarian Grand Prix,mercedes,+11 Laps,0.0
+2012,11,Hungarian Grand Prix,mercedes,Finished,1.0
+2012,11,Hungarian Grand Prix,red_bull,Finished,16.0
+2012,11,Hungarian Grand Prix,sauber,+2 Laps,0.0
+2012,11,Hungarian Grand Prix,sauber,Finished,0.0
+2012,11,Hungarian Grand Prix,toro_rosso,+1 Lap,0.0
+2012,11,Hungarian Grand Prix,williams,Finished,6.0
+2012,12,Belgian Grand Prix,caterham,+1 Lap,0.0
+2012,12,Belgian Grand Prix,ferrari,Collision,0.0
+2012,12,Belgian Grand Prix,ferrari,Finished,10.0
+2012,12,Belgian Grand Prix,force_india,Finished,13.0
+2012,12,Belgian Grand Prix,hrt,+1 Lap,0.0
+2012,12,Belgian Grand Prix,hrt,Spun off,0.0
+2012,12,Belgian Grand Prix,lotus_f1,Collision,0.0
+2012,12,Belgian Grand Prix,lotus_f1,Finished,15.0
+2012,12,Belgian Grand Prix,marussia,+1 Lap,0.0
+2012,12,Belgian Grand Prix,mclaren,Collision,0.0
+2012,12,Belgian Grand Prix,mclaren,Finished,25.0
+2012,12,Belgian Grand Prix,mercedes,Finished,6.0
+2012,12,Belgian Grand Prix,red_bull,Finished,26.0
+2012,12,Belgian Grand Prix,sauber,Collision,0.0
+2012,12,Belgian Grand Prix,sauber,Finished,0.0
+2012,12,Belgian Grand Prix,toro_rosso,Finished,6.0
+2012,12,Belgian Grand Prix,williams,Collision,0.0
+2012,12,Belgian Grand Prix,williams,Finished,0.0
+2012,13,Italian Grand Prix,caterham,+1 Lap,0.0
+2012,13,Italian Grand Prix,ferrari,Finished,27.0
+2012,13,Italian Grand Prix,force_india,Brakes,0.0
+2012,13,Italian Grand Prix,force_india,Finished,4.0
+2012,13,Italian Grand Prix,hrt,+1 Lap,0.0
+2012,13,Italian Grand Prix,lotus_f1,Finished,10.0
+2012,13,Italian Grand Prix,marussia,+1 Lap,0.0
+2012,13,Italian Grand Prix,mclaren,Finished,25.0
+2012,13,Italian Grand Prix,mclaren,Fuel pressure,0.0
+2012,13,Italian Grand Prix,mercedes,Finished,14.0
+2012,13,Italian Grand Prix,red_bull,Alternator,0.0
+2012,13,Italian Grand Prix,red_bull,Vibrations,0.0
+2012,13,Italian Grand Prix,sauber,Finished,20.0
+2012,13,Italian Grand Prix,toro_rosso,Finished,0.0
+2012,13,Italian Grand Prix,toro_rosso,Suspension,0.0
+2012,13,Italian Grand Prix,williams,Finished,1.0
+2012,14,Singapore Grand Prix,caterham,+2 Laps,0.0
+2012,14,Singapore Grand Prix,caterham,Finished,0.0
+2012,14,Singapore Grand Prix,ferrari,Finished,19.0
+2012,14,Singapore Grand Prix,force_india,Finished,12.0
+2012,14,Singapore Grand Prix,hrt,+1 Lap,0.0
+2012,14,Singapore Grand Prix,hrt,Accident,0.0
+2012,14,Singapore Grand Prix,lotus_f1,Finished,14.0
+2012,14,Singapore Grand Prix,marussia,Finished,0.0
+2012,14,Singapore Grand Prix,mclaren,Finished,18.0
+2012,14,Singapore Grand Prix,mclaren,Gearbox,0.0
+2012,14,Singapore Grand Prix,mercedes,Collision,0.0
+2012,14,Singapore Grand Prix,mercedes,Finished,10.0
+2012,14,Singapore Grand Prix,red_bull,Finished,25.0
+2012,14,Singapore Grand Prix,sauber,Finished,1.0
+2012,14,Singapore Grand Prix,toro_rosso,Collision,0.0
+2012,14,Singapore Grand Prix,toro_rosso,Finished,2.0
+2012,14,Singapore Grand Prix,williams,Hydraulics,0.0
+2012,14,Singapore Grand Prix,williams,Retired,0.0
+2012,15,Japanese Grand Prix,caterham,+1 Lap,0.0
+2012,15,Japanese Grand Prix,ferrari,Collision,0.0
+2012,15,Japanese Grand Prix,ferrari,Finished,18.0
+2012,15,Japanese Grand Prix,force_india,Finished,6.0
+2012,15,Japanese Grand Prix,hrt,+1 Lap,0.0
+2012,15,Japanese Grand Prix,hrt,Vibrations,0.0
+2012,15,Japanese Grand Prix,lotus_f1,+2 Laps,0.0
+2012,15,Japanese Grand Prix,lotus_f1,Finished,8.0
+2012,15,Japanese Grand Prix,marussia,+1 Lap,0.0
+2012,15,Japanese Grand Prix,marussia,Engine,0.0
+2012,15,Japanese Grand Prix,mclaren,Finished,22.0
+2012,15,Japanese Grand Prix,mercedes,Collision,0.0
+2012,15,Japanese Grand Prix,mercedes,Finished,0.0
+2012,15,Japanese Grand Prix,red_bull,Finished,27.0
+2012,15,Japanese Grand Prix,sauber,Finished,15.0
+2012,15,Japanese Grand Prix,sauber,Spun off,0.0
+2012,15,Japanese Grand Prix,toro_rosso,Finished,1.0
+2012,15,Japanese Grand Prix,williams,Finished,4.0
+2012,16,Korean Grand Prix,caterham,+1 Lap,0.0
+2012,16,Korean Grand Prix,ferrari,Finished,27.0
+2012,16,Korean Grand Prix,force_india,Finished,8.0
+2012,16,Korean Grand Prix,hrt,+2 Laps,0.0
+2012,16,Korean Grand Prix,hrt,Throttle,0.0
+2012,16,Korean Grand Prix,lotus_f1,Finished,16.0
+2012,16,Korean Grand Prix,marussia,+1 Lap,0.0
+2012,16,Korean Grand Prix,marussia,+2 Laps,0.0
+2012,16,Korean Grand Prix,mclaren,Collision,0.0
+2012,16,Korean Grand Prix,mclaren,Finished,1.0
+2012,16,Korean Grand Prix,mercedes,Collision,0.0
+2012,16,Korean Grand Prix,mercedes,Finished,0.0
+2012,16,Korean Grand Prix,red_bull,Finished,43.0
+2012,16,Korean Grand Prix,sauber,Collision damage,0.0
+2012,16,Korean Grand Prix,sauber,Finished,0.0
+2012,16,Korean Grand Prix,toro_rosso,Finished,6.0
+2012,16,Korean Grand Prix,williams,Finished,0.0
+2012,17,Indian Grand Prix,caterham,+1 Lap,0.0
+2012,17,Indian Grand Prix,ferrari,Finished,26.0
+2012,17,Indian Grand Prix,force_india,Finished,4.0
+2012,17,Indian Grand Prix,hrt,+2 Laps,0.0
+2012,17,Indian Grand Prix,hrt,Accident,0.0
+2012,17,Indian Grand Prix,lotus_f1,Finished,8.0
+2012,17,Indian Grand Prix,marussia,+1 Lap,0.0
+2012,17,Indian Grand Prix,marussia,+2 Laps,0.0
+2012,17,Indian Grand Prix,mclaren,Finished,22.0
+2012,17,Indian Grand Prix,mercedes,Finished,0.0
+2012,17,Indian Grand Prix,mercedes,Retired,0.0
+2012,17,Indian Grand Prix,red_bull,Finished,40.0
+2012,17,Indian Grand Prix,sauber,Accident,0.0
+2012,17,Indian Grand Prix,sauber,Finished,0.0
+2012,17,Indian Grand Prix,toro_rosso,+1 Lap,0.0
+2012,17,Indian Grand Prix,toro_rosso,Finished,0.0
+2012,17,Indian Grand Prix,williams,+1 Lap,0.0
+2012,17,Indian Grand Prix,williams,Finished,1.0
+2012,18,Abu Dhabi Grand Prix,caterham,Finished,0.0
+2012,18,Abu Dhabi Grand Prix,ferrari,Finished,24.0
+2012,18,Abu Dhabi Grand Prix,force_india,Collision,0.0
+2012,18,Abu Dhabi Grand Prix,force_india,Finished,2.0
+2012,18,Abu Dhabi Grand Prix,hrt,Collision,0.0
+2012,18,Abu Dhabi Grand Prix,hrt,Finished,0.0
+2012,18,Abu Dhabi Grand Prix,lotus_f1,Collision,0.0
+2012,18,Abu Dhabi Grand Prix,lotus_f1,Finished,25.0
+2012,18,Abu Dhabi Grand Prix,marussia,Finished,0.0
+2012,18,Abu Dhabi Grand Prix,marussia,Retired,0.0
+2012,18,Abu Dhabi Grand Prix,mclaren,Electrical,0.0
+2012,18,Abu Dhabi Grand Prix,mclaren,Finished,12.0
+2012,18,Abu Dhabi Grand Prix,mercedes,Collision,0.0
+2012,18,Abu Dhabi Grand Prix,mercedes,Finished,0.0
+2012,18,Abu Dhabi Grand Prix,red_bull,Collision,0.0
+2012,18,Abu Dhabi Grand Prix,red_bull,Finished,15.0
+2012,18,Abu Dhabi Grand Prix,sauber,Finished,8.0
+2012,18,Abu Dhabi Grand Prix,toro_rosso,Finished,1.0
+2012,18,Abu Dhabi Grand Prix,williams,Finished,14.0
+2012,19,United States Grand Prix,caterham,+1 Lap,0.0
+2012,19,United States Grand Prix,ferrari,Finished,27.0
+2012,19,United States Grand Prix,force_india,+1 Lap,0.0
+2012,19,United States Grand Prix,force_india,Finished,4.0
+2012,19,United States Grand Prix,hrt,+2 Laps,0.0
+2012,19,United States Grand Prix,lotus_f1,Finished,14.0
+2012,19,United States Grand Prix,marussia,+1 Lap,0.0
+2012,19,United States Grand Prix,marussia,+2 Laps,0.0
+2012,19,United States Grand Prix,mclaren,Finished,35.0
+2012,19,United States Grand Prix,mercedes,+1 Lap,0.0
+2012,19,United States Grand Prix,mercedes,Finished,0.0
+2012,19,United States Grand Prix,red_bull,Alternator,0.0
+2012,19,United States Grand Prix,red_bull,Finished,18.0
+2012,19,United States Grand Prix,sauber,+1 Lap,0.0
+2012,19,United States Grand Prix,sauber,Finished,0.0
+2012,19,United States Grand Prix,toro_rosso,Finished,0.0
+2012,19,United States Grand Prix,toro_rosso,Suspension,0.0
+2012,19,United States Grand Prix,williams,Finished,3.0
+2012,20,Brazilian Grand Prix,caterham,+1 Lap,0.0
+2012,20,Brazilian Grand Prix,ferrari,Finished,33.0
+2012,20,Brazilian Grand Prix,force_india,Accident,0.0
+2012,20,Brazilian Grand Prix,force_india,Finished,10.0
+2012,20,Brazilian Grand Prix,hrt,+2 Laps,0.0
+2012,20,Brazilian Grand Prix,lotus_f1,+1 Lap,1.0
+2012,20,Brazilian Grand Prix,lotus_f1,Accident,0.0
+2012,20,Brazilian Grand Prix,marussia,+1 Lap,0.0
+2012,20,Brazilian Grand Prix,mclaren,Collision,0.0
+2012,20,Brazilian Grand Prix,mclaren,Finished,25.0
+2012,20,Brazilian Grand Prix,mercedes,+1 Lap,0.0
+2012,20,Brazilian Grand Prix,mercedes,Finished,6.0
+2012,20,Brazilian Grand Prix,red_bull,Finished,20.0
+2012,20,Brazilian Grand Prix,sauber,Collision,0.0
+2012,20,Brazilian Grand Prix,sauber,Finished,2.0
+2012,20,Brazilian Grand Prix,toro_rosso,+1 Lap,0.0
+2012,20,Brazilian Grand Prix,toro_rosso,Finished,4.0
+2012,20,Brazilian Grand Prix,williams,Collision,0.0
+2013,1,Australian Grand Prix,caterham,+2 Laps,0.0
+2013,1,Australian Grand Prix,ferrari,Finished,30.0
+2013,1,Australian Grand Prix,force_india,Finished,10.0
+2013,1,Australian Grand Prix,lotus_f1,Finished,26.0
+2013,1,Australian Grand Prix,marussia,+1 Lap,0.0
+2013,1,Australian Grand Prix,marussia,+2 Laps,0.0
+2013,1,Australian Grand Prix,mclaren,Finished,2.0
+2013,1,Australian Grand Prix,mercedes,Electrical,0.0
+2013,1,Australian Grand Prix,mercedes,Finished,10.0
+2013,1,Australian Grand Prix,red_bull,Finished,23.0
+2013,1,Australian Grand Prix,sauber,+1 Lap,0.0
+2013,1,Australian Grand Prix,sauber,Fuel system,0.0
+2013,1,Australian Grand Prix,toro_rosso,Finished,0.0
+2013,1,Australian Grand Prix,toro_rosso,Hydraulics,0.0
+2013,1,Australian Grand Prix,williams,+1 Lap,0.0
+2013,1,Australian Grand Prix,williams,Spun off,0.0
+2013,2,Malaysian Grand Prix,caterham,+1 Lap,0.0
+2013,2,Malaysian Grand Prix,ferrari,Collision,0.0
+2013,2,Malaysian Grand Prix,ferrari,Finished,10.0
+2013,2,Malaysian Grand Prix,force_india,Wheel nut,0.0
+2013,2,Malaysian Grand Prix,lotus_f1,Finished,14.0
+2013,2,Malaysian Grand Prix,marussia,+1 Lap,0.0
+2013,2,Malaysian Grand Prix,marussia,+2 Laps,0.0
+2013,2,Malaysian Grand Prix,mclaren,Finished,2.0
+2013,2,Malaysian Grand Prix,mclaren,Withdrew,0.0
+2013,2,Malaysian Grand Prix,mercedes,Finished,27.0
+2013,2,Malaysian Grand Prix,red_bull,Finished,43.0
+2013,2,Malaysian Grand Prix,sauber,+1 Lap,0.0
+2013,2,Malaysian Grand Prix,sauber,Finished,4.0
+2013,2,Malaysian Grand Prix,toro_rosso,Finished,1.0
+2013,2,Malaysian Grand Prix,toro_rosso,Retired,0.0
+2013,2,Malaysian Grand Prix,williams,Finished,0.0
+2013,2,Malaysian Grand Prix,williams,Retired,0.0
+2013,3,Chinese Grand Prix,caterham,+1 Lap,0.0
+2013,3,Chinese Grand Prix,ferrari,Finished,33.0
+2013,3,Chinese Grand Prix,force_india,Collision,0.0
+2013,3,Chinese Grand Prix,force_india,Finished,4.0
+2013,3,Chinese Grand Prix,lotus_f1,Finished,20.0
+2013,3,Chinese Grand Prix,marussia,+1 Lap,0.0
+2013,3,Chinese Grand Prix,mclaren,Finished,10.0
+2013,3,Chinese Grand Prix,mercedes,Finished,15.0
+2013,3,Chinese Grand Prix,mercedes,Suspension,0.0
+2013,3,Chinese Grand Prix,red_bull,Finished,12.0
+2013,3,Chinese Grand Prix,red_bull,Wheel,0.0
+2013,3,Chinese Grand Prix,sauber,Collision,0.0
+2013,3,Chinese Grand Prix,sauber,Finished,1.0
+2013,3,Chinese Grand Prix,toro_rosso,Finished,6.0
+2013,3,Chinese Grand Prix,williams,Finished,0.0
+2013,4,Bahrain Grand Prix,caterham,+1 Lap,0.0
+2013,4,Bahrain Grand Prix,caterham,+2 Laps,0.0
+2013,4,Bahrain Grand Prix,ferrari,Finished,4.0
+2013,4,Bahrain Grand Prix,force_india,Finished,12.0
+2013,4,Bahrain Grand Prix,lotus_f1,Finished,33.0
+2013,4,Bahrain Grand Prix,marussia,+1 Lap,0.0
+2013,4,Bahrain Grand Prix,mclaren,Finished,9.0
+2013,4,Bahrain Grand Prix,mercedes,Finished,12.0
+2013,4,Bahrain Grand Prix,red_bull,Finished,31.0
+2013,4,Bahrain Grand Prix,sauber,+1 Lap,0.0
+2013,4,Bahrain Grand Prix,sauber,Finished,0.0
+2013,4,Bahrain Grand Prix,toro_rosso,+1 Lap,0.0
+2013,4,Bahrain Grand Prix,toro_rosso,Puncture,0.0
+2013,4,Bahrain Grand Prix,williams,Finished,0.0
+2013,5,Spanish Grand Prix,caterham,+1 Lap,0.0
+2013,5,Spanish Grand Prix,caterham,Wheel,0.0
+2013,5,Spanish Grand Prix,ferrari,Finished,40.0
+2013,5,Spanish Grand Prix,force_india,+1 Lap,0.0
+2013,5,Spanish Grand Prix,force_india,Finished,6.0
+2013,5,Spanish Grand Prix,lotus_f1,Finished,18.0
+2013,5,Spanish Grand Prix,lotus_f1,Suspension,0.0
+2013,5,Spanish Grand Prix,marussia,+2 Laps,0.0
+2013,5,Spanish Grand Prix,mclaren,Finished,6.0
+2013,5,Spanish Grand Prix,mercedes,+1 Lap,0.0
+2013,5,Spanish Grand Prix,mercedes,Finished,8.0
+2013,5,Spanish Grand Prix,red_bull,Finished,22.0
+2013,5,Spanish Grand Prix,sauber,+1 Lap,0.0
+2013,5,Spanish Grand Prix,toro_rosso,+1 Lap,1.0
+2013,5,Spanish Grand Prix,toro_rosso,Accident,0.0
+2013,5,Spanish Grand Prix,williams,+1 Lap,0.0
+2013,6,Monaco Grand Prix,caterham,Finished,0.0
+2013,6,Monaco Grand Prix,caterham,Gearbox,0.0
+2013,6,Monaco Grand Prix,ferrari,Accident,0.0
+2013,6,Monaco Grand Prix,ferrari,Finished,6.0
+2013,6,Monaco Grand Prix,force_india,Finished,12.0
+2013,6,Monaco Grand Prix,lotus_f1,Collision,0.0
+2013,6,Monaco Grand Prix,lotus_f1,Finished,1.0
+2013,6,Monaco Grand Prix,marussia,Brakes,0.0
+2013,6,Monaco Grand Prix,marussia,Finished,0.0
+2013,6,Monaco Grand Prix,mclaren,Finished,8.0
+2013,6,Monaco Grand Prix,mclaren,Suspension,0.0
+2013,6,Monaco Grand Prix,mercedes,Finished,37.0
+2013,6,Monaco Grand Prix,red_bull,Finished,33.0
+2013,6,Monaco Grand Prix,sauber,Finished,0.0
+2013,6,Monaco Grand Prix,toro_rosso,Collision,0.0
+2013,6,Monaco Grand Prix,toro_rosso,Finished,4.0
+2013,6,Monaco Grand Prix,williams,Collision,0.0
+2013,6,Monaco Grand Prix,williams,Finished,0.0
+2013,7,Canadian Grand Prix,caterham,+3 Laps,0.0
+2013,7,Canadian Grand Prix,caterham,Collision,0.0
+2013,7,Canadian Grand Prix,ferrari,+1 Lap,4.0
+2013,7,Canadian Grand Prix,ferrari,Finished,18.0
+2013,7,Canadian Grand Prix,force_india,+1 Lap,7.0
+2013,7,Canadian Grand Prix,lotus_f1,+1 Lap,2.0
+2013,7,Canadian Grand Prix,marussia,+2 Laps,0.0
+2013,7,Canadian Grand Prix,marussia,+3 Laps,0.0
+2013,7,Canadian Grand Prix,mclaren,+1 Lap,0.0
+2013,7,Canadian Grand Prix,mercedes,Finished,25.0
+2013,7,Canadian Grand Prix,red_bull,Finished,37.0
+2013,7,Canadian Grand Prix,sauber,Accident,0.0
+2013,7,Canadian Grand Prix,sauber,Collision,0.0
+2013,7,Canadian Grand Prix,toro_rosso,+1 Lap,8.0
+2013,7,Canadian Grand Prix,toro_rosso,+2 Laps,0.0
+2013,7,Canadian Grand Prix,williams,+1 Lap,0.0
+2013,7,Canadian Grand Prix,williams,+2 Laps,0.0
+2013,8,British Grand Prix,caterham,Finished,0.0
+2013,8,British Grand Prix,ferrari,Finished,23.0
+2013,8,British Grand Prix,force_india,Finished,8.0
+2013,8,British Grand Prix,lotus_f1,Finished,10.0
+2013,8,British Grand Prix,lotus_f1,Retired,0.0
+2013,8,British Grand Prix,marussia,Finished,0.0
+2013,8,British Grand Prix,mclaren,Finished,0.0
+2013,8,British Grand Prix,mclaren,Wheel,0.0
+2013,8,British Grand Prix,mercedes,Finished,37.0
+2013,8,British Grand Prix,red_bull,Finished,18.0
+2013,8,British Grand Prix,red_bull,Gearbox,0.0
+2013,8,British Grand Prix,sauber,Finished,1.0
+2013,8,British Grand Prix,toro_rosso,Finished,4.0
+2013,8,British Grand Prix,toro_rosso,Tyre,0.0
+2013,8,British Grand Prix,williams,Finished,0.0
+2013,9,German Grand Prix,caterham,+1 Lap,0.0
+2013,9,German Grand Prix,ferrari,Finished,12.0
+2013,9,German Grand Prix,ferrari,Spun off,0.0
+2013,9,German Grand Prix,force_india,Finished,0.0
+2013,9,German Grand Prix,lotus_f1,Finished,33.0
+2013,9,German Grand Prix,marussia,+1 Lap,0.0
+2013,9,German Grand Prix,marussia,Engine,0.0
+2013,9,German Grand Prix,mclaren,Finished,12.0
+2013,9,German Grand Prix,mercedes,Finished,12.0
+2013,9,German Grand Prix,red_bull,Finished,31.0
+2013,9,German Grand Prix,sauber,Finished,1.0
+2013,9,German Grand Prix,toro_rosso,Finished,0.0
+2013,9,German Grand Prix,toro_rosso,Hydraulics,0.0
+2013,9,German Grand Prix,williams,+1 Lap,0.0
+2013,9,German Grand Prix,williams,Finished,0.0
+2013,10,Hungarian Grand Prix,caterham,+2 Laps,0.0
+2013,10,Hungarian Grand Prix,ferrari,Finished,14.0
+2013,10,Hungarian Grand Prix,force_india,Hydraulics,0.0
+2013,10,Hungarian Grand Prix,lotus_f1,Finished,26.0
+2013,10,Hungarian Grand Prix,marussia,+3 Laps,0.0
+2013,10,Hungarian Grand Prix,mclaren,+1 Lap,2.0
+2013,10,Hungarian Grand Prix,mclaren,Finished,6.0
+2013,10,Hungarian Grand Prix,mercedes,Engine,0.0
+2013,10,Hungarian Grand Prix,mercedes,Finished,25.0
+2013,10,Hungarian Grand Prix,red_bull,Finished,27.0
+2013,10,Hungarian Grand Prix,sauber,+1 Lap,0.0
+2013,10,Hungarian Grand Prix,sauber,Transmission,0.0
+2013,10,Hungarian Grand Prix,toro_rosso,+1 Lap,0.0
+2013,10,Hungarian Grand Prix,williams,+1 Lap,1.0
+2013,10,Hungarian Grand Prix,williams,Hydraulics,0.0
+2013,11,Belgian Grand Prix,caterham,+1 Lap,0.0
+2013,11,Belgian Grand Prix,caterham,Oil leak,0.0
+2013,11,Belgian Grand Prix,ferrari,Finished,24.0
+2013,11,Belgian Grand Prix,force_india,Collision,0.0
+2013,11,Belgian Grand Prix,force_india,Finished,2.0
+2013,11,Belgian Grand Prix,lotus_f1,Brakes,0.0
+2013,11,Belgian Grand Prix,lotus_f1,Finished,4.0
+2013,11,Belgian Grand Prix,marussia,+1 Lap,0.0
+2013,11,Belgian Grand Prix,marussia,+2 Laps,0.0
+2013,11,Belgian Grand Prix,mclaren,Finished,8.0
+2013,11,Belgian Grand Prix,mercedes,Finished,27.0
+2013,11,Belgian Grand Prix,red_bull,Finished,35.0
+2013,11,Belgian Grand Prix,sauber,Finished,0.0
+2013,11,Belgian Grand Prix,toro_rosso,Finished,1.0
+2013,11,Belgian Grand Prix,williams,+1 Lap,0.0
+2013,11,Belgian Grand Prix,williams,Finished,0.0
+2013,12,Italian Grand Prix,caterham,+1 Lap,0.0
+2013,12,Italian Grand Prix,ferrari,Finished,30.0
+2013,12,Italian Grand Prix,force_india,+1 Lap,0.0
+2013,12,Italian Grand Prix,force_india,Accident,0.0
+2013,12,Italian Grand Prix,lotus_f1,Finished,4.0
+2013,12,Italian Grand Prix,marussia,+1 Lap,0.0
+2013,12,Italian Grand Prix,mclaren,Finished,1.0
+2013,12,Italian Grand Prix,mercedes,Finished,10.0
+2013,12,Italian Grand Prix,red_bull,Finished,40.0
+2013,12,Italian Grand Prix,sauber,Finished,10.0
+2013,12,Italian Grand Prix,toro_rosso,Finished,6.0
+2013,12,Italian Grand Prix,toro_rosso,Transmission,0.0
+2013,12,Italian Grand Prix,williams,Finished,0.0
+2013,13,Singapore Grand Prix,caterham,+1 Lap,0.0
+2013,13,Singapore Grand Prix,ferrari,Finished,26.0
+2013,13,Singapore Grand Prix,force_india,Accident,0.0
+2013,13,Singapore Grand Prix,force_india,Finished,1.0
+2013,13,Singapore Grand Prix,lotus_f1,Finished,15.0
+2013,13,Singapore Grand Prix,lotus_f1,Pneumatics,0.0
+2013,13,Singapore Grand Prix,marussia,+1 Lap,0.0
+2013,13,Singapore Grand Prix,mclaren,Finished,10.0
+2013,13,Singapore Grand Prix,mercedes,Finished,22.0
+2013,13,Singapore Grand Prix,red_bull,Finished,25.0
+2013,13,Singapore Grand Prix,red_bull,Water pressure,0.0
+2013,13,Singapore Grand Prix,sauber,Finished,2.0
+2013,13,Singapore Grand Prix,toro_rosso,Accident,0.0
+2013,13,Singapore Grand Prix,toro_rosso,Finished,0.0
+2013,13,Singapore Grand Prix,williams,Finished,0.0
+2013,14,Korean Grand Prix,caterham,Finished,0.0
+2013,14,Korean Grand Prix,ferrari,Finished,10.0
+2013,14,Korean Grand Prix,force_india,Collision,0.0
+2013,14,Korean Grand Prix,force_india,Spun off,0.0
+2013,14,Korean Grand Prix,lotus_f1,Finished,33.0
+2013,14,Korean Grand Prix,marussia,Finished,0.0
+2013,14,Korean Grand Prix,mclaren,Finished,5.0
+2013,14,Korean Grand Prix,mercedes,Finished,16.0
+2013,14,Korean Grand Prix,red_bull,Collision,0.0
+2013,14,Korean Grand Prix,red_bull,Finished,25.0
+2013,14,Korean Grand Prix,sauber,Finished,12.0
+2013,14,Korean Grand Prix,toro_rosso,+2 Laps,0.0
+2013,14,Korean Grand Prix,toro_rosso,+3 Laps,0.0
+2013,14,Korean Grand Prix,williams,Finished,0.0
+2013,15,Japanese Grand Prix,caterham,+1 Lap,0.0
+2013,15,Japanese Grand Prix,caterham,Accident,0.0
+2013,15,Japanese Grand Prix,ferrari,Finished,13.0
+2013,15,Japanese Grand Prix,force_india,+1 Lap,0.0
+2013,15,Japanese Grand Prix,force_india,Finished,0.0
+2013,15,Japanese Grand Prix,lotus_f1,Finished,25.0
+2013,15,Japanese Grand Prix,marussia,+1 Lap,0.0
+2013,15,Japanese Grand Prix,marussia,Accident,0.0
+2013,15,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2013,15,Japanese Grand Prix,mclaren,Finished,2.0
+2013,15,Japanese Grand Prix,mercedes,Finished,4.0
+2013,15,Japanese Grand Prix,mercedes,Puncture,0.0
+2013,15,Japanese Grand Prix,red_bull,Finished,43.0
+2013,15,Japanese Grand Prix,sauber,Finished,14.0
+2013,15,Japanese Grand Prix,toro_rosso,+1 Lap,0.0
+2013,15,Japanese Grand Prix,williams,+1 Lap,0.0
+2013,16,Indian Grand Prix,caterham,Collision,0.0
+2013,16,Indian Grand Prix,caterham,Hydraulics,0.0
+2013,16,Indian Grand Prix,ferrari,Finished,12.0
+2013,16,Indian Grand Prix,force_india,Finished,6.0
+2013,16,Indian Grand Prix,lotus_f1,Finished,21.0
+2013,16,Indian Grand Prix,marussia,+2 Laps,0.0
+2013,16,Indian Grand Prix,mclaren,+1 Lap,0.0
+2013,16,Indian Grand Prix,mclaren,Finished,10.0
+2013,16,Indian Grand Prix,mercedes,Finished,26.0
+2013,16,Indian Grand Prix,red_bull,Alternator,0.0
+2013,16,Indian Grand Prix,red_bull,Finished,25.0
+2013,16,Indian Grand Prix,sauber,+1 Lap,0.0
+2013,16,Indian Grand Prix,sauber,Mechanical,0.0
+2013,16,Indian Grand Prix,toro_rosso,+1 Lap,0.0
+2013,16,Indian Grand Prix,toro_rosso,Finished,1.0
+2013,16,Indian Grand Prix,williams,+1 Lap,0.0
+2013,16,Indian Grand Prix,williams,Finished,0.0
+2013,17,Abu Dhabi Grand Prix,caterham,+1 Lap,0.0
+2013,17,Abu Dhabi Grand Prix,ferrari,Finished,14.0
+2013,17,Abu Dhabi Grand Prix,force_india,Finished,9.0
+2013,17,Abu Dhabi Grand Prix,lotus_f1,Accident,0.0
+2013,17,Abu Dhabi Grand Prix,lotus_f1,Finished,12.0
+2013,17,Abu Dhabi Grand Prix,marussia,+2 Laps,0.0
+2013,17,Abu Dhabi Grand Prix,mclaren,Finished,2.0
+2013,17,Abu Dhabi Grand Prix,mercedes,Finished,21.0
+2013,17,Abu Dhabi Grand Prix,red_bull,Finished,43.0
+2013,17,Abu Dhabi Grand Prix,sauber,+1 Lap,0.0
+2013,17,Abu Dhabi Grand Prix,sauber,Finished,0.0
+2013,17,Abu Dhabi Grand Prix,toro_rosso,+1 Lap,0.0
+2013,17,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2013,17,Abu Dhabi Grand Prix,williams,Finished,0.0
+2013,18,United States Grand Prix,caterham,+1 Lap,0.0
+2013,18,United States Grand Prix,ferrari,Finished,10.0
+2013,18,United States Grand Prix,force_india,Accident,0.0
+2013,18,United States Grand Prix,force_india,Finished,0.0
+2013,18,United States Grand Prix,lotus_f1,Finished,18.0
+2013,18,United States Grand Prix,marussia,+1 Lap,0.0
+2013,18,United States Grand Prix,marussia,+2 Laps,0.0
+2013,18,United States Grand Prix,mclaren,Finished,7.0
+2013,18,United States Grand Prix,mercedes,Finished,14.0
+2013,18,United States Grand Prix,red_bull,Finished,40.0
+2013,18,United States Grand Prix,sauber,Finished,8.0
+2013,18,United States Grand Prix,toro_rosso,Finished,0.0
+2013,18,United States Grand Prix,williams,+1 Lap,0.0
+2013,18,United States Grand Prix,williams,Finished,4.0
+2013,19,Brazilian Grand Prix,caterham,+2 Laps,0.0
+2013,19,Brazilian Grand Prix,caterham,Mechanical,0.0
+2013,19,Brazilian Grand Prix,ferrari,Finished,21.0
+2013,19,Brazilian Grand Prix,force_india,+1 Lap,0.0
+2013,19,Brazilian Grand Prix,lotus_f1,+1 Lap,0.0
+2013,19,Brazilian Grand Prix,lotus_f1,Engine,0.0
+2013,19,Brazilian Grand Prix,marussia,+2 Laps,0.0
+2013,19,Brazilian Grand Prix,mclaren,Finished,20.0
+2013,19,Brazilian Grand Prix,mercedes,Finished,12.0
+2013,19,Brazilian Grand Prix,red_bull,Finished,43.0
+2013,19,Brazilian Grand Prix,sauber,+1 Lap,0.0
+2013,19,Brazilian Grand Prix,sauber,Finished,4.0
+2013,19,Brazilian Grand Prix,toro_rosso,+1 Lap,1.0
+2013,19,Brazilian Grand Prix,williams,+1 Lap,0.0
+2013,19,Brazilian Grand Prix,williams,Accident,0.0
+2014,1,Australian Grand Prix,caterham,Collision,0.0
+2014,1,Australian Grand Prix,caterham,Oil pressure,0.0
+2014,1,Australian Grand Prix,ferrari,Finished,18.0
+2014,1,Australian Grand Prix,force_india,Finished,9.0
+2014,1,Australian Grand Prix,lotus_f1,ERS,0.0
+2014,1,Australian Grand Prix,marussia,+2 Laps,0.0
+2014,1,Australian Grand Prix,marussia,+8 Laps,0.0
+2014,1,Australian Grand Prix,mclaren,Finished,33.0
+2014,1,Australian Grand Prix,mercedes,Engine,0.0
+2014,1,Australian Grand Prix,mercedes,Finished,25.0
+2014,1,Australian Grand Prix,red_bull,Disqualified,0.0
+2014,1,Australian Grand Prix,red_bull,Engine,0.0
+2014,1,Australian Grand Prix,sauber,+1 Lap,0.0
+2014,1,Australian Grand Prix,toro_rosso,Finished,6.0
+2014,1,Australian Grand Prix,williams,Collision,0.0
+2014,1,Australian Grand Prix,williams,Finished,10.0
+2014,2,Malaysian Grand Prix,caterham,+1 Lap,0.0
+2014,2,Malaysian Grand Prix,caterham,+2 Laps,0.0
+2014,2,Malaysian Grand Prix,ferrari,+1 Lap,0.0
+2014,2,Malaysian Grand Prix,ferrari,Finished,12.0
+2014,2,Malaysian Grand Prix,force_india,Finished,10.0
+2014,2,Malaysian Grand Prix,force_india,Withdrew,0.0
+2014,2,Malaysian Grand Prix,lotus_f1,+1 Lap,0.0
+2014,2,Malaysian Grand Prix,lotus_f1,Engine,0.0
+2014,2,Malaysian Grand Prix,marussia,+2 Laps,0.0
+2014,2,Malaysian Grand Prix,marussia,Brakes,0.0
+2014,2,Malaysian Grand Prix,mclaren,+1 Lap,2.0
+2014,2,Malaysian Grand Prix,mclaren,Finished,8.0
+2014,2,Malaysian Grand Prix,mercedes,Finished,43.0
+2014,2,Malaysian Grand Prix,red_bull,Finished,15.0
+2014,2,Malaysian Grand Prix,red_bull,Technical,0.0
+2014,2,Malaysian Grand Prix,sauber,Electrical,0.0
+2014,2,Malaysian Grand Prix,sauber,Gearbox,0.0
+2014,2,Malaysian Grand Prix,toro_rosso,+1 Lap,1.0
+2014,2,Malaysian Grand Prix,toro_rosso,Power Unit,0.0
+2014,2,Malaysian Grand Prix,williams,Finished,10.0
+2014,3,Bahrain Grand Prix,caterham,Finished,0.0
+2014,3,Bahrain Grand Prix,caterham,Retired,0.0
+2014,3,Bahrain Grand Prix,ferrari,Finished,3.0
+2014,3,Bahrain Grand Prix,force_india,Finished,25.0
+2014,3,Bahrain Grand Prix,lotus_f1,Finished,0.0
+2014,3,Bahrain Grand Prix,marussia,+1 Lap,0.0
+2014,3,Bahrain Grand Prix,marussia,Finished,0.0
+2014,3,Bahrain Grand Prix,mclaren,Clutch,0.0
+2014,3,Bahrain Grand Prix,mercedes,Finished,43.0
+2014,3,Bahrain Grand Prix,red_bull,Finished,20.0
+2014,3,Bahrain Grand Prix,sauber,Collision,0.0
+2014,3,Bahrain Grand Prix,toro_rosso,Finished,0.0
+2014,3,Bahrain Grand Prix,toro_rosso,Retired,0.0
+2014,3,Bahrain Grand Prix,williams,Finished,10.0
+2014,4,Chinese Grand Prix,caterham,+1 Lap,0.0
+2014,4,Chinese Grand Prix,caterham,+2 Laps,0.0
+2014,4,Chinese Grand Prix,ferrari,Finished,19.0
+2014,4,Chinese Grand Prix,force_india,Finished,10.0
+2014,4,Chinese Grand Prix,lotus_f1,+1 Lap,0.0
+2014,4,Chinese Grand Prix,lotus_f1,Gearbox,0.0
+2014,4,Chinese Grand Prix,marussia,+1 Lap,0.0
+2014,4,Chinese Grand Prix,marussia,+2 Laps,0.0
+2014,4,Chinese Grand Prix,mclaren,+1 Lap,0.0
+2014,4,Chinese Grand Prix,mercedes,Finished,43.0
+2014,4,Chinese Grand Prix,red_bull,Finished,22.0
+2014,4,Chinese Grand Prix,sauber,+1 Lap,0.0
+2014,4,Chinese Grand Prix,sauber,Engine,0.0
+2014,4,Chinese Grand Prix,toro_rosso,+1 Lap,1.0
+2014,4,Chinese Grand Prix,williams,+1 Lap,0.0
+2014,4,Chinese Grand Prix,williams,Finished,6.0
+2014,5,Spanish Grand Prix,caterham,+2 Laps,0.0
+2014,5,Spanish Grand Prix,caterham,Brakes,0.0
+2014,5,Spanish Grand Prix,ferrari,+1 Lap,6.0
+2014,5,Spanish Grand Prix,ferrari,Finished,8.0
+2014,5,Spanish Grand Prix,force_india,+1 Lap,3.0
+2014,5,Spanish Grand Prix,lotus_f1,+1 Lap,4.0
+2014,5,Spanish Grand Prix,marussia,+2 Laps,0.0
+2014,5,Spanish Grand Prix,mclaren,+1 Lap,0.0
+2014,5,Spanish Grand Prix,mercedes,Finished,43.0
+2014,5,Spanish Grand Prix,red_bull,Finished,27.0
+2014,5,Spanish Grand Prix,sauber,+1 Lap,0.0
+2014,5,Spanish Grand Prix,toro_rosso,+1 Lap,0.0
+2014,5,Spanish Grand Prix,toro_rosso,Exhaust,0.0
+2014,5,Spanish Grand Prix,williams,+1 Lap,0.0
+2014,5,Spanish Grand Prix,williams,Finished,10.0
+2014,6,Monaco Grand Prix,caterham,+1 Lap,0.0
+2014,6,Monaco Grand Prix,caterham,+2 Laps,0.0
+2014,6,Monaco Grand Prix,ferrari,+1 Lap,0.0
+2014,6,Monaco Grand Prix,ferrari,Finished,12.0
+2014,6,Monaco Grand Prix,force_india,+1 Lap,10.0
+2014,6,Monaco Grand Prix,force_india,Collision,0.0
+2014,6,Monaco Grand Prix,lotus_f1,+1 Lap,4.0
+2014,6,Monaco Grand Prix,lotus_f1,Withdrew,0.0
+2014,6,Monaco Grand Prix,marussia,+1 Lap,2.0
+2014,6,Monaco Grand Prix,marussia,+3 Laps,0.0
+2014,6,Monaco Grand Prix,mclaren,+1 Lap,9.0
+2014,6,Monaco Grand Prix,mercedes,Finished,43.0
+2014,6,Monaco Grand Prix,red_bull,Finished,15.0
+2014,6,Monaco Grand Prix,red_bull,Turbo,0.0
+2014,6,Monaco Grand Prix,sauber,Accident,0.0
+2014,6,Monaco Grand Prix,toro_rosso,Engine,0.0
+2014,6,Monaco Grand Prix,toro_rosso,Mechanical,0.0
+2014,6,Monaco Grand Prix,williams,+1 Lap,6.0
+2014,6,Monaco Grand Prix,williams,Engine,0.0
+2014,7,Canadian Grand Prix,caterham,Suspension,0.0
+2014,7,Canadian Grand Prix,caterham,Turbo,0.0
+2014,7,Canadian Grand Prix,ferrari,Finished,9.0
+2014,7,Canadian Grand Prix,force_india,Collision,0.0
+2014,7,Canadian Grand Prix,force_india,Finished,10.0
+2014,7,Canadian Grand Prix,lotus_f1,Power Unit,0.0
+2014,7,Canadian Grand Prix,lotus_f1,Rear wing,0.0
+2014,7,Canadian Grand Prix,marussia,Collision,0.0
+2014,7,Canadian Grand Prix,mclaren,Finished,14.0
+2014,7,Canadian Grand Prix,mercedes,Brakes,0.0
+2014,7,Canadian Grand Prix,mercedes,Finished,18.0
+2014,7,Canadian Grand Prix,red_bull,Finished,40.0
+2014,7,Canadian Grand Prix,sauber,+1 Lap,0.0
+2014,7,Canadian Grand Prix,sauber,ERS,0.0
+2014,7,Canadian Grand Prix,toro_rosso,Drivetrain,0.0
+2014,7,Canadian Grand Prix,toro_rosso,Finished,4.0
+2014,7,Canadian Grand Prix,williams,Collision,0.0
+2014,7,Canadian Grand Prix,williams,Finished,6.0
+2014,8,Austrian Grand Prix,caterham,+2 Laps,0.0
+2014,8,Austrian Grand Prix,ferrari,Finished,11.0
+2014,8,Austrian Grand Prix,force_india,Finished,10.0
+2014,8,Austrian Grand Prix,lotus_f1,+1 Lap,0.0
+2014,8,Austrian Grand Prix,marussia,+2 Laps,0.0
+2014,8,Austrian Grand Prix,mclaren,Finished,6.0
+2014,8,Austrian Grand Prix,mercedes,Finished,43.0
+2014,8,Austrian Grand Prix,red_bull,Electrical,0.0
+2014,8,Austrian Grand Prix,red_bull,Finished,4.0
+2014,8,Austrian Grand Prix,sauber,+1 Lap,0.0
+2014,8,Austrian Grand Prix,sauber,+2 Laps,0.0
+2014,8,Austrian Grand Prix,toro_rosso,Brakes,0.0
+2014,8,Austrian Grand Prix,toro_rosso,Suspension,0.0
+2014,8,Austrian Grand Prix,williams,Finished,27.0
+2014,9,British Grand Prix,caterham,+2 Laps,0.0
+2014,9,British Grand Prix,caterham,Suspension,0.0
+2014,9,British Grand Prix,ferrari,Collision,0.0
+2014,9,British Grand Prix,ferrari,Finished,8.0
+2014,9,British Grand Prix,force_india,+1 Lap,0.0
+2014,9,British Grand Prix,force_india,Finished,4.0
+2014,9,British Grand Prix,lotus_f1,+1 Lap,0.0
+2014,9,British Grand Prix,lotus_f1,+3 Laps,0.0
+2014,9,British Grand Prix,marussia,+1 Lap,0.0
+2014,9,British Grand Prix,marussia,+2 Laps,0.0
+2014,9,British Grand Prix,mclaren,Finished,18.0
+2014,9,British Grand Prix,mercedes,Finished,25.0
+2014,9,British Grand Prix,mercedes,Gearbox,0.0
+2014,9,British Grand Prix,red_bull,Finished,25.0
+2014,9,British Grand Prix,sauber,+1 Lap,0.0
+2014,9,British Grand Prix,sauber,Collision,0.0
+2014,9,British Grand Prix,toro_rosso,+1 Lap,1.0
+2014,9,British Grand Prix,toro_rosso,Finished,2.0
+2014,9,British Grand Prix,williams,Collision,0.0
+2014,9,British Grand Prix,williams,Finished,18.0
+2014,10,German Grand Prix,caterham,+2 Laps,0.0
+2014,10,German Grand Prix,ferrari,+1 Lap,0.0
+2014,10,German Grand Prix,ferrari,Finished,10.0
+2014,10,German Grand Prix,force_india,+1 Lap,1.0
+2014,10,German Grand Prix,force_india,Finished,6.0
+2014,10,German Grand Prix,lotus_f1,+1 Lap,0.0
+2014,10,German Grand Prix,lotus_f1,Water leak,0.0
+2014,10,German Grand Prix,marussia,+1 Lap,0.0
+2014,10,German Grand Prix,marussia,+2 Laps,0.0
+2014,10,German Grand Prix,mclaren,+1 Lap,2.0
+2014,10,German Grand Prix,mclaren,Finished,4.0
+2014,10,German Grand Prix,mercedes,Finished,40.0
+2014,10,German Grand Prix,red_bull,Finished,20.0
+2014,10,German Grand Prix,sauber,+1 Lap,0.0
+2014,10,German Grand Prix,sauber,Brakes,0.0
+2014,10,German Grand Prix,toro_rosso,+1 Lap,0.0
+2014,10,German Grand Prix,toro_rosso,Oil leak,0.0
+2014,10,German Grand Prix,williams,Collision,0.0
+2014,10,German Grand Prix,williams,Finished,18.0
+2014,11,Hungarian Grand Prix,caterham,Accident,0.0
+2014,11,Hungarian Grand Prix,caterham,Retired,0.0
+2014,11,Hungarian Grand Prix,ferrari,Finished,26.0
+2014,11,Hungarian Grand Prix,force_india,Accident,0.0
+2014,11,Hungarian Grand Prix,lotus_f1,Accident,0.0
+2014,11,Hungarian Grand Prix,lotus_f1,Finished,0.0
+2014,11,Hungarian Grand Prix,marussia,+1 Lap,0.0
+2014,11,Hungarian Grand Prix,mclaren,Finished,1.0
+2014,11,Hungarian Grand Prix,mercedes,Finished,27.0
+2014,11,Hungarian Grand Prix,red_bull,Finished,31.0
+2014,11,Hungarian Grand Prix,sauber,Finished,0.0
+2014,11,Hungarian Grand Prix,sauber,Retired,0.0
+2014,11,Hungarian Grand Prix,toro_rosso,+1 Lap,0.0
+2014,11,Hungarian Grand Prix,toro_rosso,Finished,2.0
+2014,11,Hungarian Grand Prix,williams,Finished,14.0
+2014,12,Belgian Grand Prix,caterham,+1 Lap,0.0
+2014,12,Belgian Grand Prix,caterham,Power Unit,0.0
+2014,12,Belgian Grand Prix,ferrari,Finished,18.0
+2014,12,Belgian Grand Prix,force_india,Finished,5.0
+2014,12,Belgian Grand Prix,lotus_f1,Mechanical,0.0
+2014,12,Belgian Grand Prix,lotus_f1,Retired,0.0
+2014,12,Belgian Grand Prix,marussia,+1 Lap,0.0
+2014,12,Belgian Grand Prix,marussia,Gearbox,0.0
+2014,12,Belgian Grand Prix,mclaren,Finished,8.0
+2014,12,Belgian Grand Prix,mercedes,Finished,18.0
+2014,12,Belgian Grand Prix,mercedes,Retired,0.0
+2014,12,Belgian Grand Prix,red_bull,Finished,35.0
+2014,12,Belgian Grand Prix,sauber,Finished,0.0
+2014,12,Belgian Grand Prix,toro_rosso,Finished,2.0
+2014,12,Belgian Grand Prix,williams,Finished,15.0
+2014,13,Italian Grand Prix,caterham,+1 Lap,0.0
+2014,13,Italian Grand Prix,caterham,+2 Laps,0.0
+2014,13,Italian Grand Prix,ferrari,Engine,0.0
+2014,13,Italian Grand Prix,ferrari,Finished,2.0
+2014,13,Italian Grand Prix,force_india,Finished,6.0
+2014,13,Italian Grand Prix,lotus_f1,+1 Lap,0.0
+2014,13,Italian Grand Prix,marussia,+1 Lap,0.0
+2014,13,Italian Grand Prix,marussia,Accident,0.0
+2014,13,Italian Grand Prix,mclaren,Finished,5.0
+2014,13,Italian Grand Prix,mercedes,Finished,43.0
+2014,13,Italian Grand Prix,red_bull,Finished,18.0
+2014,13,Italian Grand Prix,sauber,+1 Lap,0.0
+2014,13,Italian Grand Prix,sauber,+2 Laps,0.0
+2014,13,Italian Grand Prix,toro_rosso,Finished,0.0
+2014,13,Italian Grand Prix,williams,Finished,27.0
+2014,14,Singapore Grand Prix,caterham,Finished,0.0
+2014,14,Singapore Grand Prix,caterham,Power Unit,0.0
+2014,14,Singapore Grand Prix,ferrari,Finished,16.0
+2014,14,Singapore Grand Prix,force_india,Finished,8.0
+2014,14,Singapore Grand Prix,lotus_f1,Finished,0.0
+2014,14,Singapore Grand Prix,marussia,+1 Lap,0.0
+2014,14,Singapore Grand Prix,marussia,Finished,0.0
+2014,14,Singapore Grand Prix,mclaren,Finished,1.0
+2014,14,Singapore Grand Prix,mclaren,Retired,0.0
+2014,14,Singapore Grand Prix,mercedes,Electrical,0.0
+2014,14,Singapore Grand Prix,mercedes,Finished,25.0
+2014,14,Singapore Grand Prix,red_bull,Finished,33.0
+2014,14,Singapore Grand Prix,sauber,Electrical,0.0
+2014,14,Singapore Grand Prix,sauber,Water pressure,0.0
+2014,14,Singapore Grand Prix,toro_rosso,Finished,8.0
+2014,14,Singapore Grand Prix,williams,Finished,10.0
+2014,15,Japanese Grand Prix,caterham,+1 Lap,0.0
+2014,15,Japanese Grand Prix,ferrari,+1 Lap,0.0
+2014,15,Japanese Grand Prix,ferrari,Electronics,0.0
+2014,15,Japanese Grand Prix,force_india,+1 Lap,1.0
+2014,15,Japanese Grand Prix,force_india,Finished,4.0
+2014,15,Japanese Grand Prix,lotus_f1,+1 Lap,0.0
+2014,15,Japanese Grand Prix,marussia,+1 Lap,0.0
+2014,15,Japanese Grand Prix,marussia,Accident,0.0
+2014,15,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2014,15,Japanese Grand Prix,mclaren,Finished,10.0
+2014,15,Japanese Grand Prix,mercedes,Finished,43.0
+2014,15,Japanese Grand Prix,red_bull,Finished,27.0
+2014,15,Japanese Grand Prix,sauber,+1 Lap,0.0
+2014,15,Japanese Grand Prix,sauber,Accident,0.0
+2014,15,Japanese Grand Prix,toro_rosso,+1 Lap,0.0
+2014,15,Japanese Grand Prix,toro_rosso,Finished,2.0
+2014,15,Japanese Grand Prix,williams,Finished,14.0
+2014,16,Russian Grand Prix,caterham,+2 Laps,0.0
+2014,16,Russian Grand Prix,caterham,Brakes,0.0
+2014,16,Russian Grand Prix,ferrari,Finished,10.0
+2014,16,Russian Grand Prix,force_india,Finished,1.0
+2014,16,Russian Grand Prix,lotus_f1,+1 Lap,0.0
+2014,16,Russian Grand Prix,marussia,Suspension,0.0
+2014,16,Russian Grand Prix,mclaren,Finished,22.0
+2014,16,Russian Grand Prix,mercedes,Finished,43.0
+2014,16,Russian Grand Prix,red_bull,Finished,10.0
+2014,16,Russian Grand Prix,sauber,+1 Lap,0.0
+2014,16,Russian Grand Prix,toro_rosso,+1 Lap,0.0
+2014,16,Russian Grand Prix,toro_rosso,Finished,0.0
+2014,16,Russian Grand Prix,williams,Finished,15.0
+2014,17,United States Grand Prix,ferrari,+1 Lap,0.0
+2014,17,United States Grand Prix,ferrari,Finished,8.0
+2014,17,United States Grand Prix,force_india,Collision damage,0.0
+2014,17,United States Grand Prix,force_india,Engine,0.0
+2014,17,United States Grand Prix,lotus_f1,+1 Lap,0.0
+2014,17,United States Grand Prix,lotus_f1,Finished,2.0
+2014,17,United States Grand Prix,mclaren,+1 Lap,0.0
+2014,17,United States Grand Prix,mclaren,Finished,4.0
+2014,17,United States Grand Prix,mercedes,Finished,43.0
+2014,17,United States Grand Prix,red_bull,Finished,21.0
+2014,17,United States Grand Prix,sauber,+1 Lap,0.0
+2014,17,United States Grand Prix,sauber,Collision,0.0
+2014,17,United States Grand Prix,toro_rosso,+1 Lap,0.0
+2014,17,United States Grand Prix,toro_rosso,Finished,1.0
+2014,17,United States Grand Prix,williams,Finished,22.0
+2014,18,Brazilian Grand Prix,ferrari,Finished,14.0
+2014,18,Brazilian Grand Prix,force_india,+1 Lap,0.0
+2014,18,Brazilian Grand Prix,force_india,Finished,4.0
+2014,18,Brazilian Grand Prix,lotus_f1,+1 Lap,0.0
+2014,18,Brazilian Grand Prix,lotus_f1,+8 Laps,0.0
+2014,18,Brazilian Grand Prix,mclaren,Finished,14.0
+2014,18,Brazilian Grand Prix,mercedes,Finished,43.0
+2014,18,Brazilian Grand Prix,red_bull,Finished,10.0
+2014,18,Brazilian Grand Prix,red_bull,Suspension,0.0
+2014,18,Brazilian Grand Prix,sauber,+1 Lap,0.0
+2014,18,Brazilian Grand Prix,toro_rosso,+1 Lap,0.0
+2014,18,Brazilian Grand Prix,williams,+1 Lap,1.0
+2014,18,Brazilian Grand Prix,williams,Finished,15.0
+2014,19,Abu Dhabi Grand Prix,caterham,+1 Lap,0.0
+2014,19,Abu Dhabi Grand Prix,caterham,Retired,0.0
+2014,19,Abu Dhabi Grand Prix,ferrari,Finished,6.0
+2014,19,Abu Dhabi Grand Prix,force_india,Finished,28.0
+2014,19,Abu Dhabi Grand Prix,lotus_f1,+1 Lap,0.0
+2014,19,Abu Dhabi Grand Prix,lotus_f1,Power Unit,0.0
+2014,19,Abu Dhabi Grand Prix,mclaren,Finished,20.0
+2014,19,Abu Dhabi Grand Prix,mercedes,+1 Lap,0.0
+2014,19,Abu Dhabi Grand Prix,mercedes,Finished,50.0
+2014,19,Abu Dhabi Grand Prix,red_bull,Finished,32.0
+2014,19,Abu Dhabi Grand Prix,sauber,+1 Lap,0.0
+2014,19,Abu Dhabi Grand Prix,toro_rosso,Finished,0.0
+2014,19,Abu Dhabi Grand Prix,toro_rosso,Power Unit,0.0
+2014,19,Abu Dhabi Grand Prix,williams,Finished,66.0
+2015,1,Australian Grand Prix,ferrari,Finished,15.0
+2015,1,Australian Grand Prix,ferrari,Wheel,0.0
+2015,1,Australian Grand Prix,force_india,+1 Lap,7.0
+2015,1,Australian Grand Prix,lotus_f1,Accident,0.0
+2015,1,Australian Grand Prix,lotus_f1,Power loss,0.0
+2015,1,Australian Grand Prix,mclaren,+2 Laps,0.0
+2015,1,Australian Grand Prix,mclaren,Withdrew,0.0
+2015,1,Australian Grand Prix,mercedes,Finished,43.0
+2015,1,Australian Grand Prix,red_bull,+1 Lap,8.0
+2015,1,Australian Grand Prix,red_bull,Withdrew,0.0
+2015,1,Australian Grand Prix,sauber,+1 Lap,4.0
+2015,1,Australian Grand Prix,sauber,Finished,10.0
+2015,1,Australian Grand Prix,toro_rosso,+1 Lap,2.0
+2015,1,Australian Grand Prix,toro_rosso,Engine,0.0
+2015,1,Australian Grand Prix,williams,Finished,12.0
+2015,1,Australian Grand Prix,williams,Withdrew,0.0
+2015,2,Malaysian Grand Prix,ferrari,Finished,37.0
+2015,2,Malaysian Grand Prix,force_india,+1 Lap,0.0
+2015,2,Malaysian Grand Prix,lotus_f1,+1 Lap,0.0
+2015,2,Malaysian Grand Prix,lotus_f1,Retired,0.0
+2015,2,Malaysian Grand Prix,manor,+3 Laps,0.0
+2015,2,Malaysian Grand Prix,manor,Fuel system,0.0
+2015,2,Malaysian Grand Prix,mclaren,ERS,0.0
+2015,2,Malaysian Grand Prix,mclaren,Turbo,0.0
+2015,2,Malaysian Grand Prix,mercedes,Finished,33.0
+2015,2,Malaysian Grand Prix,red_bull,+1 Lap,3.0
+2015,2,Malaysian Grand Prix,sauber,+1 Lap,0.0
+2015,2,Malaysian Grand Prix,sauber,Spun off,0.0
+2015,2,Malaysian Grand Prix,toro_rosso,+1 Lap,4.0
+2015,2,Malaysian Grand Prix,toro_rosso,Finished,6.0
+2015,2,Malaysian Grand Prix,williams,Finished,18.0
+2015,3,Chinese Grand Prix,ferrari,Finished,27.0
+2015,3,Chinese Grand Prix,force_india,+1 Lap,0.0
+2015,3,Chinese Grand Prix,force_india,Gearbox,0.0
+2015,3,Chinese Grand Prix,lotus_f1,Brakes,0.0
+2015,3,Chinese Grand Prix,lotus_f1,Finished,6.0
+2015,3,Chinese Grand Prix,manor,+2 Laps,0.0
+2015,3,Chinese Grand Prix,mclaren,+1 Lap,0.0
+2015,3,Chinese Grand Prix,mercedes,Finished,43.0
+2015,3,Chinese Grand Prix,red_bull,Finished,2.0
+2015,3,Chinese Grand Prix,red_bull,Power Unit,0.0
+2015,3,Chinese Grand Prix,sauber,+1 Lap,1.0
+2015,3,Chinese Grand Prix,sauber,Finished,4.0
+2015,3,Chinese Grand Prix,toro_rosso,+1 Lap,0.0
+2015,3,Chinese Grand Prix,toro_rosso,Transmission,0.0
+2015,3,Chinese Grand Prix,williams,Finished,18.0
+2015,4,Bahrain Grand Prix,ferrari,Finished,28.0
+2015,4,Bahrain Grand Prix,force_india,+1 Lap,4.0
+2015,4,Bahrain Grand Prix,lotus_f1,+1 Lap,0.0
+2015,4,Bahrain Grand Prix,lotus_f1,Finished,6.0
+2015,4,Bahrain Grand Prix,manor,+2 Laps,0.0
+2015,4,Bahrain Grand Prix,manor,+3 Laps,0.0
+2015,4,Bahrain Grand Prix,mclaren,+1 Lap,0.0
+2015,4,Bahrain Grand Prix,mclaren,ERS,0.0
+2015,4,Bahrain Grand Prix,mercedes,Finished,40.0
+2015,4,Bahrain Grand Prix,red_bull,+1 Lap,2.0
+2015,4,Bahrain Grand Prix,red_bull,Finished,8.0
+2015,4,Bahrain Grand Prix,sauber,+1 Lap,0.0
+2015,4,Bahrain Grand Prix,toro_rosso,Electrical,0.0
+2015,4,Bahrain Grand Prix,toro_rosso,Engine,0.0
+2015,4,Bahrain Grand Prix,williams,+1 Lap,1.0
+2015,4,Bahrain Grand Prix,williams,Finished,12.0
+2015,5,Spanish Grand Prix,ferrari,Finished,25.0
+2015,5,Spanish Grand Prix,force_india,+1 Lap,0.0
+2015,5,Spanish Grand Prix,lotus_f1,+1 Lap,4.0
+2015,5,Spanish Grand Prix,lotus_f1,Accident,0.0
+2015,5,Spanish Grand Prix,manor,+3 Laps,0.0
+2015,5,Spanish Grand Prix,manor,+4 Laps,0.0
+2015,5,Spanish Grand Prix,mclaren,+1 Lap,0.0
+2015,5,Spanish Grand Prix,mclaren,Brakes,0.0
+2015,5,Spanish Grand Prix,mercedes,Finished,43.0
+2015,5,Spanish Grand Prix,red_bull,+1 Lap,7.0
+2015,5,Spanish Grand Prix,sauber,+1 Lap,0.0
+2015,5,Spanish Grand Prix,toro_rosso,+1 Lap,2.0
+2015,5,Spanish Grand Prix,williams,Finished,20.0
+2015,6,Monaco Grand Prix,ferrari,Finished,26.0
+2015,6,Monaco Grand Prix,force_india,Finished,6.0
+2015,6,Monaco Grand Prix,lotus_f1,Brakes,0.0
+2015,6,Monaco Grand Prix,lotus_f1,Finished,0.0
+2015,6,Monaco Grand Prix,manor,+2 Laps,0.0
+2015,6,Monaco Grand Prix,mclaren,Finished,4.0
+2015,6,Monaco Grand Prix,mclaren,Gearbox,0.0
+2015,6,Monaco Grand Prix,mercedes,Finished,40.0
+2015,6,Monaco Grand Prix,red_bull,Finished,22.0
+2015,6,Monaco Grand Prix,sauber,Finished,2.0
+2015,6,Monaco Grand Prix,toro_rosso,Accident,0.0
+2015,6,Monaco Grand Prix,toro_rosso,Finished,1.0
+2015,6,Monaco Grand Prix,williams,+1 Lap,0.0
+2015,6,Monaco Grand Prix,williams,Finished,0.0
+2015,7,Canadian Grand Prix,ferrari,Finished,22.0
+2015,7,Canadian Grand Prix,force_india,+1 Lap,4.0
+2015,7,Canadian Grand Prix,lotus_f1,+1 Lap,1.0
+2015,7,Canadian Grand Prix,lotus_f1,Finished,6.0
+2015,7,Canadian Grand Prix,manor,+4 Laps,0.0
+2015,7,Canadian Grand Prix,manor,Retired,0.0
+2015,7,Canadian Grand Prix,mclaren,Engine,0.0
+2015,7,Canadian Grand Prix,mclaren,Retired,0.0
+2015,7,Canadian Grand Prix,mercedes,Finished,43.0
+2015,7,Canadian Grand Prix,red_bull,+1 Lap,2.0
+2015,7,Canadian Grand Prix,sauber,+1 Lap,0.0
+2015,7,Canadian Grand Prix,sauber,+2 Laps,0.0
+2015,7,Canadian Grand Prix,toro_rosso,+1 Lap,0.0
+2015,7,Canadian Grand Prix,williams,Finished,23.0
+2015,8,Austrian Grand Prix,ferrari,Collision,0.0
+2015,8,Austrian Grand Prix,ferrari,Finished,12.0
+2015,8,Austrian Grand Prix,force_india,+1 Lap,2.0
+2015,8,Austrian Grand Prix,force_india,Finished,8.0
+2015,8,Austrian Grand Prix,lotus_f1,+1 Lap,6.0
+2015,8,Austrian Grand Prix,lotus_f1,Gearbox,0.0
+2015,8,Austrian Grand Prix,manor,+3 Laps,0.0
+2015,8,Austrian Grand Prix,manor,Oil leak,0.0
+2015,8,Austrian Grand Prix,mclaren,Collision,0.0
+2015,8,Austrian Grand Prix,mclaren,Retired,0.0
+2015,8,Austrian Grand Prix,mercedes,Finished,43.0
+2015,8,Austrian Grand Prix,red_bull,+1 Lap,1.0
+2015,8,Austrian Grand Prix,sauber,+1 Lap,0.0
+2015,8,Austrian Grand Prix,sauber,+2 Laps,0.0
+2015,8,Austrian Grand Prix,toro_rosso,+1 Lap,4.0
+2015,8,Austrian Grand Prix,toro_rosso,Power loss,0.0
+2015,8,Austrian Grand Prix,williams,Finished,25.0
+2015,9,British Grand Prix,ferrari,+1 Lap,4.0
+2015,9,British Grand Prix,ferrari,Finished,15.0
+2015,9,British Grand Prix,force_india,+1 Lap,2.0
+2015,9,British Grand Prix,force_india,Finished,6.0
+2015,9,British Grand Prix,lotus_f1,Collision,0.0
+2015,9,British Grand Prix,manor,+3 Laps,0.0
+2015,9,British Grand Prix,mclaren,+1 Lap,1.0
+2015,9,British Grand Prix,mclaren,Collision,0.0
+2015,9,British Grand Prix,mercedes,Finished,43.0
+2015,9,British Grand Prix,red_bull,Electrical,0.0
+2015,9,British Grand Prix,red_bull,Finished,8.0
+2015,9,British Grand Prix,sauber,+1 Lap,0.0
+2015,9,British Grand Prix,sauber,Gearbox,0.0
+2015,9,British Grand Prix,toro_rosso,Electrical,0.0
+2015,9,British Grand Prix,toro_rosso,Spun off,0.0
+2015,9,British Grand Prix,williams,Finished,22.0
+2015,10,Hungarian Grand Prix,ferrari,Finished,25.0
+2015,10,Hungarian Grand Prix,ferrari,Power Unit,0.0
+2015,10,Hungarian Grand Prix,force_india,Front wing,0.0
+2015,10,Hungarian Grand Prix,force_india,Suspension,0.0
+2015,10,Hungarian Grand Prix,lotus_f1,Finished,6.0
+2015,10,Hungarian Grand Prix,manor,+2 Laps,0.0
+2015,10,Hungarian Grand Prix,manor,+4 Laps,0.0
+2015,10,Hungarian Grand Prix,mclaren,Finished,12.0
+2015,10,Hungarian Grand Prix,mercedes,Finished,12.0
+2015,10,Hungarian Grand Prix,red_bull,Finished,33.0
+2015,10,Hungarian Grand Prix,sauber,Finished,1.0
+2015,10,Hungarian Grand Prix,toro_rosso,Electrical,0.0
+2015,10,Hungarian Grand Prix,toro_rosso,Finished,12.0
+2015,10,Hungarian Grand Prix,williams,Finished,0.0
+2015,11,Belgian Grand Prix,ferrari,Finished,6.0
+2015,11,Belgian Grand Prix,ferrari,Tyre,0.0
+2015,11,Belgian Grand Prix,force_india,Finished,10.0
+2015,11,Belgian Grand Prix,force_india,Power loss,0.0
+2015,11,Belgian Grand Prix,lotus_f1,Engine,0.0
+2015,11,Belgian Grand Prix,lotus_f1,Finished,15.0
+2015,11,Belgian Grand Prix,manor,+1 Lap,0.0
+2015,11,Belgian Grand Prix,mclaren,+1 Lap,0.0
+2015,11,Belgian Grand Prix,mercedes,Finished,43.0
+2015,11,Belgian Grand Prix,red_bull,Finished,12.0
+2015,11,Belgian Grand Prix,red_bull,Power Unit,0.0
+2015,11,Belgian Grand Prix,sauber,Finished,1.0
+2015,11,Belgian Grand Prix,toro_rosso,Finished,4.0
+2015,11,Belgian Grand Prix,toro_rosso,Power Unit,0.0
+2015,11,Belgian Grand Prix,williams,Finished,8.0
+2015,11,Belgian Grand Prix,williams,Power Unit,2.0
+2015,12,Italian Grand Prix,ferrari,Finished,28.0
+2015,12,Italian Grand Prix,force_india,+1 Lap,6.0
+2015,12,Italian Grand Prix,force_india,Finished,8.0
+2015,12,Italian Grand Prix,lotus_f1,Collision damage,0.0
+2015,12,Italian Grand Prix,manor,+2 Laps,0.0
+2015,12,Italian Grand Prix,mclaren,+1 Lap,0.0
+2015,12,Italian Grand Prix,mclaren,+6 Laps,0.0
+2015,12,Italian Grand Prix,mercedes,+3 Laps,0.0
+2015,12,Italian Grand Prix,mercedes,Finished,25.0
+2015,12,Italian Grand Prix,red_bull,+1 Lap,5.0
+2015,12,Italian Grand Prix,sauber,+1 Lap,2.0
+2015,12,Italian Grand Prix,toro_rosso,+1 Lap,0.0
+2015,12,Italian Grand Prix,williams,Finished,27.0
+2015,13,Singapore Grand Prix,ferrari,Finished,40.0
+2015,13,Singapore Grand Prix,force_india,Collision,0.0
+2015,13,Singapore Grand Prix,force_india,Finished,6.0
+2015,13,Singapore Grand Prix,lotus_f1,Finished,0.0
+2015,13,Singapore Grand Prix,lotus_f1,Tyre,0.0
+2015,13,Singapore Grand Prix,manor,+2 Laps,0.0
+2015,13,Singapore Grand Prix,mclaren,Gearbox,0.0
+2015,13,Singapore Grand Prix,mercedes,Finished,12.0
+2015,13,Singapore Grand Prix,mercedes,Throttle,0.0
+2015,13,Singapore Grand Prix,red_bull,Finished,26.0
+2015,13,Singapore Grand Prix,sauber,Finished,1.0
+2015,13,Singapore Grand Prix,toro_rosso,Finished,6.0
+2015,13,Singapore Grand Prix,williams,Finished,10.0
+2015,13,Singapore Grand Prix,williams,Gearbox,0.0
+2015,14,Japanese Grand Prix,ferrari,Finished,27.0
+2015,14,Japanese Grand Prix,force_india,+1 Lap,0.0
+2015,14,Japanese Grand Prix,force_india,Finished,8.0
+2015,14,Japanese Grand Prix,lotus_f1,Finished,10.0
+2015,14,Japanese Grand Prix,manor,+2 Laps,0.0
+2015,14,Japanese Grand Prix,manor,+3 Laps,0.0
+2015,14,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2015,14,Japanese Grand Prix,mercedes,Finished,43.0
+2015,14,Japanese Grand Prix,red_bull,+1 Lap,0.0
+2015,14,Japanese Grand Prix,sauber,+1 Lap,0.0
+2015,14,Japanese Grand Prix,sauber,Retired,0.0
+2015,14,Japanese Grand Prix,toro_rosso,+1 Lap,1.0
+2015,14,Japanese Grand Prix,toro_rosso,Finished,2.0
+2015,14,Japanese Grand Prix,williams,+2 Laps,0.0
+2015,14,Japanese Grand Prix,williams,Finished,10.0
+2015,15,Russian Grand Prix,ferrari,Finished,22.0
+2015,15,Russian Grand Prix,force_india,Collision,0.0
+2015,15,Russian Grand Prix,force_india,Finished,15.0
+2015,15,Russian Grand Prix,lotus_f1,Accident,0.0
+2015,15,Russian Grand Prix,lotus_f1,Finished,6.0
+2015,15,Russian Grand Prix,manor,+1 Lap,0.0
+2015,15,Russian Grand Prix,manor,+2 Laps,0.0
+2015,15,Russian Grand Prix,mclaren,Finished,2.0
+2015,15,Russian Grand Prix,mercedes,Finished,25.0
+2015,15,Russian Grand Prix,mercedes,Throttle,0.0
+2015,15,Russian Grand Prix,red_bull,Finished,10.0
+2015,15,Russian Grand Prix,red_bull,Suspension,0.0
+2015,15,Russian Grand Prix,sauber,Collision,0.0
+2015,15,Russian Grand Prix,sauber,Finished,8.0
+2015,15,Russian Grand Prix,toro_rosso,Brakes,0.0
+2015,15,Russian Grand Prix,toro_rosso,Finished,1.0
+2015,15,Russian Grand Prix,williams,Collision,0.0
+2015,15,Russian Grand Prix,williams,Finished,12.0
+2015,16,United States Grand Prix,ferrari,Brake duct,0.0
+2015,16,United States Grand Prix,ferrari,Finished,15.0
+2015,16,United States Grand Prix,force_india,Accident,0.0
+2015,16,United States Grand Prix,force_india,Finished,10.0
+2015,16,United States Grand Prix,lotus_f1,Finished,4.0
+2015,16,United States Grand Prix,lotus_f1,Retired,0.0
+2015,16,United States Grand Prix,manor,Finished,0.0
+2015,16,United States Grand Prix,manor,Retired,0.0
+2015,16,United States Grand Prix,mclaren,Finished,8.0
+2015,16,United States Grand Prix,mercedes,Finished,43.0
+2015,16,United States Grand Prix,red_bull,Accident,0.0
+2015,16,United States Grand Prix,red_bull,Finished,1.0
+2015,16,United States Grand Prix,sauber,Finished,2.0
+2015,16,United States Grand Prix,sauber,Retired,0.0
+2015,16,United States Grand Prix,toro_rosso,Finished,18.0
+2015,16,United States Grand Prix,williams,Retired,0.0
+2015,17,Mexican Grand Prix,ferrari,Accident,0.0
+2015,17,Mexican Grand Prix,ferrari,Collision,0.0
+2015,17,Mexican Grand Prix,force_india,Finished,10.0
+2015,17,Mexican Grand Prix,lotus_f1,Finished,1.0
+2015,17,Mexican Grand Prix,manor,+2 Laps,0.0
+2015,17,Mexican Grand Prix,mclaren,Finished,0.0
+2015,17,Mexican Grand Prix,mclaren,Retired,0.0
+2015,17,Mexican Grand Prix,mercedes,Finished,43.0
+2015,17,Mexican Grand Prix,red_bull,Finished,22.0
+2015,17,Mexican Grand Prix,sauber,Brakes,0.0
+2015,17,Mexican Grand Prix,sauber,Finished,0.0
+2015,17,Mexican Grand Prix,toro_rosso,Finished,2.0
+2015,17,Mexican Grand Prix,williams,Finished,23.0
+2015,18,Brazilian Grand Prix,ferrari,Finished,27.0
+2015,18,Brazilian Grand Prix,force_india,+1 Lap,8.0
+2015,18,Brazilian Grand Prix,lotus_f1,+1 Lap,5.0
+2015,18,Brazilian Grand Prix,manor,+4 Laps,0.0
+2015,18,Brazilian Grand Prix,mclaren,+1 Lap,0.0
+2015,18,Brazilian Grand Prix,mercedes,Finished,43.0
+2015,18,Brazilian Grand Prix,red_bull,+1 Lap,6.0
+2015,18,Brazilian Grand Prix,sauber,+1 Lap,0.0
+2015,18,Brazilian Grand Prix,sauber,+2 Laps,0.0
+2015,18,Brazilian Grand Prix,toro_rosso,+1 Lap,2.0
+2015,18,Brazilian Grand Prix,toro_rosso,Retired,0.0
+2015,18,Brazilian Grand Prix,williams,+1 Lap,10.0
+2015,18,Brazilian Grand Prix,williams,Excluded,0.0
+2015,19,Abu Dhabi Grand Prix,ferrari,Finished,27.0
+2015,19,Abu Dhabi Grand Prix,force_india,Finished,16.0
+2015,19,Abu Dhabi Grand Prix,lotus_f1,Collision,0.0
+2015,19,Abu Dhabi Grand Prix,lotus_f1,Finished,2.0
+2015,19,Abu Dhabi Grand Prix,manor,+2 Laps,0.0
+2015,19,Abu Dhabi Grand Prix,manor,+3 Laps,0.0
+2015,19,Abu Dhabi Grand Prix,mclaren,+1 Lap,0.0
+2015,19,Abu Dhabi Grand Prix,mclaren,+2 Laps,0.0
+2015,19,Abu Dhabi Grand Prix,mercedes,Finished,43.0
+2015,19,Abu Dhabi Grand Prix,red_bull,Finished,9.0
+2015,19,Abu Dhabi Grand Prix,sauber,+1 Lap,0.0
+2015,19,Abu Dhabi Grand Prix,toro_rosso,+1 Lap,0.0
+2015,19,Abu Dhabi Grand Prix,toro_rosso,Finished,0.0
+2015,19,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2015,19,Abu Dhabi Grand Prix,williams,Finished,4.0
+2016,1,Australian Grand Prix,ferrari,Engine,0.0
+2016,1,Australian Grand Prix,ferrari,Finished,15.0
+2016,1,Australian Grand Prix,force_india,Finished,6.0
+2016,1,Australian Grand Prix,haas,Collision,0.0
+2016,1,Australian Grand Prix,haas,Finished,8.0
+2016,1,Australian Grand Prix,manor,+1 Lap,0.0
+2016,1,Australian Grand Prix,manor,Mechanical,0.0
+2016,1,Australian Grand Prix,mclaren,+1 Lap,0.0
+2016,1,Australian Grand Prix,mclaren,Collision,0.0
+2016,1,Australian Grand Prix,mercedes,Finished,43.0
+2016,1,Australian Grand Prix,red_bull,Finished,12.0
+2016,1,Australian Grand Prix,red_bull,Retired,0.0
+2016,1,Australian Grand Prix,renault,Finished,0.0
+2016,1,Australian Grand Prix,sauber,+1 Lap,0.0
+2016,1,Australian Grand Prix,sauber,Engine,0.0
+2016,1,Australian Grand Prix,toro_rosso,Finished,3.0
+2016,1,Australian Grand Prix,williams,Finished,14.0
+2016,2,Bahrain Grand Prix,ferrari,Engine,0.0
+2016,2,Bahrain Grand Prix,ferrari,Finished,18.0
+2016,2,Bahrain Grand Prix,force_india,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,haas,Finished,10.0
+2016,2,Bahrain Grand Prix,haas,Retired,0.0
+2016,2,Bahrain Grand Prix,manor,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,mclaren,+1 Lap,1.0
+2016,2,Bahrain Grand Prix,mclaren,Power Unit,0.0
+2016,2,Bahrain Grand Prix,mercedes,Finished,40.0
+2016,2,Bahrain Grand Prix,red_bull,+1 Lap,6.0
+2016,2,Bahrain Grand Prix,red_bull,Finished,12.0
+2016,2,Bahrain Grand Prix,renault,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,renault,Hydraulics,0.0
+2016,2,Bahrain Grand Prix,sauber,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,toro_rosso,Finished,8.0
+2016,2,Bahrain Grand Prix,toro_rosso,Retired,0.0
+2016,2,Bahrain Grand Prix,williams,+1 Lap,6.0
+2016,3,Chinese Grand Prix,ferrari,Finished,28.0
+2016,3,Chinese Grand Prix,force_india,+1 Lap,0.0
+2016,3,Chinese Grand Prix,force_india,Finished,0.0
+2016,3,Chinese Grand Prix,haas,+1 Lap,0.0
+2016,3,Chinese Grand Prix,manor,+1 Lap,0.0
+2016,3,Chinese Grand Prix,mclaren,Finished,0.0
+2016,3,Chinese Grand Prix,mercedes,Finished,31.0
+2016,3,Chinese Grand Prix,red_bull,Finished,27.0
+2016,3,Chinese Grand Prix,renault,+1 Lap,0.0
+2016,3,Chinese Grand Prix,sauber,+1 Lap,0.0
+2016,3,Chinese Grand Prix,toro_rosso,Finished,6.0
+2016,3,Chinese Grand Prix,williams,Finished,9.0
+2016,4,Russian Grand Prix,ferrari,Collision,0.0
+2016,4,Russian Grand Prix,ferrari,Finished,15.0
+2016,4,Russian Grand Prix,force_india,+1 Lap,2.0
+2016,4,Russian Grand Prix,force_india,Collision,0.0
+2016,4,Russian Grand Prix,haas,+1 Lap,4.0
+2016,4,Russian Grand Prix,manor,+2 Laps,0.0
+2016,4,Russian Grand Prix,manor,Collision,0.0
+2016,4,Russian Grand Prix,mclaren,+1 Lap,9.0
+2016,4,Russian Grand Prix,mercedes,Finished,43.0
+2016,4,Russian Grand Prix,red_bull,+1 Lap,0.0
+2016,4,Russian Grand Prix,renault,+1 Lap,6.0
+2016,4,Russian Grand Prix,sauber,+1 Lap,0.0
+2016,4,Russian Grand Prix,toro_rosso,+1 Lap,0.0
+2016,4,Russian Grand Prix,toro_rosso,Power Unit,0.0
+2016,4,Russian Grand Prix,williams,Finished,22.0
+2016,5,Spanish Grand Prix,ferrari,Finished,33.0
+2016,5,Spanish Grand Prix,force_india,Engine,0.0
+2016,5,Spanish Grand Prix,force_india,Finished,6.0
+2016,5,Spanish Grand Prix,haas,+1 Lap,0.0
+2016,5,Spanish Grand Prix,haas,Engine,0.0
+2016,5,Spanish Grand Prix,manor,+1 Lap,0.0
+2016,5,Spanish Grand Prix,mclaren,+1 Lap,2.0
+2016,5,Spanish Grand Prix,mclaren,Engine,0.0
+2016,5,Spanish Grand Prix,mercedes,Collision,0.0
+2016,5,Spanish Grand Prix,red_bull,Finished,37.0
+2016,5,Spanish Grand Prix,renault,+1 Lap,0.0
+2016,5,Spanish Grand Prix,sauber,+1 Lap,0.0
+2016,5,Spanish Grand Prix,toro_rosso,+1 Lap,1.0
+2016,5,Spanish Grand Prix,toro_rosso,Finished,8.0
+2016,5,Spanish Grand Prix,williams,Finished,14.0
+2016,6,Monaco Grand Prix,ferrari,Accident,0.0
+2016,6,Monaco Grand Prix,ferrari,Finished,12.0
+2016,6,Monaco Grand Prix,force_india,Finished,23.0
+2016,6,Monaco Grand Prix,haas,+1 Lap,0.0
+2016,6,Monaco Grand Prix,haas,+2 Laps,0.0
+2016,6,Monaco Grand Prix,manor,+2 Laps,0.0
+2016,6,Monaco Grand Prix,manor,+4 Laps,0.0
+2016,6,Monaco Grand Prix,mclaren,+1 Lap,2.0
+2016,6,Monaco Grand Prix,mclaren,Finished,10.0
+2016,6,Monaco Grand Prix,mercedes,Finished,31.0
+2016,6,Monaco Grand Prix,red_bull,Accident,0.0
+2016,6,Monaco Grand Prix,red_bull,Finished,18.0
+2016,6,Monaco Grand Prix,renault,Accident,0.0
+2016,6,Monaco Grand Prix,renault,Retired,0.0
+2016,6,Monaco Grand Prix,sauber,Collision,0.0
+2016,6,Monaco Grand Prix,sauber,Retired,0.0
+2016,6,Monaco Grand Prix,toro_rosso,+1 Lap,4.0
+2016,6,Monaco Grand Prix,toro_rosso,Accident,0.0
+2016,6,Monaco Grand Prix,williams,+1 Lap,1.0
+2016,7,Canadian Grand Prix,ferrari,Finished,26.0
+2016,7,Canadian Grand Prix,force_india,+1 Lap,5.0
+2016,7,Canadian Grand Prix,haas,+2 Laps,0.0
+2016,7,Canadian Grand Prix,manor,+2 Laps,0.0
+2016,7,Canadian Grand Prix,mclaren,+1 Lap,0.0
+2016,7,Canadian Grand Prix,mclaren,Power Unit,0.0
+2016,7,Canadian Grand Prix,mercedes,Finished,35.0
+2016,7,Canadian Grand Prix,red_bull,Finished,18.0
+2016,7,Canadian Grand Prix,renault,+2 Laps,0.0
+2016,7,Canadian Grand Prix,renault,Retired,0.0
+2016,7,Canadian Grand Prix,sauber,+2 Laps,0.0
+2016,7,Canadian Grand Prix,toro_rosso,+1 Lap,2.0
+2016,7,Canadian Grand Prix,williams,Finished,15.0
+2016,7,Canadian Grand Prix,williams,Retired,0.0
+2016,8,European Grand Prix,ferrari,Finished,30.0
+2016,8,European Grand Prix,force_india,Finished,17.0
+2016,8,European Grand Prix,haas,+1 Lap,0.0
+2016,8,European Grand Prix,manor,+2 Laps,0.0
+2016,8,European Grand Prix,manor,Brakes,0.0
+2016,8,European Grand Prix,mclaren,Finished,0.0
+2016,8,European Grand Prix,mclaren,Gearbox,0.0
+2016,8,European Grand Prix,mercedes,Finished,35.0
+2016,8,European Grand Prix,red_bull,Finished,10.0
+2016,8,European Grand Prix,renault,+1 Lap,0.0
+2016,8,European Grand Prix,sauber,+1 Lap,0.0
+2016,8,European Grand Prix,toro_rosso,Suspension,0.0
+2016,8,European Grand Prix,williams,Finished,9.0
+2016,9,Austrian Grand Prix,ferrari,Finished,15.0
+2016,9,Austrian Grand Prix,ferrari,Tyre,0.0
+2016,9,Austrian Grand Prix,force_india,Brakes,0.0
+2016,9,Austrian Grand Prix,haas,+1 Lap,0.0
+2016,9,Austrian Grand Prix,haas,Finished,6.0
+2016,9,Austrian Grand Prix,manor,+1 Lap,1.0
+2016,9,Austrian Grand Prix,mclaren,Battery,0.0
+2016,9,Austrian Grand Prix,mclaren,Finished,8.0
+2016,9,Austrian Grand Prix,mercedes,Finished,37.0
+2016,9,Austrian Grand Prix,red_bull,Finished,28.0
+2016,9,Austrian Grand Prix,renault,+1 Lap,0.0
+2016,9,Austrian Grand Prix,sauber,+1 Lap,0.0
+2016,9,Austrian Grand Prix,toro_rosso,Finished,4.0
+2016,9,Austrian Grand Prix,toro_rosso,Retired,0.0
+2016,9,Austrian Grand Prix,williams,+1 Lap,2.0
+2016,9,Austrian Grand Prix,williams,Brakes,0.0
+2016,10,British Grand Prix,ferrari,Finished,12.0
+2016,10,British Grand Prix,force_india,Finished,14.0
+2016,10,British Grand Prix,haas,+1 Lap,0.0
+2016,10,British Grand Prix,haas,Retired,0.0
+2016,10,British Grand Prix,manor,Spun off,0.0
+2016,10,British Grand Prix,mclaren,+1 Lap,0.0
+2016,10,British Grand Prix,mercedes,Finished,40.0
+2016,10,British Grand Prix,red_bull,Finished,30.0
+2016,10,British Grand Prix,renault,Gearbox,0.0
+2016,10,British Grand Prix,sauber,+1 Lap,0.0
+2016,10,British Grand Prix,sauber,Power Unit,0.0
+2016,10,British Grand Prix,toro_rosso,Finished,5.0
+2016,10,British Grand Prix,williams,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,ferrari,Finished,20.0
+2016,11,Hungarian Grand Prix,force_india,+1 Lap,1.0
+2016,11,Hungarian Grand Prix,haas,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,manor,+2 Laps,0.0
+2016,11,Hungarian Grand Prix,mclaren,+1 Lap,6.0
+2016,11,Hungarian Grand Prix,mclaren,Oil leak,0.0
+2016,11,Hungarian Grand Prix,mercedes,Finished,43.0
+2016,11,Hungarian Grand Prix,red_bull,Finished,25.0
+2016,11,Hungarian Grand Prix,renault,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,sauber,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,sauber,+2 Laps,0.0
+2016,11,Hungarian Grand Prix,toro_rosso,+1 Lap,4.0
+2016,11,Hungarian Grand Prix,williams,+1 Lap,2.0
+2016,11,Hungarian Grand Prix,williams,+2 Laps,0.0
+2016,12,German Grand Prix,ferrari,Finished,18.0
+2016,12,German Grand Prix,force_india,+1 Lap,1.0
+2016,12,German Grand Prix,force_india,Finished,6.0
+2016,12,German Grand Prix,haas,+1 Lap,0.0
+2016,12,German Grand Prix,manor,+2 Laps,0.0
+2016,12,German Grand Prix,mclaren,+1 Lap,4.0
+2016,12,German Grand Prix,mercedes,Finished,37.0
+2016,12,German Grand Prix,red_bull,Finished,33.0
+2016,12,German Grand Prix,renault,+1 Lap,0.0
+2016,12,German Grand Prix,renault,+2 Laps,0.0
+2016,12,German Grand Prix,sauber,+2 Laps,0.0
+2016,12,German Grand Prix,sauber,Power Unit,0.0
+2016,12,German Grand Prix,toro_rosso,+1 Lap,0.0
+2016,12,German Grand Prix,williams,+1 Lap,2.0
+2016,12,German Grand Prix,williams,Suspension,0.0
+2016,13,Belgian Grand Prix,ferrari,Finished,10.0
+2016,13,Belgian Grand Prix,force_india,Finished,22.0
+2016,13,Belgian Grand Prix,haas,Finished,0.0
+2016,13,Belgian Grand Prix,manor,+1 Lap,0.0
+2016,13,Belgian Grand Prix,manor,Collision damage,0.0
+2016,13,Belgian Grand Prix,mclaren,Collision damage,0.0
+2016,13,Belgian Grand Prix,mclaren,Finished,6.0
+2016,13,Belgian Grand Prix,mercedes,Finished,40.0
+2016,13,Belgian Grand Prix,red_bull,Finished,18.0
+2016,13,Belgian Grand Prix,renault,Accident,0.0
+2016,13,Belgian Grand Prix,renault,Finished,0.0
+2016,13,Belgian Grand Prix,sauber,+1 Lap,0.0
+2016,13,Belgian Grand Prix,sauber,Gearbox,0.0
+2016,13,Belgian Grand Prix,toro_rosso,Finished,0.0
+2016,13,Belgian Grand Prix,toro_rosso,Puncture,0.0
+2016,13,Belgian Grand Prix,williams,Finished,5.0
+2016,14,Italian Grand Prix,ferrari,Finished,27.0
+2016,14,Italian Grand Prix,force_india,Finished,5.0
+2016,14,Italian Grand Prix,haas,+1 Lap,0.0
+2016,14,Italian Grand Prix,manor,+2 Laps,0.0
+2016,14,Italian Grand Prix,manor,Oil leak,0.0
+2016,14,Italian Grand Prix,mclaren,+1 Lap,0.0
+2016,14,Italian Grand Prix,mercedes,Finished,43.0
+2016,14,Italian Grand Prix,red_bull,Finished,16.0
+2016,14,Italian Grand Prix,renault,+1 Lap,0.0
+2016,14,Italian Grand Prix,renault,Collision damage,0.0
+2016,14,Italian Grand Prix,sauber,+1 Lap,0.0
+2016,14,Italian Grand Prix,sauber,Collision damage,0.0
+2016,14,Italian Grand Prix,toro_rosso,+1 Lap,0.0
+2016,14,Italian Grand Prix,toro_rosso,Battery,0.0
+2016,14,Italian Grand Prix,williams,Finished,10.0
+2016,15,Singapore Grand Prix,ferrari,Finished,22.0
+2016,15,Singapore Grand Prix,force_india,Collision,0.0
+2016,15,Singapore Grand Prix,force_india,Finished,4.0
+2016,15,Singapore Grand Prix,haas,+1 Lap,0.0
+2016,15,Singapore Grand Prix,haas,Withdrew,0.0
+2016,15,Singapore Grand Prix,manor,+1 Lap,0.0
+2016,15,Singapore Grand Prix,manor,+2 Laps,0.0
+2016,15,Singapore Grand Prix,mclaren,Brakes,0.0
+2016,15,Singapore Grand Prix,mclaren,Finished,6.0
+2016,15,Singapore Grand Prix,mercedes,Finished,40.0
+2016,15,Singapore Grand Prix,red_bull,Finished,26.0
+2016,15,Singapore Grand Prix,renault,+1 Lap,0.0
+2016,15,Singapore Grand Prix,renault,Finished,1.0
+2016,15,Singapore Grand Prix,sauber,+1 Lap,0.0
+2016,15,Singapore Grand Prix,toro_rosso,+1 Lap,0.0
+2016,15,Singapore Grand Prix,toro_rosso,Finished,2.0
+2016,15,Singapore Grand Prix,williams,+1 Lap,0.0
+2016,15,Singapore Grand Prix,williams,Overheating,0.0
+2016,16,Malaysian Grand Prix,ferrari,Collision,0.0
+2016,16,Malaysian Grand Prix,ferrari,Finished,12.0
+2016,16,Malaysian Grand Prix,force_india,Finished,12.0
+2016,16,Malaysian Grand Prix,haas,Brakes,0.0
+2016,16,Malaysian Grand Prix,haas,Wheel nut,0.0
+2016,16,Malaysian Grand Prix,manor,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,mclaren,Finished,8.0
+2016,16,Malaysian Grand Prix,mercedes,Engine,0.0
+2016,16,Malaysian Grand Prix,mercedes,Finished,15.0
+2016,16,Malaysian Grand Prix,red_bull,Finished,43.0
+2016,16,Malaysian Grand Prix,renault,Finished,1.0
+2016,16,Malaysian Grand Prix,renault,Power loss,0.0
+2016,16,Malaysian Grand Prix,sauber,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,sauber,Brakes,0.0
+2016,16,Malaysian Grand Prix,toro_rosso,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,toro_rosso,Finished,0.0
+2016,16,Malaysian Grand Prix,williams,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,williams,Finished,10.0
+2016,17,Japanese Grand Prix,ferrari,Finished,22.0
+2016,17,Japanese Grand Prix,force_india,Finished,10.0
+2016,17,Japanese Grand Prix,haas,+1 Lap,0.0
+2016,17,Japanese Grand Prix,haas,Finished,0.0
+2016,17,Japanese Grand Prix,manor,+1 Lap,0.0
+2016,17,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2016,17,Japanese Grand Prix,mercedes,Finished,40.0
+2016,17,Japanese Grand Prix,red_bull,Finished,26.0
+2016,17,Japanese Grand Prix,renault,+1 Lap,0.0
+2016,17,Japanese Grand Prix,sauber,+1 Lap,0.0
+2016,17,Japanese Grand Prix,toro_rosso,+1 Lap,0.0
+2016,17,Japanese Grand Prix,williams,Finished,3.0
+2016,18,United States Grand Prix,ferrari,Finished,12.0
+2016,18,United States Grand Prix,ferrari,Wheel,0.0
+2016,18,United States Grand Prix,force_india,+1 Lap,4.0
+2016,18,United States Grand Prix,force_india,Collision,0.0
+2016,18,United States Grand Prix,haas,+1 Lap,1.0
+2016,18,United States Grand Prix,haas,Brakes,0.0
+2016,18,United States Grand Prix,manor,+1 Lap,0.0
+2016,18,United States Grand Prix,manor,+2 Laps,0.0
+2016,18,United States Grand Prix,mclaren,+1 Lap,2.0
+2016,18,United States Grand Prix,mclaren,Finished,10.0
+2016,18,United States Grand Prix,mercedes,Finished,43.0
+2016,18,United States Grand Prix,red_bull,Finished,15.0
+2016,18,United States Grand Prix,red_bull,Gearbox,0.0
+2016,18,United States Grand Prix,renault,+1 Lap,0.0
+2016,18,United States Grand Prix,sauber,+1 Lap,0.0
+2016,18,United States Grand Prix,toro_rosso,+1 Lap,0.0
+2016,18,United States Grand Prix,toro_rosso,Finished,8.0
+2016,18,United States Grand Prix,williams,+1 Lap,6.0
+2016,19,Mexican Grand Prix,ferrari,Finished,18.0
+2016,19,Mexican Grand Prix,force_india,Finished,7.0
+2016,19,Mexican Grand Prix,haas,+1 Lap,0.0
+2016,19,Mexican Grand Prix,manor,+2 Laps,0.0
+2016,19,Mexican Grand Prix,manor,Collision,0.0
+2016,19,Mexican Grand Prix,mclaren,+1 Lap,0.0
+2016,19,Mexican Grand Prix,mercedes,Finished,43.0
+2016,19,Mexican Grand Prix,red_bull,Finished,27.0
+2016,19,Mexican Grand Prix,renault,+1 Lap,0.0
+2016,19,Mexican Grand Prix,sauber,+1 Lap,0.0
+2016,19,Mexican Grand Prix,toro_rosso,+1 Lap,0.0
+2016,19,Mexican Grand Prix,williams,Finished,6.0
+2016,20,Brazilian Grand Prix,ferrari,Collision,0.0
+2016,20,Brazilian Grand Prix,ferrari,Finished,10.0
+2016,20,Brazilian Grand Prix,force_india,Finished,18.0
+2016,20,Brazilian Grand Prix,haas,Retired,0.0
+2016,20,Brazilian Grand Prix,haas,Withdrew,0.0
+2016,20,Brazilian Grand Prix,manor,Finished,0.0
+2016,20,Brazilian Grand Prix,mclaren,Finished,1.0
+2016,20,Brazilian Grand Prix,mercedes,Finished,43.0
+2016,20,Brazilian Grand Prix,red_bull,Finished,19.0
+2016,20,Brazilian Grand Prix,renault,Collision damage,0.0
+2016,20,Brazilian Grand Prix,renault,Finished,0.0
+2016,20,Brazilian Grand Prix,sauber,Collision,0.0
+2016,20,Brazilian Grand Prix,sauber,Finished,2.0
+2016,20,Brazilian Grand Prix,toro_rosso,Finished,8.0
+2016,20,Brazilian Grand Prix,williams,Collision,0.0
+2016,20,Brazilian Grand Prix,williams,Finished,0.0
+2016,21,Abu Dhabi Grand Prix,ferrari,Finished,23.0
+2016,21,Abu Dhabi Grand Prix,force_india,Finished,10.0
+2016,21,Abu Dhabi Grand Prix,haas,Finished,0.0
+2016,21,Abu Dhabi Grand Prix,manor,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,mclaren,Finished,1.0
+2016,21,Abu Dhabi Grand Prix,mclaren,Suspension,0.0
+2016,21,Abu Dhabi Grand Prix,mercedes,Finished,43.0
+2016,21,Abu Dhabi Grand Prix,red_bull,Finished,22.0
+2016,21,Abu Dhabi Grand Prix,renault,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,renault,Suspension,0.0
+2016,21,Abu Dhabi Grand Prix,sauber,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,toro_rosso,Collision damage,0.0
+2016,21,Abu Dhabi Grand Prix,toro_rosso,Gearbox,0.0
+2016,21,Abu Dhabi Grand Prix,williams,Finished,2.0
+2016,21,Abu Dhabi Grand Prix,williams,Suspension,0.0
+2017,1,Australian Grand Prix,ferrari,Finished,37.0
+2017,1,Australian Grand Prix,force_india,+1 Lap,7.0
+2017,1,Australian Grand Prix,haas,Suspension,0.0
+2017,1,Australian Grand Prix,haas,Water leak,0.0
+2017,1,Australian Grand Prix,mclaren,+2 Laps,0.0
+2017,1,Australian Grand Prix,mclaren,Vibrations,0.0
+2017,1,Australian Grand Prix,mercedes,Finished,33.0
+2017,1,Australian Grand Prix,red_bull,Finished,10.0
+2017,1,Australian Grand Prix,red_bull,Power Unit,0.0
+2017,1,Australian Grand Prix,renault,+1 Lap,0.0
+2017,1,Australian Grand Prix,renault,Brakes,0.0
+2017,1,Australian Grand Prix,sauber,+2 Laps,0.0
+2017,1,Australian Grand Prix,sauber,Hydraulics,0.0
+2017,1,Australian Grand Prix,toro_rosso,+1 Lap,6.0
+2017,1,Australian Grand Prix,williams,Brakes,0.0
+2017,1,Australian Grand Prix,williams,Finished,8.0
+2017,2,Chinese Grand Prix,ferrari,Finished,28.0
+2017,2,Chinese Grand Prix,force_india,+1 Lap,3.0
+2017,2,Chinese Grand Prix,haas,+1 Lap,4.0
+2017,2,Chinese Grand Prix,mclaren,Driveshaft,0.0
+2017,2,Chinese Grand Prix,mclaren,Fuel pressure,0.0
+2017,2,Chinese Grand Prix,mercedes,Finished,33.0
+2017,2,Chinese Grand Prix,red_bull,Finished,27.0
+2017,2,Chinese Grand Prix,renault,+1 Lap,0.0
+2017,2,Chinese Grand Prix,sauber,+1 Lap,0.0
+2017,2,Chinese Grand Prix,sauber,Accident,0.0
+2017,2,Chinese Grand Prix,toro_rosso,Finished,6.0
+2017,2,Chinese Grand Prix,toro_rosso,Hydraulics,0.0
+2017,2,Chinese Grand Prix,williams,+1 Lap,0.0
+2017,2,Chinese Grand Prix,williams,Collision,0.0
+2017,3,Bahrain Grand Prix,ferrari,Finished,37.0
+2017,3,Bahrain Grand Prix,force_india,Finished,7.0
+2017,3,Bahrain Grand Prix,haas,Electrical,0.0
+2017,3,Bahrain Grand Prix,haas,Finished,4.0
+2017,3,Bahrain Grand Prix,mclaren,Power Unit,0.0
+2017,3,Bahrain Grand Prix,mercedes,Finished,33.0
+2017,3,Bahrain Grand Prix,red_bull,Brakes,0.0
+2017,3,Bahrain Grand Prix,red_bull,Finished,10.0
+2017,3,Bahrain Grand Prix,renault,+1 Lap,0.0
+2017,3,Bahrain Grand Prix,renault,Finished,2.0
+2017,3,Bahrain Grand Prix,sauber,+1 Lap,0.0
+2017,3,Bahrain Grand Prix,sauber,Gearbox,0.0
+2017,3,Bahrain Grand Prix,toro_rosso,+1 Lap,0.0
+2017,3,Bahrain Grand Prix,toro_rosso,Collision,0.0
+2017,3,Bahrain Grand Prix,williams,Collision,0.0
+2017,3,Bahrain Grand Prix,williams,Finished,8.0
+2017,4,Russian Grand Prix,ferrari,Finished,33.0
+2017,4,Russian Grand Prix,force_india,Finished,14.0
+2017,4,Russian Grand Prix,haas,+1 Lap,0.0
+2017,4,Russian Grand Prix,haas,Collision,0.0
+2017,4,Russian Grand Prix,mclaren,+1 Lap,0.0
+2017,4,Russian Grand Prix,mclaren,Power Unit,0.0
+2017,4,Russian Grand Prix,mercedes,Finished,37.0
+2017,4,Russian Grand Prix,red_bull,Brakes,0.0
+2017,4,Russian Grand Prix,red_bull,Finished,10.0
+2017,4,Russian Grand Prix,renault,Collision,0.0
+2017,4,Russian Grand Prix,renault,Finished,4.0
+2017,4,Russian Grand Prix,sauber,+1 Lap,0.0
+2017,4,Russian Grand Prix,sauber,+2 Laps,0.0
+2017,4,Russian Grand Prix,toro_rosso,+1 Lap,1.0
+2017,4,Russian Grand Prix,williams,+1 Lap,2.0
+2017,5,Spanish Grand Prix,ferrari,Collision damage,0.0
+2017,5,Spanish Grand Prix,ferrari,Finished,18.0
+2017,5,Spanish Grand Prix,force_india,+1 Lap,22.0
+2017,5,Spanish Grand Prix,haas,+1 Lap,1.0
+2017,5,Spanish Grand Prix,haas,+2 Laps,0.0
+2017,5,Spanish Grand Prix,mclaren,+2 Laps,0.0
+2017,5,Spanish Grand Prix,mclaren,Collision,0.0
+2017,5,Spanish Grand Prix,mercedes,Finished,25.0
+2017,5,Spanish Grand Prix,mercedes,Power Unit,0.0
+2017,5,Spanish Grand Prix,red_bull,Collision damage,0.0
+2017,5,Spanish Grand Prix,red_bull,Finished,15.0
+2017,5,Spanish Grand Prix,renault,+1 Lap,8.0
+2017,5,Spanish Grand Prix,renault,+2 Laps,0.0
+2017,5,Spanish Grand Prix,sauber,+1 Lap,4.0
+2017,5,Spanish Grand Prix,sauber,+2 Laps,0.0
+2017,5,Spanish Grand Prix,toro_rosso,+1 Lap,8.0
+2017,5,Spanish Grand Prix,williams,+2 Laps,0.0
+2017,6,Monaco Grand Prix,ferrari,Finished,43.0
+2017,6,Monaco Grand Prix,force_india,Finished,0.0
+2017,6,Monaco Grand Prix,haas,Finished,5.0
+2017,6,Monaco Grand Prix,mclaren,Accident,0.0
+2017,6,Monaco Grand Prix,mclaren,Collision damage,0.0
+2017,6,Monaco Grand Prix,mercedes,Finished,18.0
+2017,6,Monaco Grand Prix,red_bull,Finished,25.0
+2017,6,Monaco Grand Prix,renault,Finished,0.0
+2017,6,Monaco Grand Prix,renault,Gearbox,0.0
+2017,6,Monaco Grand Prix,sauber,Accident,0.0
+2017,6,Monaco Grand Prix,sauber,Collision,0.0
+2017,6,Monaco Grand Prix,toro_rosso,Collision damage,0.0
+2017,6,Monaco Grand Prix,toro_rosso,Finished,8.0
+2017,6,Monaco Grand Prix,williams,Brakes,0.0
+2017,6,Monaco Grand Prix,williams,Finished,2.0
+2017,7,Canadian Grand Prix,ferrari,Finished,18.0
+2017,7,Canadian Grand Prix,force_india,Finished,18.0
+2017,7,Canadian Grand Prix,haas,+1 Lap,1.0
+2017,7,Canadian Grand Prix,mclaren,+1 Lap,0.0
+2017,7,Canadian Grand Prix,mclaren,Power Unit,0.0
+2017,7,Canadian Grand Prix,mercedes,Finished,43.0
+2017,7,Canadian Grand Prix,red_bull,Electrical,0.0
+2017,7,Canadian Grand Prix,red_bull,Finished,15.0
+2017,7,Canadian Grand Prix,renault,+1 Lap,0.0
+2017,7,Canadian Grand Prix,renault,Finished,4.0
+2017,7,Canadian Grand Prix,sauber,+1 Lap,0.0
+2017,7,Canadian Grand Prix,sauber,+2 Laps,0.0
+2017,7,Canadian Grand Prix,toro_rosso,Collision,0.0
+2017,7,Canadian Grand Prix,toro_rosso,Power Unit,0.0
+2017,7,Canadian Grand Prix,williams,+1 Lap,2.0
+2017,7,Canadian Grand Prix,williams,Collision,0.0
+2017,8,Azerbaijan Grand Prix,ferrari,Finished,12.0
+2017,8,Azerbaijan Grand Prix,ferrari,Water pressure,0.0
+2017,8,Azerbaijan Grand Prix,force_india,Finished,8.0
+2017,8,Azerbaijan Grand Prix,force_india,Seat,0.0
+2017,8,Azerbaijan Grand Prix,haas,+1 Lap,0.0
+2017,8,Azerbaijan Grand Prix,haas,Finished,6.0
+2017,8,Azerbaijan Grand Prix,mclaren,Finished,2.0
+2017,8,Azerbaijan Grand Prix,mercedes,Finished,28.0
+2017,8,Azerbaijan Grand Prix,red_bull,Finished,25.0
+2017,8,Azerbaijan Grand Prix,red_bull,Oil pressure,0.0
+2017,8,Azerbaijan Grand Prix,renault,Accident,0.0
+2017,8,Azerbaijan Grand Prix,renault,Power Unit,0.0
+2017,8,Azerbaijan Grand Prix,sauber,Finished,1.0
+2017,8,Azerbaijan Grand Prix,toro_rosso,Battery,0.0
+2017,8,Azerbaijan Grand Prix,toro_rosso,Finished,4.0
+2017,8,Azerbaijan Grand Prix,williams,Finished,15.0
+2017,8,Azerbaijan Grand Prix,williams,Suspension,0.0
+2017,9,Austrian Grand Prix,ferrari,Finished,28.0
+2017,9,Austrian Grand Prix,force_india,+1 Lap,10.0
+2017,9,Austrian Grand Prix,haas,Finished,8.0
+2017,9,Austrian Grand Prix,haas,Hydraulics,0.0
+2017,9,Austrian Grand Prix,mclaren,+1 Lap,0.0
+2017,9,Austrian Grand Prix,mclaren,Collision damage,0.0
+2017,9,Austrian Grand Prix,mercedes,Finished,37.0
+2017,9,Austrian Grand Prix,red_bull,Collision damage,0.0
+2017,9,Austrian Grand Prix,red_bull,Finished,15.0
+2017,9,Austrian Grand Prix,renault,+1 Lap,0.0
+2017,9,Austrian Grand Prix,sauber,+1 Lap,0.0
+2017,9,Austrian Grand Prix,sauber,+2 Laps,0.0
+2017,9,Austrian Grand Prix,toro_rosso,+3 Laps,0.0
+2017,9,Austrian Grand Prix,toro_rosso,Engine,0.0
+2017,9,Austrian Grand Prix,williams,+1 Lap,3.0
+2017,10,British Grand Prix,ferrari,Finished,21.0
+2017,10,British Grand Prix,force_india,+1 Lap,6.0
+2017,10,British Grand Prix,haas,+1 Lap,0.0
+2017,10,British Grand Prix,mclaren,+1 Lap,0.0
+2017,10,British Grand Prix,mclaren,Power Unit,0.0
+2017,10,British Grand Prix,mercedes,Finished,43.0
+2017,10,British Grand Prix,red_bull,Finished,22.0
+2017,10,British Grand Prix,renault,Finished,8.0
+2017,10,British Grand Prix,renault,Hydraulics,0.0
+2017,10,British Grand Prix,sauber,+1 Lap,0.0
+2017,10,British Grand Prix,toro_rosso,+1 Lap,0.0
+2017,10,British Grand Prix,toro_rosso,Collision damage,0.0
+2017,10,British Grand Prix,williams,+1 Lap,1.0
+2017,11,Hungarian Grand Prix,ferrari,Finished,43.0
+2017,11,Hungarian Grand Prix,force_india,+1 Lap,6.0
+2017,11,Hungarian Grand Prix,haas,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,haas,Wheel nut,0.0
+2017,11,Hungarian Grand Prix,mclaren,+1 Lap,1.0
+2017,11,Hungarian Grand Prix,mclaren,Finished,8.0
+2017,11,Hungarian Grand Prix,mercedes,Finished,27.0
+2017,11,Hungarian Grand Prix,red_bull,Collision,0.0
+2017,11,Hungarian Grand Prix,red_bull,Finished,10.0
+2017,11,Hungarian Grand Prix,renault,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,renault,Brakes,0.0
+2017,11,Hungarian Grand Prix,sauber,+2 Laps,0.0
+2017,11,Hungarian Grand Prix,toro_rosso,+1 Lap,6.0
+2017,11,Hungarian Grand Prix,williams,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,williams,Oil leak,0.0
+2017,12,Belgian Grand Prix,ferrari,Finished,30.0
+2017,12,Belgian Grand Prix,force_india,Finished,2.0
+2017,12,Belgian Grand Prix,force_india,Gearbox,0.0
+2017,12,Belgian Grand Prix,haas,Finished,6.0
+2017,12,Belgian Grand Prix,mclaren,Engine,0.0
+2017,12,Belgian Grand Prix,mclaren,Finished,0.0
+2017,12,Belgian Grand Prix,mercedes,Finished,35.0
+2017,12,Belgian Grand Prix,red_bull,Engine,0.0
+2017,12,Belgian Grand Prix,red_bull,Finished,15.0
+2017,12,Belgian Grand Prix,renault,Finished,8.0
+2017,12,Belgian Grand Prix,sauber,Collision,0.0
+2017,12,Belgian Grand Prix,sauber,Finished,0.0
+2017,12,Belgian Grand Prix,toro_rosso,Finished,1.0
+2017,12,Belgian Grand Prix,williams,Finished,4.0
+2017,13,Italian Grand Prix,ferrari,Finished,25.0
+2017,13,Italian Grand Prix,force_india,Finished,10.0
+2017,13,Italian Grand Prix,haas,+1 Lap,0.0
+2017,13,Italian Grand Prix,mclaren,Engine,0.0
+2017,13,Italian Grand Prix,mclaren,Gearbox,0.0
+2017,13,Italian Grand Prix,mercedes,Finished,43.0
+2017,13,Italian Grand Prix,red_bull,+1 Lap,1.0
+2017,13,Italian Grand Prix,red_bull,Finished,12.0
+2017,13,Italian Grand Prix,renault,+1 Lap,0.0
+2017,13,Italian Grand Prix,renault,Engine,0.0
+2017,13,Italian Grand Prix,sauber,+2 Laps,0.0
+2017,13,Italian Grand Prix,sauber,Gearbox,0.0
+2017,13,Italian Grand Prix,toro_rosso,+1 Lap,0.0
+2017,13,Italian Grand Prix,williams,Finished,10.0
+2017,14,Singapore Grand Prix,ferrari,Accident,0.0
+2017,14,Singapore Grand Prix,force_india,Finished,11.0
+2017,14,Singapore Grand Prix,haas,Engine,0.0
+2017,14,Singapore Grand Prix,haas,Finished,2.0
+2017,14,Singapore Grand Prix,mclaren,Collision damage,0.0
+2017,14,Singapore Grand Prix,mclaren,Finished,6.0
+2017,14,Singapore Grand Prix,mercedes,Finished,40.0
+2017,14,Singapore Grand Prix,red_bull,Accident,0.0
+2017,14,Singapore Grand Prix,red_bull,Finished,18.0
+2017,14,Singapore Grand Prix,renault,Engine,0.0
+2017,14,Singapore Grand Prix,renault,Finished,8.0
+2017,14,Singapore Grand Prix,sauber,+2 Laps,0.0
+2017,14,Singapore Grand Prix,sauber,Accident,0.0
+2017,14,Singapore Grand Prix,toro_rosso,Accident,0.0
+2017,14,Singapore Grand Prix,toro_rosso,Finished,12.0
+2017,14,Singapore Grand Prix,williams,Finished,4.0
+2017,15,Malaysian Grand Prix,ferrari,Battery,0.0
+2017,15,Malaysian Grand Prix,ferrari,Finished,12.0
+2017,15,Malaysian Grand Prix,force_india,+1 Lap,1.0
+2017,15,Malaysian Grand Prix,force_india,Finished,8.0
+2017,15,Malaysian Grand Prix,haas,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,mclaren,+1 Lap,6.0
+2017,15,Malaysian Grand Prix,mercedes,Finished,28.0
+2017,15,Malaysian Grand Prix,red_bull,Finished,40.0
+2017,15,Malaysian Grand Prix,renault,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,sauber,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,sauber,+2 Laps,0.0
+2017,15,Malaysian Grand Prix,toro_rosso,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,toro_rosso,Engine,0.0
+2017,15,Malaysian Grand Prix,williams,+1 Lap,6.0
+2017,16,Japanese Grand Prix,ferrari,Finished,10.0
+2017,16,Japanese Grand Prix,ferrari,Spark plugs,0.0
+2017,16,Japanese Grand Prix,force_india,Finished,14.0
+2017,16,Japanese Grand Prix,haas,Finished,6.0
+2017,16,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2017,16,Japanese Grand Prix,mercedes,Finished,37.0
+2017,16,Japanese Grand Prix,red_bull,Finished,33.0
+2017,16,Japanese Grand Prix,renault,+1 Lap,0.0
+2017,16,Japanese Grand Prix,renault,Front wing,0.0
+2017,16,Japanese Grand Prix,sauber,+2 Laps,0.0
+2017,16,Japanese Grand Prix,sauber,Accident,0.0
+2017,16,Japanese Grand Prix,toro_rosso,+1 Lap,0.0
+2017,16,Japanese Grand Prix,toro_rosso,Accident,0.0
+2017,16,Japanese Grand Prix,williams,+1 Lap,1.0
+2017,16,Japanese Grand Prix,williams,Wheel,0.0
+2017,17,United States Grand Prix,ferrari,Finished,33.0
+2017,17,United States Grand Prix,force_india,+1 Lap,4.0
+2017,17,United States Grand Prix,force_india,Finished,8.0
+2017,17,United States Grand Prix,haas,+1 Lap,0.0
+2017,17,United States Grand Prix,mclaren,+1 Lap,0.0
+2017,17,United States Grand Prix,mclaren,Engine,0.0
+2017,17,United States Grand Prix,mercedes,Finished,35.0
+2017,17,United States Grand Prix,red_bull,Engine,0.0
+2017,17,United States Grand Prix,red_bull,Finished,12.0
+2017,17,United States Grand Prix,renault,Engine,0.0
+2017,17,United States Grand Prix,renault,Finished,6.0
+2017,17,United States Grand Prix,sauber,+1 Lap,0.0
+2017,17,United States Grand Prix,sauber,Collision,0.0
+2017,17,United States Grand Prix,toro_rosso,+1 Lap,1.0
+2017,17,United States Grand Prix,williams,+1 Lap,2.0
+2017,18,Mexican Grand Prix,ferrari,Finished,27.0
+2017,18,Mexican Grand Prix,force_india,+1 Lap,16.0
+2017,18,Mexican Grand Prix,haas,+1 Lap,4.0
+2017,18,Mexican Grand Prix,haas,+2 Laps,0.0
+2017,18,Mexican Grand Prix,mclaren,+1 Lap,1.0
+2017,18,Mexican Grand Prix,mercedes,+1 Lap,2.0
+2017,18,Mexican Grand Prix,mercedes,Finished,18.0
+2017,18,Mexican Grand Prix,red_bull,Engine,0.0
+2017,18,Mexican Grand Prix,red_bull,Finished,25.0
+2017,18,Mexican Grand Prix,renault,Electrical,0.0
+2017,18,Mexican Grand Prix,renault,Engine,0.0
+2017,18,Mexican Grand Prix,sauber,+2 Laps,0.0
+2017,18,Mexican Grand Prix,sauber,Engine,0.0
+2017,18,Mexican Grand Prix,toro_rosso,+1 Lap,0.0
+2017,18,Mexican Grand Prix,toro_rosso,Engine,0.0
+2017,18,Mexican Grand Prix,williams,+1 Lap,8.0
+2017,19,Brazilian Grand Prix,ferrari,Finished,40.0
+2017,19,Brazilian Grand Prix,force_india,Accident,0.0
+2017,19,Brazilian Grand Prix,force_india,Finished,2.0
+2017,19,Brazilian Grand Prix,haas,+2 Laps,0.0
+2017,19,Brazilian Grand Prix,haas,Accident,0.0
+2017,19,Brazilian Grand Prix,mclaren,Accident,0.0
+2017,19,Brazilian Grand Prix,mclaren,Finished,4.0
+2017,19,Brazilian Grand Prix,mercedes,Finished,30.0
+2017,19,Brazilian Grand Prix,red_bull,Finished,18.0
+2017,19,Brazilian Grand Prix,renault,+1 Lap,1.0
+2017,19,Brazilian Grand Prix,sauber,+1 Lap,0.0
+2017,19,Brazilian Grand Prix,toro_rosso,+1 Lap,0.0
+2017,19,Brazilian Grand Prix,toro_rosso,Engine,0.0
+2017,19,Brazilian Grand Prix,williams,+2 Laps,0.0
+2017,19,Brazilian Grand Prix,williams,Finished,6.0
+2017,20,Abu Dhabi Grand Prix,ferrari,Finished,27.0
+2017,20,Abu Dhabi Grand Prix,force_india,Finished,10.0
+2017,20,Abu Dhabi Grand Prix,haas,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,mclaren,+1 Lap,2.0
+2017,20,Abu Dhabi Grand Prix,mercedes,Finished,43.0
+2017,20,Abu Dhabi Grand Prix,red_bull,Finished,10.0
+2017,20,Abu Dhabi Grand Prix,red_bull,Hydraulics,0.0
+2017,20,Abu Dhabi Grand Prix,renault,Finished,8.0
+2017,20,Abu Dhabi Grand Prix,renault,Wheel,0.0
+2017,20,Abu Dhabi Grand Prix,sauber,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,toro_rosso,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,williams,+1 Lap,1.0
+2018,1,Australian Grand Prix,ferrari,Finished,40.0
+2018,1,Australian Grand Prix,force_india,Finished,0.0
+2018,1,Australian Grand Prix,haas,Wheel,0.0
+2018,1,Australian Grand Prix,mclaren,Finished,12.0
+2018,1,Australian Grand Prix,mercedes,Finished,22.0
+2018,1,Australian Grand Prix,red_bull,Finished,20.0
+2018,1,Australian Grand Prix,renault,Finished,7.0
+2018,1,Australian Grand Prix,sauber,Finished,0.0
+2018,1,Australian Grand Prix,sauber,Steering,0.0
+2018,1,Australian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,1,Australian Grand Prix,toro_rosso,Engine,0.0
+2018,1,Australian Grand Prix,williams,Brakes,0.0
+2018,1,Australian Grand Prix,williams,Finished,0.0
+2018,2,Bahrain Grand Prix,ferrari,Finished,25.0
+2018,2,Bahrain Grand Prix,ferrari,Wheel,0.0
+2018,2,Bahrain Grand Prix,force_india,+1 Lap,1.0
+2018,2,Bahrain Grand Prix,haas,+1 Lap,0.0
+2018,2,Bahrain Grand Prix,haas,Finished,10.0
+2018,2,Bahrain Grand Prix,mclaren,+1 Lap,10.0
+2018,2,Bahrain Grand Prix,mercedes,Finished,33.0
+2018,2,Bahrain Grand Prix,red_bull,Electrical,0.0
+2018,2,Bahrain Grand Prix,red_bull,Puncture,0.0
+2018,2,Bahrain Grand Prix,renault,+1 Lap,0.0
+2018,2,Bahrain Grand Prix,renault,Finished,8.0
+2018,2,Bahrain Grand Prix,sauber,+1 Lap,2.0
+2018,2,Bahrain Grand Prix,toro_rosso,+1 Lap,0.0
+2018,2,Bahrain Grand Prix,toro_rosso,Finished,12.0
+2018,2,Bahrain Grand Prix,williams,+1 Lap,0.0
+2018,3,Chinese Grand Prix,ferrari,Finished,19.0
+2018,3,Chinese Grand Prix,force_india,Finished,0.0
+2018,3,Chinese Grand Prix,haas,Finished,1.0
+2018,3,Chinese Grand Prix,mclaren,Finished,6.0
+2018,3,Chinese Grand Prix,mercedes,Finished,30.0
+2018,3,Chinese Grand Prix,red_bull,Finished,35.0
+2018,3,Chinese Grand Prix,renault,Finished,10.0
+2018,3,Chinese Grand Prix,sauber,Finished,0.0
+2018,3,Chinese Grand Prix,toro_rosso,Collision damage,0.0
+2018,3,Chinese Grand Prix,toro_rosso,Finished,0.0
+2018,3,Chinese Grand Prix,williams,Finished,0.0
+2018,4,Azerbaijan Grand Prix,ferrari,Finished,30.0
+2018,4,Azerbaijan Grand Prix,force_india,Collision,0.0
+2018,4,Azerbaijan Grand Prix,force_india,Finished,15.0
+2018,4,Azerbaijan Grand Prix,haas,Accident,0.0
+2018,4,Azerbaijan Grand Prix,haas,Finished,0.0
+2018,4,Azerbaijan Grand Prix,mclaren,Finished,8.0
+2018,4,Azerbaijan Grand Prix,mercedes,Finished,25.0
+2018,4,Azerbaijan Grand Prix,mercedes,Puncture,0.0
+2018,4,Azerbaijan Grand Prix,red_bull,Collision,0.0
+2018,4,Azerbaijan Grand Prix,renault,Accident,0.0
+2018,4,Azerbaijan Grand Prix,renault,Finished,10.0
+2018,4,Azerbaijan Grand Prix,sauber,Finished,8.0
+2018,4,Azerbaijan Grand Prix,toro_rosso,Finished,1.0
+2018,4,Azerbaijan Grand Prix,williams,Collision,0.0
+2018,4,Azerbaijan Grand Prix,williams,Finished,4.0
+2018,5,Spanish Grand Prix,ferrari,Finished,12.0
+2018,5,Spanish Grand Prix,ferrari,Turbo,0.0
+2018,5,Spanish Grand Prix,force_india,+2 Laps,2.0
+2018,5,Spanish Grand Prix,force_india,Oil leak,0.0
+2018,5,Spanish Grand Prix,haas,+1 Lap,8.0
+2018,5,Spanish Grand Prix,haas,Collision,0.0
+2018,5,Spanish Grand Prix,mclaren,+1 Lap,4.0
+2018,5,Spanish Grand Prix,mclaren,Gearbox,0.0
+2018,5,Spanish Grand Prix,mercedes,Finished,43.0
+2018,5,Spanish Grand Prix,red_bull,Finished,25.0
+2018,5,Spanish Grand Prix,renault,+1 Lap,6.0
+2018,5,Spanish Grand Prix,renault,Collision,0.0
+2018,5,Spanish Grand Prix,sauber,+2 Laps,1.0
+2018,5,Spanish Grand Prix,toro_rosso,+2 Laps,0.0
+2018,5,Spanish Grand Prix,toro_rosso,Collision,0.0
+2018,5,Spanish Grand Prix,williams,+2 Laps,0.0
+2018,5,Spanish Grand Prix,williams,+3 Laps,0.0
+2018,6,Monaco Grand Prix,ferrari,Finished,30.0
+2018,6,Monaco Grand Prix,force_india,Finished,8.0
+2018,6,Monaco Grand Prix,haas,+1 Lap,0.0
+2018,6,Monaco Grand Prix,haas,Finished,0.0
+2018,6,Monaco Grand Prix,mclaren,+1 Lap,0.0
+2018,6,Monaco Grand Prix,mclaren,Gearbox,0.0
+2018,6,Monaco Grand Prix,mercedes,Finished,25.0
+2018,6,Monaco Grand Prix,red_bull,Finished,27.0
+2018,6,Monaco Grand Prix,renault,Finished,5.0
+2018,6,Monaco Grand Prix,sauber,Collision,0.0
+2018,6,Monaco Grand Prix,sauber,Finished,0.0
+2018,6,Monaco Grand Prix,toro_rosso,Collision,0.0
+2018,6,Monaco Grand Prix,toro_rosso,Finished,6.0
+2018,6,Monaco Grand Prix,williams,+1 Lap,0.0
+2018,6,Monaco Grand Prix,williams,+2 Laps,0.0
+2018,7,Canadian Grand Prix,ferrari,Finished,33.0
+2018,7,Canadian Grand Prix,force_india,+1 Lap,2.0
+2018,7,Canadian Grand Prix,haas,+1 Lap,0.0
+2018,7,Canadian Grand Prix,mclaren,+2 Laps,0.0
+2018,7,Canadian Grand Prix,mclaren,Exhaust,0.0
+2018,7,Canadian Grand Prix,mercedes,Finished,28.0
+2018,7,Canadian Grand Prix,red_bull,Finished,27.0
+2018,7,Canadian Grand Prix,renault,+1 Lap,10.0
+2018,7,Canadian Grand Prix,sauber,+1 Lap,1.0
+2018,7,Canadian Grand Prix,sauber,+2 Laps,0.0
+2018,7,Canadian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,7,Canadian Grand Prix,toro_rosso,Collision,0.0
+2018,7,Canadian Grand Prix,williams,+2 Laps,0.0
+2018,7,Canadian Grand Prix,williams,Collision,0.0
+2018,8,French Grand Prix,ferrari,Finished,25.0
+2018,8,French Grand Prix,force_india,Collision,0.0
+2018,8,French Grand Prix,force_india,Engine,0.0
+2018,8,French Grand Prix,haas,+1 Lap,0.0
+2018,8,French Grand Prix,haas,Finished,8.0
+2018,8,French Grand Prix,mclaren,+1 Lap,0.0
+2018,8,French Grand Prix,mclaren,Wheel,0.0
+2018,8,French Grand Prix,mercedes,Finished,31.0
+2018,8,French Grand Prix,red_bull,Finished,30.0
+2018,8,French Grand Prix,renault,Finished,6.0
+2018,8,French Grand Prix,sauber,+1 Lap,0.0
+2018,8,French Grand Prix,sauber,Finished,1.0
+2018,8,French Grand Prix,toro_rosso,+1 Lap,0.0
+2018,8,French Grand Prix,toro_rosso,Collision,0.0
+2018,8,French Grand Prix,williams,+1 Lap,0.0
+2018,8,French Grand Prix,williams,Puncture,0.0
+2018,9,Austrian Grand Prix,ferrari,Finished,33.0
+2018,9,Austrian Grand Prix,force_india,+1 Lap,14.0
+2018,9,Austrian Grand Prix,haas,+1 Lap,22.0
+2018,9,Austrian Grand Prix,mclaren,+1 Lap,4.0
+2018,9,Austrian Grand Prix,mclaren,Collision damage,0.0
+2018,9,Austrian Grand Prix,mercedes,Fuel pressure,0.0
+2018,9,Austrian Grand Prix,mercedes,Hydraulics,0.0
+2018,9,Austrian Grand Prix,red_bull,Exhaust,0.0
+2018,9,Austrian Grand Prix,red_bull,Finished,25.0
+2018,9,Austrian Grand Prix,renault,+1 Lap,0.0
+2018,9,Austrian Grand Prix,renault,Engine,0.0
+2018,9,Austrian Grand Prix,sauber,+1 Lap,3.0
+2018,9,Austrian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,9,Austrian Grand Prix,toro_rosso,Hydraulics,0.0
+2018,9,Austrian Grand Prix,williams,+2 Laps,0.0
+2018,10,British Grand Prix,ferrari,Finished,40.0
+2018,10,British Grand Prix,force_india,Finished,7.0
+2018,10,British Grand Prix,haas,Collision,0.0
+2018,10,British Grand Prix,haas,Finished,2.0
+2018,10,British Grand Prix,mclaren,Finished,4.0
+2018,10,British Grand Prix,mercedes,Finished,30.0
+2018,10,British Grand Prix,red_bull,Brakes,0.0
+2018,10,British Grand Prix,red_bull,Finished,10.0
+2018,10,British Grand Prix,renault,Collision,0.0
+2018,10,British Grand Prix,renault,Finished,8.0
+2018,10,British Grand Prix,sauber,Accident,0.0
+2018,10,British Grand Prix,sauber,Tyre,0.0
+2018,10,British Grand Prix,toro_rosso,Finished,0.0
+2018,10,British Grand Prix,toro_rosso,Power Unit,0.0
+2018,10,British Grand Prix,williams,Finished,0.0
+2018,11,German Grand Prix,ferrari,Accident,0.0
+2018,11,German Grand Prix,ferrari,Finished,15.0
+2018,11,German Grand Prix,force_india,Finished,10.0
+2018,11,German Grand Prix,haas,Finished,8.0
+2018,11,German Grand Prix,mclaren,Finished,0.0
+2018,11,German Grand Prix,mclaren,Retired,0.0
+2018,11,German Grand Prix,mercedes,Finished,43.0
+2018,11,German Grand Prix,red_bull,Engine,0.0
+2018,11,German Grand Prix,red_bull,Finished,12.0
+2018,11,German Grand Prix,renault,Finished,10.0
+2018,11,German Grand Prix,sauber,+1 Lap,0.0
+2018,11,German Grand Prix,sauber,Finished,2.0
+2018,11,German Grand Prix,toro_rosso,+1 Lap,0.0
+2018,11,German Grand Prix,toro_rosso,Finished,1.0
+2018,11,German Grand Prix,williams,Engine,0.0
+2018,12,Hungarian Grand Prix,ferrari,Finished,33.0
+2018,12,Hungarian Grand Prix,force_india,+1 Lap,0.0
+2018,12,Hungarian Grand Prix,haas,+1 Lap,7.0
+2018,12,Hungarian Grand Prix,mclaren,+1 Lap,4.0
+2018,12,Hungarian Grand Prix,mclaren,Gearbox,0.0
+2018,12,Hungarian Grand Prix,mercedes,Finished,35.0
+2018,12,Hungarian Grand Prix,red_bull,Finished,12.0
+2018,12,Hungarian Grand Prix,red_bull,Power loss,0.0
+2018,12,Hungarian Grand Prix,renault,+1 Lap,2.0
+2018,12,Hungarian Grand Prix,sauber,+2 Laps,0.0
+2018,12,Hungarian Grand Prix,sauber,Suspension,0.0
+2018,12,Hungarian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,12,Hungarian Grand Prix,toro_rosso,Finished,8.0
+2018,12,Hungarian Grand Prix,williams,+2 Laps,0.0
+2018,13,Belgian Grand Prix,ferrari,Brakes,0.0
+2018,13,Belgian Grand Prix,ferrari,Finished,25.0
+2018,13,Belgian Grand Prix,force_india,Finished,18.0
+2018,13,Belgian Grand Prix,haas,Finished,10.0
+2018,13,Belgian Grand Prix,mclaren,+1 Lap,0.0
+2018,13,Belgian Grand Prix,mclaren,Accident,0.0
+2018,13,Belgian Grand Prix,mercedes,Finished,30.0
+2018,13,Belgian Grand Prix,red_bull,Finished,15.0
+2018,13,Belgian Grand Prix,red_bull,Retired,0.0
+2018,13,Belgian Grand Prix,renault,+1 Lap,0.0
+2018,13,Belgian Grand Prix,renault,Accident,0.0
+2018,13,Belgian Grand Prix,sauber,+1 Lap,1.0
+2018,13,Belgian Grand Prix,sauber,Accident,0.0
+2018,13,Belgian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,13,Belgian Grand Prix,toro_rosso,Finished,2.0
+2018,13,Belgian Grand Prix,williams,+1 Lap,0.0
+2018,14,Italian Grand Prix,ferrari,Finished,30.0
+2018,14,Italian Grand Prix,force_india,Finished,14.0
+2018,14,Italian Grand Prix,haas,+1 Lap,0.0
+2018,14,Italian Grand Prix,haas,Disqualified,0.0
+2018,14,Italian Grand Prix,mclaren,+1 Lap,0.0
+2018,14,Italian Grand Prix,mclaren,Engine,0.0
+2018,14,Italian Grand Prix,mercedes,Finished,40.0
+2018,14,Italian Grand Prix,red_bull,Engine,0.0
+2018,14,Italian Grand Prix,red_bull,Finished,10.0
+2018,14,Italian Grand Prix,renault,+1 Lap,0.0
+2018,14,Italian Grand Prix,renault,Finished,4.0
+2018,14,Italian Grand Prix,sauber,+1 Lap,0.0
+2018,14,Italian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,14,Italian Grand Prix,toro_rosso,Brakes,0.0
+2018,14,Italian Grand Prix,williams,+1 Lap,3.0
+2018,15,Singapore Grand Prix,ferrari,Finished,25.0
+2018,15,Singapore Grand Prix,force_india,+1 Lap,0.0
+2018,15,Singapore Grand Prix,force_india,Collision,0.0
+2018,15,Singapore Grand Prix,haas,+1 Lap,0.0
+2018,15,Singapore Grand Prix,haas,+2 Laps,0.0
+2018,15,Singapore Grand Prix,mclaren,+1 Lap,0.0
+2018,15,Singapore Grand Prix,mclaren,Finished,6.0
+2018,15,Singapore Grand Prix,mercedes,Finished,37.0
+2018,15,Singapore Grand Prix,red_bull,Finished,26.0
+2018,15,Singapore Grand Prix,renault,+1 Lap,5.0
+2018,15,Singapore Grand Prix,sauber,+1 Lap,2.0
+2018,15,Singapore Grand Prix,toro_rosso,+1 Lap,0.0
+2018,15,Singapore Grand Prix,williams,+1 Lap,0.0
+2018,15,Singapore Grand Prix,williams,+2 Laps,0.0
+2018,16,Russian Grand Prix,ferrari,Finished,27.0
+2018,16,Russian Grand Prix,force_india,+1 Lap,3.0
+2018,16,Russian Grand Prix,haas,+1 Lap,4.0
+2018,16,Russian Grand Prix,mclaren,+1 Lap,0.0
+2018,16,Russian Grand Prix,mclaren,+2 Laps,0.0
+2018,16,Russian Grand Prix,mercedes,Finished,43.0
+2018,16,Russian Grand Prix,red_bull,Finished,18.0
+2018,16,Russian Grand Prix,renault,+1 Lap,0.0
+2018,16,Russian Grand Prix,renault,+2 Laps,0.0
+2018,16,Russian Grand Prix,sauber,+1 Lap,0.0
+2018,16,Russian Grand Prix,sauber,Finished,6.0
+2018,16,Russian Grand Prix,toro_rosso,Brakes,0.0
+2018,16,Russian Grand Prix,williams,+1 Lap,0.0
+2018,16,Russian Grand Prix,williams,+2 Laps,0.0
+2018,17,Japanese Grand Prix,ferrari,Finished,18.0
+2018,17,Japanese Grand Prix,force_india,Finished,8.0
+2018,17,Japanese Grand Prix,haas,Collision damage,0.0
+2018,17,Japanese Grand Prix,haas,Finished,4.0
+2018,17,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2018,17,Japanese Grand Prix,mercedes,Finished,43.0
+2018,17,Japanese Grand Prix,red_bull,Finished,27.0
+2018,17,Japanese Grand Prix,renault,+1 Lap,1.0
+2018,17,Japanese Grand Prix,renault,Engine,0.0
+2018,17,Japanese Grand Prix,sauber,+1 Lap,0.0
+2018,17,Japanese Grand Prix,sauber,Mechanical,0.0
+2018,17,Japanese Grand Prix,toro_rosso,+1 Lap,0.0
+2018,17,Japanese Grand Prix,williams,+1 Lap,0.0
+2018,18,United States Grand Prix,ferrari,Finished,37.0
+2018,18,United States Grand Prix,force_india,Disqualified,0.0
+2018,18,United States Grand Prix,force_india,Finished,4.0
+2018,18,United States Grand Prix,haas,Collision damage,0.0
+2018,18,United States Grand Prix,haas,Disqualified,0.0
+2018,18,United States Grand Prix,mclaren,+1 Lap,0.0
+2018,18,United States Grand Prix,mclaren,Collision,0.0
+2018,18,United States Grand Prix,mercedes,Finished,25.0
+2018,18,United States Grand Prix,red_bull,Battery,0.0
+2018,18,United States Grand Prix,red_bull,Finished,18.0
+2018,18,United States Grand Prix,renault,Finished,14.0
+2018,18,United States Grand Prix,sauber,+1 Lap,1.0
+2018,18,United States Grand Prix,sauber,Collision damage,0.0
+2018,18,United States Grand Prix,toro_rosso,+1 Lap,2.0
+2018,18,United States Grand Prix,williams,+1 Lap,0.0
+2018,18,United States Grand Prix,williams,+2 Laps,0.0
+2018,19,Mexican Grand Prix,ferrari,Finished,33.0
+2018,19,Mexican Grand Prix,force_india,+2 Laps,0.0
+2018,19,Mexican Grand Prix,force_india,Brakes,0.0
+2018,19,Mexican Grand Prix,haas,+2 Laps,0.0
+2018,19,Mexican Grand Prix,haas,+3 Laps,0.0
+2018,19,Mexican Grand Prix,mclaren,+2 Laps,4.0
+2018,19,Mexican Grand Prix,mclaren,Engine,0.0
+2018,19,Mexican Grand Prix,mercedes,+1 Lap,10.0
+2018,19,Mexican Grand Prix,mercedes,Finished,12.0
+2018,19,Mexican Grand Prix,red_bull,Engine,0.0
+2018,19,Mexican Grand Prix,red_bull,Finished,25.0
+2018,19,Mexican Grand Prix,renault,+2 Laps,8.0
+2018,19,Mexican Grand Prix,renault,Suspension,0.0
+2018,19,Mexican Grand Prix,sauber,+2 Laps,8.0
+2018,19,Mexican Grand Prix,toro_rosso,+2 Laps,1.0
+2018,19,Mexican Grand Prix,williams,+2 Laps,0.0
+2018,20,Brazilian Grand Prix,ferrari,Finished,23.0
+2018,20,Brazilian Grand Prix,force_india,+1 Lap,1.0
+2018,20,Brazilian Grand Prix,haas,Finished,6.0
+2018,20,Brazilian Grand Prix,mclaren,+1 Lap,0.0
+2018,20,Brazilian Grand Prix,mclaren,+2 Laps,0.0
+2018,20,Brazilian Grand Prix,mercedes,Finished,35.0
+2018,20,Brazilian Grand Prix,red_bull,Finished,30.0
+2018,20,Brazilian Grand Prix,renault,+1 Lap,0.0
+2018,20,Brazilian Grand Prix,renault,Overheating,0.0
+2018,20,Brazilian Grand Prix,sauber,Collision,0.0
+2018,20,Brazilian Grand Prix,sauber,Finished,6.0
+2018,20,Brazilian Grand Prix,toro_rosso,+1 Lap,0.0
+2018,20,Brazilian Grand Prix,williams,+2 Laps,0.0
+2018,21,Abu Dhabi Grand Prix,ferrari,Finished,18.0
+2018,21,Abu Dhabi Grand Prix,ferrari,Power loss,0.0
+2018,21,Abu Dhabi Grand Prix,force_india,Engine,0.0
+2018,21,Abu Dhabi Grand Prix,force_india,Finished,4.0
+2018,21,Abu Dhabi Grand Prix,haas,+1 Lap,3.0
+2018,21,Abu Dhabi Grand Prix,mclaren,+1 Lap,0.0
+2018,21,Abu Dhabi Grand Prix,mercedes,Finished,35.0
+2018,21,Abu Dhabi Grand Prix,red_bull,Finished,27.0
+2018,21,Abu Dhabi Grand Prix,renault,Collision,0.0
+2018,21,Abu Dhabi Grand Prix,renault,Finished,8.0
+2018,21,Abu Dhabi Grand Prix,sauber,Finished,6.0
+2018,21,Abu Dhabi Grand Prix,sauber,Power loss,0.0
+2018,21,Abu Dhabi Grand Prix,toro_rosso,+1 Lap,0.0
+2018,21,Abu Dhabi Grand Prix,toro_rosso,Engine,0.0
+2018,21,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2019,1,Australian Grand Prix,alfa,+1 Lap,4.0
+2019,1,Australian Grand Prix,ferrari,Finished,22.0
+2019,1,Australian Grand Prix,haas,Finished,8.0
+2019,1,Australian Grand Prix,haas,Wheel,0.0
+2019,1,Australian Grand Prix,mclaren,+1 Lap,0.0
+2019,1,Australian Grand Prix,mclaren,Engine,0.0
+2019,1,Australian Grand Prix,mercedes,Finished,44.0
+2019,1,Australian Grand Prix,racing_point,+1 Lap,2.0
+2019,1,Australian Grand Prix,red_bull,+1 Lap,0.0
+2019,1,Australian Grand Prix,red_bull,Finished,15.0
+2019,1,Australian Grand Prix,renault,+1 Lap,6.0
+2019,1,Australian Grand Prix,renault,Damage,0.0
+2019,1,Australian Grand Prix,toro_rosso,+1 Lap,1.0
+2019,1,Australian Grand Prix,williams,+2 Laps,0.0
+2019,1,Australian Grand Prix,williams,+3 Laps,0.0
+2019,2,Bahrain Grand Prix,alfa,Finished,6.0
+2019,2,Bahrain Grand Prix,ferrari,Finished,26.0
+2019,2,Bahrain Grand Prix,haas,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,haas,Retired,0.0
+2019,2,Bahrain Grand Prix,mclaren,Collision damage,0.0
+2019,2,Bahrain Grand Prix,mclaren,Finished,8.0
+2019,2,Bahrain Grand Prix,mercedes,Finished,43.0
+2019,2,Bahrain Grand Prix,racing_point,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,racing_point,Finished,1.0
+2019,2,Bahrain Grand Prix,red_bull,Finished,16.0
+2019,2,Bahrain Grand Prix,renault,Engine,0.0
+2019,2,Bahrain Grand Prix,renault,Out of fuel,0.0
+2019,2,Bahrain Grand Prix,toro_rosso,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,toro_rosso,Finished,2.0
+2019,2,Bahrain Grand Prix,williams,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,williams,+2 Laps,0.0
+2019,3,Chinese Grand Prix,alfa,+1 Lap,2.0
+2019,3,Chinese Grand Prix,ferrari,Finished,25.0
+2019,3,Chinese Grand Prix,haas,+1 Lap,0.0
+2019,3,Chinese Grand Prix,mclaren,+1 Lap,0.0
+2019,3,Chinese Grand Prix,mclaren,Collision,0.0
+2019,3,Chinese Grand Prix,mercedes,Finished,43.0
+2019,3,Chinese Grand Prix,racing_point,+1 Lap,4.0
+2019,3,Chinese Grand Prix,red_bull,Finished,21.0
+2019,3,Chinese Grand Prix,renault,+1 Lap,6.0
+2019,3,Chinese Grand Prix,renault,Power Unit,0.0
+2019,3,Chinese Grand Prix,toro_rosso,+1 Lap,1.0
+2019,3,Chinese Grand Prix,toro_rosso,Collision,0.0
+2019,3,Chinese Grand Prix,williams,+2 Laps,0.0
+2019,4,Azerbaijan Grand Prix,alfa,+1 Lap,1.0
+2019,4,Azerbaijan Grand Prix,ferrari,Finished,26.0
+2019,4,Azerbaijan Grand Prix,haas,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,haas,Brakes,0.0
+2019,4,Azerbaijan Grand Prix,mclaren,Finished,10.0
+2019,4,Azerbaijan Grand Prix,mercedes,Finished,43.0
+2019,4,Azerbaijan Grand Prix,racing_point,Finished,10.0
+2019,4,Azerbaijan Grand Prix,red_bull,Finished,12.0
+2019,4,Azerbaijan Grand Prix,red_bull,Transmission,0.0
+2019,4,Azerbaijan Grand Prix,renault,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,renault,Collision,0.0
+2019,4,Azerbaijan Grand Prix,toro_rosso,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,toro_rosso,Collision,0.0
+2019,4,Azerbaijan Grand Prix,williams,+2 Laps,0.0
+2019,5,Spanish Grand Prix,alfa,Finished,0.0
+2019,5,Spanish Grand Prix,ferrari,Finished,22.0
+2019,5,Spanish Grand Prix,haas,Finished,7.0
+2019,5,Spanish Grand Prix,mclaren,Collision,0.0
+2019,5,Spanish Grand Prix,mclaren,Finished,4.0
+2019,5,Spanish Grand Prix,mercedes,Finished,44.0
+2019,5,Spanish Grand Prix,racing_point,Collision,0.0
+2019,5,Spanish Grand Prix,racing_point,Finished,0.0
+2019,5,Spanish Grand Prix,red_bull,Finished,23.0
+2019,5,Spanish Grand Prix,renault,Finished,0.0
+2019,5,Spanish Grand Prix,toro_rosso,Finished,2.0
+2019,5,Spanish Grand Prix,williams,+1 Lap,0.0
+2019,6,Monaco Grand Prix,alfa,+1 Lap,0.0
+2019,6,Monaco Grand Prix,alfa,+2 Laps,0.0
+2019,6,Monaco Grand Prix,ferrari,Collision,0.0
+2019,6,Monaco Grand Prix,ferrari,Finished,18.0
+2019,6,Monaco Grand Prix,haas,+1 Lap,0.0
+2019,6,Monaco Grand Prix,haas,Finished,1.0
+2019,6,Monaco Grand Prix,mclaren,Finished,8.0
+2019,6,Monaco Grand Prix,mercedes,Finished,40.0
+2019,6,Monaco Grand Prix,racing_point,+1 Lap,0.0
+2019,6,Monaco Grand Prix,red_bull,Finished,23.0
+2019,6,Monaco Grand Prix,renault,+1 Lap,0.0
+2019,6,Monaco Grand Prix,renault,Finished,2.0
+2019,6,Monaco Grand Prix,toro_rosso,Finished,10.0
+2019,6,Monaco Grand Prix,williams,+1 Lap,0.0
+2019,7,Canadian Grand Prix,alfa,+1 Lap,0.0
+2019,7,Canadian Grand Prix,ferrari,Finished,33.0
+2019,7,Canadian Grand Prix,haas,+1 Lap,0.0
+2019,7,Canadian Grand Prix,haas,+2 Laps,0.0
+2019,7,Canadian Grand Prix,mclaren,+1 Lap,0.0
+2019,7,Canadian Grand Prix,mclaren,Suspension,0.0
+2019,7,Canadian Grand Prix,mercedes,Finished,38.0
+2019,7,Canadian Grand Prix,racing_point,+1 Lap,2.0
+2019,7,Canadian Grand Prix,red_bull,+1 Lap,4.0
+2019,7,Canadian Grand Prix,red_bull,Finished,10.0
+2019,7,Canadian Grand Prix,renault,+1 Lap,14.0
+2019,7,Canadian Grand Prix,toro_rosso,+1 Lap,1.0
+2019,7,Canadian Grand Prix,toro_rosso,Collision damage,0.0
+2019,7,Canadian Grand Prix,williams,+2 Laps,0.0
+2019,7,Canadian Grand Prix,williams,+3 Laps,0.0
+2019,8,French Grand Prix,alfa,+1 Lap,6.0
+2019,8,French Grand Prix,ferrari,Finished,26.0
+2019,8,French Grand Prix,haas,+1 Lap,0.0
+2019,8,French Grand Prix,haas,Retired,0.0
+2019,8,French Grand Prix,mclaren,+1 Lap,2.0
+2019,8,French Grand Prix,mclaren,Finished,8.0
+2019,8,French Grand Prix,mercedes,Finished,43.0
+2019,8,French Grand Prix,racing_point,+1 Lap,0.0
+2019,8,French Grand Prix,red_bull,+1 Lap,1.0
+2019,8,French Grand Prix,red_bull,Finished,12.0
+2019,8,French Grand Prix,renault,+1 Lap,4.0
+2019,8,French Grand Prix,toro_rosso,+1 Lap,0.0
+2019,8,French Grand Prix,williams,+2 Laps,0.0
+2019,9,Austrian Grand Prix,alfa,+1 Lap,3.0
+2019,9,Austrian Grand Prix,ferrari,Finished,30.0
+2019,9,Austrian Grand Prix,haas,+1 Lap,0.0
+2019,9,Austrian Grand Prix,haas,+2 Laps,0.0
+2019,9,Austrian Grand Prix,mclaren,+1 Lap,12.0
+2019,9,Austrian Grand Prix,mercedes,Finished,25.0
+2019,9,Austrian Grand Prix,racing_point,+1 Lap,0.0
+2019,9,Austrian Grand Prix,red_bull,+1 Lap,6.0
+2019,9,Austrian Grand Prix,red_bull,Finished,26.0
+2019,9,Austrian Grand Prix,renault,+1 Lap,0.0
+2019,9,Austrian Grand Prix,toro_rosso,+1 Lap,0.0
+2019,9,Austrian Grand Prix,williams,+2 Laps,0.0
+2019,9,Austrian Grand Prix,williams,+3 Laps,0.0
+2019,10,British Grand Prix,alfa,Finished,4.0
+2019,10,British Grand Prix,alfa,Spun off,0.0
+2019,10,British Grand Prix,ferrari,+1 Lap,0.0
+2019,10,British Grand Prix,ferrari,Finished,15.0
+2019,10,British Grand Prix,haas,Collision,0.0
+2019,10,British Grand Prix,mclaren,Finished,8.0
+2019,10,British Grand Prix,mercedes,Finished,44.0
+2019,10,British Grand Prix,racing_point,+1 Lap,0.0
+2019,10,British Grand Prix,racing_point,Finished,0.0
+2019,10,British Grand Prix,red_bull,Finished,22.0
+2019,10,British Grand Prix,renault,Finished,7.0
+2019,10,British Grand Prix,toro_rosso,Finished,2.0
+2019,10,British Grand Prix,williams,+1 Lap,0.0
+2019,11,German Grand Prix,alfa,Finished,0.0
+2019,11,German Grand Prix,ferrari,Accident,0.0
+2019,11,German Grand Prix,ferrari,Finished,18.0
+2019,11,German Grand Prix,haas,Finished,10.0
+2019,11,German Grand Prix,mclaren,Finished,10.0
+2019,11,German Grand Prix,mclaren,Power loss,0.0
+2019,11,German Grand Prix,mercedes,Accident,0.0
+2019,11,German Grand Prix,mercedes,Finished,2.0
+2019,11,German Grand Prix,racing_point,Finished,12.0
+2019,11,German Grand Prix,racing_point,Spun off,0.0
+2019,11,German Grand Prix,red_bull,Collision,0.0
+2019,11,German Grand Prix,red_bull,Finished,26.0
+2019,11,German Grand Prix,renault,Accident,0.0
+2019,11,German Grand Prix,renault,Exhaust,0.0
+2019,11,German Grand Prix,toro_rosso,Finished,23.0
+2019,11,German Grand Prix,williams,Finished,1.0
+2019,12,Hungarian Grand Prix,alfa,+1 Lap,6.0
+2019,12,Hungarian Grand Prix,alfa,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,ferrari,Finished,27.0
+2019,12,Hungarian Grand Prix,haas,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,haas,Water pressure,0.0
+2019,12,Hungarian Grand Prix,mclaren,+1 Lap,12.0
+2019,12,Hungarian Grand Prix,mercedes,+1 Lap,4.0
+2019,12,Hungarian Grand Prix,mercedes,Finished,25.0
+2019,12,Hungarian Grand Prix,racing_point,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,racing_point,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,red_bull,+1 Lap,8.0
+2019,12,Hungarian Grand Prix,red_bull,Finished,19.0
+2019,12,Hungarian Grand Prix,renault,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,toro_rosso,+1 Lap,1.0
+2019,12,Hungarian Grand Prix,toro_rosso,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,williams,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,williams,+3 Laps,0.0
+2019,13,Belgian Grand Prix,alfa,+1 Lap,0.0
+2019,13,Belgian Grand Prix,alfa,Accident,0.0
+2019,13,Belgian Grand Prix,ferrari,Finished,38.0
+2019,13,Belgian Grand Prix,haas,+1 Lap,0.0
+2019,13,Belgian Grand Prix,mclaren,Engine,0.0
+2019,13,Belgian Grand Prix,mclaren,Power loss,0.0
+2019,13,Belgian Grand Prix,mercedes,Finished,33.0
+2019,13,Belgian Grand Prix,racing_point,Finished,9.0
+2019,13,Belgian Grand Prix,red_bull,Accident,0.0
+2019,13,Belgian Grand Prix,red_bull,Finished,10.0
+2019,13,Belgian Grand Prix,renault,+1 Lap,0.0
+2019,13,Belgian Grand Prix,renault,Finished,4.0
+2019,13,Belgian Grand Prix,toro_rosso,Finished,8.0
+2019,13,Belgian Grand Prix,williams,+1 Lap,0.0
+2019,14,Italian Grand Prix,alfa,+1 Lap,2.0
+2019,14,Italian Grand Prix,ferrari,+1 Lap,0.0
+2019,14,Italian Grand Prix,ferrari,Finished,25.0
+2019,14,Italian Grand Prix,haas,+1 Lap,0.0
+2019,14,Italian Grand Prix,haas,Hydraulics,0.0
+2019,14,Italian Grand Prix,mclaren,+1 Lap,1.0
+2019,14,Italian Grand Prix,mclaren,Wheel,0.0
+2019,14,Italian Grand Prix,mercedes,Finished,34.0
+2019,14,Italian Grand Prix,racing_point,+1 Lap,0.0
+2019,14,Italian Grand Prix,racing_point,Finished,6.0
+2019,14,Italian Grand Prix,red_bull,Finished,12.0
+2019,14,Italian Grand Prix,renault,Finished,22.0
+2019,14,Italian Grand Prix,toro_rosso,+1 Lap,0.0
+2019,14,Italian Grand Prix,toro_rosso,Engine,0.0
+2019,14,Italian Grand Prix,williams,+1 Lap,0.0
+2019,14,Italian Grand Prix,williams,+2 Laps,0.0
+2019,15,Singapore Grand Prix,alfa,Collision,0.0
+2019,15,Singapore Grand Prix,alfa,Finished,1.0
+2019,15,Singapore Grand Prix,ferrari,Finished,43.0
+2019,15,Singapore Grand Prix,haas,Finished,0.0
+2019,15,Singapore Grand Prix,mclaren,Finished,6.0
+2019,15,Singapore Grand Prix,mercedes,Finished,22.0
+2019,15,Singapore Grand Prix,racing_point,Engine,0.0
+2019,15,Singapore Grand Prix,racing_point,Finished,0.0
+2019,15,Singapore Grand Prix,red_bull,Finished,23.0
+2019,15,Singapore Grand Prix,renault,Finished,2.0
+2019,15,Singapore Grand Prix,toro_rosso,Finished,4.0
+2019,15,Singapore Grand Prix,williams,Collision,0.0
+2019,15,Singapore Grand Prix,williams,Finished,0.0
+2019,16,Russian Grand Prix,alfa,Finished,0.0
+2019,16,Russian Grand Prix,ferrari,Finished,15.0
+2019,16,Russian Grand Prix,ferrari,Power loss,0.0
+2019,16,Russian Grand Prix,haas,Collision,0.0
+2019,16,Russian Grand Prix,haas,Finished,2.0
+2019,16,Russian Grand Prix,mclaren,Finished,12.0
+2019,16,Russian Grand Prix,mercedes,Finished,44.0
+2019,16,Russian Grand Prix,racing_point,Finished,6.0
+2019,16,Russian Grand Prix,red_bull,Finished,22.0
+2019,16,Russian Grand Prix,renault,Collision,0.0
+2019,16,Russian Grand Prix,renault,Finished,1.0
+2019,16,Russian Grand Prix,toro_rosso,Finished,0.0
+2019,16,Russian Grand Prix,williams,Brakes,0.0
+2019,17,Japanese Grand Prix,alfa,+1 Lap,0.0
+2019,17,Japanese Grand Prix,ferrari,+1 Lap,8.0
+2019,17,Japanese Grand Prix,ferrari,Finished,18.0
+2019,17,Japanese Grand Prix,haas,+1 Lap,0.0
+2019,17,Japanese Grand Prix,mclaren,+1 Lap,0.0
+2019,17,Japanese Grand Prix,mclaren,Finished,10.0
+2019,17,Japanese Grand Prix,mercedes,Finished,41.0
+2019,17,Japanese Grand Prix,racing_point,+1 Lap,6.0
+2019,17,Japanese Grand Prix,red_bull,Brakes,0.0
+2019,17,Japanese Grand Prix,red_bull,Finished,12.0
+2019,17,Japanese Grand Prix,renault,Disqualified,0.0
+2019,17,Japanese Grand Prix,toro_rosso,+1 Lap,7.0
+2019,17,Japanese Grand Prix,williams,+2 Laps,0.0
+2019,18,Mexican Grand Prix,alfa,+1 Lap,0.0
+2019,18,Mexican Grand Prix,alfa,Overheating,0.0
+2019,18,Mexican Grand Prix,ferrari,Finished,31.0
+2019,18,Mexican Grand Prix,haas,+2 Laps,0.0
+2019,18,Mexican Grand Prix,mclaren,+1 Lap,0.0
+2019,18,Mexican Grand Prix,mclaren,Withdrew,0.0
+2019,18,Mexican Grand Prix,mercedes,Finished,40.0
+2019,18,Mexican Grand Prix,racing_point,+1 Lap,0.0
+2019,18,Mexican Grand Prix,racing_point,Finished,6.0
+2019,18,Mexican Grand Prix,red_bull,Finished,18.0
+2019,18,Mexican Grand Prix,renault,+1 Lap,1.0
+2019,18,Mexican Grand Prix,renault,Finished,4.0
+2019,18,Mexican Grand Prix,toro_rosso,+1 Lap,2.0
+2019,18,Mexican Grand Prix,williams,+2 Laps,0.0
+2019,19,United States Grand Prix,alfa,+1 Lap,0.0
+2019,19,United States Grand Prix,ferrari,Finished,13.0
+2019,19,United States Grand Prix,ferrari,Suspension,0.0
+2019,19,United States Grand Prix,haas,+1 Lap,0.0
+2019,19,United States Grand Prix,haas,Brakes,0.0
+2019,19,United States Grand Prix,mclaren,+1 Lap,4.0
+2019,19,United States Grand Prix,mclaren,Finished,6.0
+2019,19,United States Grand Prix,mercedes,Finished,43.0
+2019,19,United States Grand Prix,racing_point,+1 Lap,1.0
+2019,19,United States Grand Prix,red_bull,Finished,25.0
+2019,19,United States Grand Prix,renault,+1 Lap,2.0
+2019,19,United States Grand Prix,renault,Finished,8.0
+2019,19,United States Grand Prix,toro_rosso,+1 Lap,0.0
+2019,19,United States Grand Prix,toro_rosso,Suspension,0.0
+2019,19,United States Grand Prix,williams,+2 Laps,0.0
+2019,19,United States Grand Prix,williams,Oil leak,0.0
+2019,20,Brazilian Grand Prix,alfa,Finished,22.0
+2019,20,Brazilian Grand Prix,ferrari,Collision,0.0
+2019,20,Brazilian Grand Prix,haas,Finished,0.0
+2019,20,Brazilian Grand Prix,mclaren,Finished,19.0
+2019,20,Brazilian Grand Prix,mercedes,Finished,6.0
+2019,20,Brazilian Grand Prix,mercedes,Power Unit,0.0
+2019,20,Brazilian Grand Prix,racing_point,Finished,2.0
+2019,20,Brazilian Grand Prix,racing_point,Suspension,0.0
+2019,20,Brazilian Grand Prix,red_bull,Finished,25.0
+2019,20,Brazilian Grand Prix,renault,Finished,8.0
+2019,20,Brazilian Grand Prix,toro_rosso,Finished,19.0
+2019,20,Brazilian Grand Prix,williams,+1 Lap,0.0
+2019,20,Brazilian Grand Prix,williams,Finished,0.0
+2019,21,Abu Dhabi Grand Prix,alfa,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,ferrari,Finished,25.0
+2019,21,Abu Dhabi Grand Prix,haas,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,mclaren,+1 Lap,5.0
+2019,21,Abu Dhabi Grand Prix,mercedes,Finished,38.0
+2019,21,Abu Dhabi Grand Prix,racing_point,+1 Lap,6.0
+2019,21,Abu Dhabi Grand Prix,racing_point,Brakes,0.0
+2019,21,Abu Dhabi Grand Prix,red_bull,Finished,26.0
+2019,21,Abu Dhabi Grand Prix,renault,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,toro_rosso,+1 Lap,2.0
+2019,21,Abu Dhabi Grand Prix,toro_rosso,+2 Laps,0.0
+2019,21,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,williams,+2 Laps,0.0
+2020,1,Austrian Grand Prix,alfa,Finished,2.0
+2020,1,Austrian Grand Prix,alfa,Wheel,0.0
+2020,1,Austrian Grand Prix,alphatauri,Finished,6.0
+2020,1,Austrian Grand Prix,alphatauri,Suspension,0.0
+2020,1,Austrian Grand Prix,ferrari,Finished,19.0
+2020,1,Austrian Grand Prix,haas,Brakes,0.0
+2020,1,Austrian Grand Prix,mclaren,Finished,26.0
+2020,1,Austrian Grand Prix,mercedes,Finished,37.0
+2020,1,Austrian Grand Prix,racing_point,Engine,0.0
+2020,1,Austrian Grand Prix,racing_point,Finished,8.0
+2020,1,Austrian Grand Prix,red_bull,Electronics,0.0
+2020,1,Austrian Grand Prix,renault,Finished,4.0
+2020,1,Austrian Grand Prix,renault,Overheating,0.0
+2020,1,Austrian Grand Prix,williams,Finished,0.0
+2020,1,Austrian Grand Prix,williams,Fuel pressure,0.0
+2020,2,Styrian Grand Prix,alfa,+1 Lap,0.0
+2020,2,Styrian Grand Prix,alphatauri,+1 Lap,1.0
+2020,2,Styrian Grand Prix,ferrari,Collision damage,0.0
+2020,2,Styrian Grand Prix,haas,+1 Lap,0.0
+2020,2,Styrian Grand Prix,mclaren,+1 Lap,3.0
+2020,2,Styrian Grand Prix,mclaren,Finished,10.0
+2020,2,Styrian Grand Prix,mercedes,Finished,43.0
+2020,2,Styrian Grand Prix,racing_point,Finished,14.0
+2020,2,Styrian Grand Prix,red_bull,Finished,27.0
+2020,2,Styrian Grand Prix,renault,Finished,4.0
+2020,2,Styrian Grand Prix,renault,Overheating,0.0
+2020,2,Styrian Grand Prix,williams,+2 Laps,0.0
+2020,3,Hungarian Grand Prix,alfa,+1 Lap,0.0
+2020,3,Hungarian Grand Prix,alphatauri,+1 Lap,0.0
+2020,3,Hungarian Grand Prix,alphatauri,Engine,0.0
+2020,3,Hungarian Grand Prix,ferrari,+1 Lap,8.0
+2020,3,Hungarian Grand Prix,haas,+1 Lap,1.0
+2020,3,Hungarian Grand Prix,mclaren,+1 Lap,2.0
+2020,3,Hungarian Grand Prix,mercedes,Finished,41.0
+2020,3,Hungarian Grand Prix,racing_point,+1 Lap,6.0
+2020,3,Hungarian Grand Prix,racing_point,Finished,12.0
+2020,3,Hungarian Grand Prix,red_bull,Finished,28.0
+2020,3,Hungarian Grand Prix,renault,+1 Lap,4.0
+2020,3,Hungarian Grand Prix,williams,+1 Lap,0.0
+2020,3,Hungarian Grand Prix,williams,+5 Laps,0.0
+2020,4,British Grand Prix,alfa,+1 Lap,0.0
+2020,4,British Grand Prix,alfa,Finished,0.0
+2020,4,British Grand Prix,alphatauri,Accident,0.0
+2020,4,British Grand Prix,alphatauri,Finished,6.0
+2020,4,British Grand Prix,ferrari,Finished,16.0
+2020,4,British Grand Prix,haas,Collision,0.0
+2020,4,British Grand Prix,haas,Finished,0.0
+2020,4,British Grand Prix,mclaren,Finished,10.0
+2020,4,British Grand Prix,mercedes,Finished,25.0
+2020,4,British Grand Prix,racing_point,Finished,2.0
+2020,4,British Grand Prix,racing_point,Power Unit,0.0
+2020,4,British Grand Prix,red_bull,Finished,23.0
+2020,4,British Grand Prix,renault,Finished,20.0
+2020,4,British Grand Prix,williams,Finished,0.0
+2020,5,70th Anniversary Grand Prix,alfa,+1 Lap,0.0
+2020,5,70th Anniversary Grand Prix,alphatauri,Finished,1.0
+2020,5,70th Anniversary Grand Prix,ferrari,Finished,12.0
+2020,5,70th Anniversary Grand Prix,haas,+1 Lap,0.0
+2020,5,70th Anniversary Grand Prix,haas,Retired,0.0
+2020,5,70th Anniversary Grand Prix,mclaren,Finished,2.0
+2020,5,70th Anniversary Grand Prix,mercedes,Finished,34.0
+2020,5,70th Anniversary Grand Prix,racing_point,Finished,14.0
+2020,5,70th Anniversary Grand Prix,red_bull,Finished,35.0
+2020,5,70th Anniversary Grand Prix,renault,+1 Lap,0.0
+2020,5,70th Anniversary Grand Prix,renault,Finished,4.0
+2020,5,70th Anniversary Grand Prix,williams,+1 Lap,0.0
+2020,6,Spanish Grand Prix,alfa,+1 Lap,0.0
+2020,6,Spanish Grand Prix,alphatauri,+1 Lap,2.0
+2020,6,Spanish Grand Prix,ferrari,+1 Lap,6.0
+2020,6,Spanish Grand Prix,ferrari,Electronics,0.0
+2020,6,Spanish Grand Prix,haas,+1 Lap,0.0
+2020,6,Spanish Grand Prix,haas,+2 Laps,0.0
+2020,6,Spanish Grand Prix,mclaren,+1 Lap,9.0
+2020,6,Spanish Grand Prix,mercedes,Finished,41.0
+2020,6,Spanish Grand Prix,racing_point,+1 Lap,22.0
+2020,6,Spanish Grand Prix,red_bull,+1 Lap,4.0
+2020,6,Spanish Grand Prix,red_bull,Finished,18.0
+2020,6,Spanish Grand Prix,renault,+1 Lap,0.0
+2020,6,Spanish Grand Prix,williams,+1 Lap,0.0
+2020,6,Spanish Grand Prix,williams,+2 Laps,0.0
+2020,7,Belgian Grand Prix,alfa,Accident,0.0
+2020,7,Belgian Grand Prix,alfa,Finished,0.0
+2020,7,Belgian Grand Prix,alphatauri,Finished,4.0
+2020,7,Belgian Grand Prix,ferrari,Finished,0.0
+2020,7,Belgian Grand Prix,haas,Finished,0.0
+2020,7,Belgian Grand Prix,mclaren,Exhaust,0.0
+2020,7,Belgian Grand Prix,mclaren,Finished,6.0
+2020,7,Belgian Grand Prix,mercedes,Finished,43.0
+2020,7,Belgian Grand Prix,racing_point,Finished,3.0
+2020,7,Belgian Grand Prix,red_bull,Finished,23.0
+2020,7,Belgian Grand Prix,renault,Finished,23.0
+2020,7,Belgian Grand Prix,williams,Debris,0.0
+2020,7,Belgian Grand Prix,williams,Finished,0.0
+2020,8,Italian Grand Prix,alfa,Finished,0.0
+2020,8,Italian Grand Prix,alphatauri,Finished,27.0
+2020,8,Italian Grand Prix,ferrari,Accident,0.0
+2020,8,Italian Grand Prix,ferrari,Brakes,0.0
+2020,8,Italian Grand Prix,haas,Finished,0.0
+2020,8,Italian Grand Prix,haas,Power Unit,0.0
+2020,8,Italian Grand Prix,mclaren,Finished,30.0
+2020,8,Italian Grand Prix,mercedes,Finished,17.0
+2020,8,Italian Grand Prix,racing_point,Finished,16.0
+2020,8,Italian Grand Prix,red_bull,Finished,0.0
+2020,8,Italian Grand Prix,red_bull,Power Unit,0.0
+2020,8,Italian Grand Prix,renault,Finished,12.0
+2020,8,Italian Grand Prix,williams,Finished,0.0
+2020,9,Tuscan Grand Prix,alfa,Collision,0.0
+2020,9,Tuscan Grand Prix,alfa,Finished,2.0
+2020,9,Tuscan Grand Prix,alphatauri,Collision,0.0
+2020,9,Tuscan Grand Prix,alphatauri,Finished,6.0
+2020,9,Tuscan Grand Prix,ferrari,Finished,5.0
+2020,9,Tuscan Grand Prix,haas,Collision,0.0
+2020,9,Tuscan Grand Prix,haas,Finished,0.0
+2020,9,Tuscan Grand Prix,mclaren,Collision,0.0
+2020,9,Tuscan Grand Prix,mclaren,Finished,8.0
+2020,9,Tuscan Grand Prix,mercedes,Finished,44.0
+2020,9,Tuscan Grand Prix,racing_point,Finished,10.0
+2020,9,Tuscan Grand Prix,racing_point,Puncture,0.0
+2020,9,Tuscan Grand Prix,red_bull,Collision,0.0
+2020,9,Tuscan Grand Prix,red_bull,Finished,15.0
+2020,9,Tuscan Grand Prix,renault,Brakes,0.0
+2020,9,Tuscan Grand Prix,renault,Finished,12.0
+2020,9,Tuscan Grand Prix,williams,Collision,0.0
+2020,9,Tuscan Grand Prix,williams,Finished,0.0
+2020,10,Russian Grand Prix,alfa,+1 Lap,0.0
+2020,10,Russian Grand Prix,alphatauri,Finished,6.0
+2020,10,Russian Grand Prix,ferrari,+1 Lap,0.0
+2020,10,Russian Grand Prix,ferrari,Finished,8.0
+2020,10,Russian Grand Prix,haas,+1 Lap,0.0
+2020,10,Russian Grand Prix,mclaren,+1 Lap,0.0
+2020,10,Russian Grand Prix,mclaren,Accident,0.0
+2020,10,Russian Grand Prix,mercedes,Finished,41.0
+2020,10,Russian Grand Prix,racing_point,Collision,0.0
+2020,10,Russian Grand Prix,racing_point,Finished,12.0
+2020,10,Russian Grand Prix,red_bull,Finished,19.0
+2020,10,Russian Grand Prix,renault,Finished,16.0
+2020,10,Russian Grand Prix,williams,+1 Lap,0.0
+2020,11,Eifel Grand Prix,alfa,Finished,1.0
+2020,11,Eifel Grand Prix,alphatauri,Finished,8.0
+2020,11,Eifel Grand Prix,ferrari,Finished,6.0
+2020,11,Eifel Grand Prix,haas,Finished,2.0
+2020,11,Eifel Grand Prix,mclaren,Finished,10.0
+2020,11,Eifel Grand Prix,mclaren,Power Unit,0.0
+2020,11,Eifel Grand Prix,mercedes,Finished,25.0
+2020,11,Eifel Grand Prix,mercedes,Power Unit,0.0
+2020,11,Eifel Grand Prix,racing_point,Finished,16.0
+2020,11,Eifel Grand Prix,red_bull,Finished,19.0
+2020,11,Eifel Grand Prix,red_bull,Radiator,0.0
+2020,11,Eifel Grand Prix,renault,Finished,15.0
+2020,11,Eifel Grand Prix,renault,Gearbox,0.0
+2020,11,Eifel Grand Prix,williams,Collision,0.0
+2020,11,Eifel Grand Prix,williams,Finished,0.0
+2020,12,Portuguese Grand Prix,alfa,+1 Lap,0.0
+2020,12,Portuguese Grand Prix,alphatauri,+1 Lap,10.0
+2020,12,Portuguese Grand Prix,alphatauri,+2 Laps,0.0
+2020,12,Portuguese Grand Prix,ferrari,+1 Lap,1.0
+2020,12,Portuguese Grand Prix,ferrari,Finished,12.0
+2020,12,Portuguese Grand Prix,haas,+1 Lap,0.0
+2020,12,Portuguese Grand Prix,mclaren,+1 Lap,8.0
+2020,12,Portuguese Grand Prix,mercedes,Finished,44.0
+2020,12,Portuguese Grand Prix,racing_point,+1 Lap,6.0
+2020,12,Portuguese Grand Prix,racing_point,Collision damage,0.0
+2020,12,Portuguese Grand Prix,red_bull,+1 Lap,0.0
+2020,12,Portuguese Grand Prix,red_bull,Finished,15.0
+2020,12,Portuguese Grand Prix,renault,+1 Lap,6.0
+2020,12,Portuguese Grand Prix,williams,+1 Lap,0.0
+2020,12,Portuguese Grand Prix,williams,+2 Laps,0.0
+2020,13,Emilia Romagna Grand Prix,alfa,Finished,3.0
+2020,13,Emilia Romagna Grand Prix,alphatauri,Finished,12.0
+2020,13,Emilia Romagna Grand Prix,alphatauri,Water pressure,0.0
+2020,13,Emilia Romagna Grand Prix,ferrari,Finished,10.0
+2020,13,Emilia Romagna Grand Prix,haas,Finished,0.0
+2020,13,Emilia Romagna Grand Prix,haas,Illness,0.0
+2020,13,Emilia Romagna Grand Prix,mclaren,Finished,10.0
+2020,13,Emilia Romagna Grand Prix,mercedes,Finished,44.0
+2020,13,Emilia Romagna Grand Prix,racing_point,Finished,8.0
+2020,13,Emilia Romagna Grand Prix,red_bull,Finished,0.0
+2020,13,Emilia Romagna Grand Prix,red_bull,Puncture,0.0
+2020,13,Emilia Romagna Grand Prix,renault,Finished,15.0
+2020,13,Emilia Romagna Grand Prix,renault,Gearbox,0.0
+2020,13,Emilia Romagna Grand Prix,williams,Accident,0.0
+2020,13,Emilia Romagna Grand Prix,williams,Finished,0.0
+2020,14,Turkish Grand Prix,alfa,+1 Lap,0.0
+2020,14,Turkish Grand Prix,alfa,Gearbox,0.0
+2020,14,Turkish Grand Prix,alphatauri,+1 Lap,0.0
+2020,14,Turkish Grand Prix,ferrari,Finished,27.0
+2020,14,Turkish Grand Prix,haas,Collision damage,0.0
+2020,14,Turkish Grand Prix,haas,Withdrew,0.0
+2020,14,Turkish Grand Prix,mclaren,Finished,15.0
+2020,14,Turkish Grand Prix,mercedes,+1 Lap,0.0
+2020,14,Turkish Grand Prix,mercedes,Finished,25.0
+2020,14,Turkish Grand Prix,racing_point,Finished,20.0
+2020,14,Turkish Grand Prix,red_bull,Finished,14.0
+2020,14,Turkish Grand Prix,renault,+1 Lap,0.0
+2020,14,Turkish Grand Prix,renault,Finished,1.0
+2020,14,Turkish Grand Prix,williams,+1 Lap,0.0
+2020,14,Turkish Grand Prix,williams,Collision damage,0.0
+2020,15,Bahrain Grand Prix,alfa,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,alphatauri,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,alphatauri,Finished,8.0
+2020,15,Bahrain Grand Prix,ferrari,+1 Lap,1.0
+2020,15,Bahrain Grand Prix,haas,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,haas,Collision,0.0
+2020,15,Bahrain Grand Prix,mclaren,Finished,22.0
+2020,15,Bahrain Grand Prix,mercedes,Finished,29.0
+2020,15,Bahrain Grand Prix,racing_point,Collision,0.0
+2020,15,Bahrain Grand Prix,racing_point,Engine,0.0
+2020,15,Bahrain Grand Prix,red_bull,Finished,34.0
+2020,15,Bahrain Grand Prix,renault,Finished,8.0
+2020,15,Bahrain Grand Prix,williams,+1 Lap,0.0
+2020,16,Sakhir Grand Prix,alfa,Finished,0.0
+2020,16,Sakhir Grand Prix,alphatauri,Finished,6.0
+2020,16,Sakhir Grand Prix,ferrari,Collision,0.0
+2020,16,Sakhir Grand Prix,ferrari,Finished,0.0
+2020,16,Sakhir Grand Prix,haas,Finished,0.0
+2020,16,Sakhir Grand Prix,mclaren,Finished,13.0
+2020,16,Sakhir Grand Prix,mercedes,Finished,7.0
+2020,16,Sakhir Grand Prix,racing_point,Finished,40.0
+2020,16,Sakhir Grand Prix,red_bull,Accident,0.0
+2020,16,Sakhir Grand Prix,red_bull,Finished,8.0
+2020,16,Sakhir Grand Prix,renault,Finished,28.0
+2020,16,Sakhir Grand Prix,williams,Engine,0.0
+2020,16,Sakhir Grand Prix,williams,Finished,0.0
+2020,17,Abu Dhabi Grand Prix,alfa,+1 Lap,0.0
+2020,17,Abu Dhabi Grand Prix,alphatauri,+1 Lap,0.0
+2020,17,Abu Dhabi Grand Prix,alphatauri,Finished,4.0
+2020,17,Abu Dhabi Grand Prix,ferrari,+1 Lap,0.0
+2020,17,Abu Dhabi Grand Prix,haas,+1 Lap,0.0
+2020,17,Abu Dhabi Grand Prix,haas,+2 Laps,0.0
+2020,17,Abu Dhabi Grand Prix,mclaren,Finished,18.0
+2020,17,Abu Dhabi Grand Prix,mercedes,Finished,33.0
+2020,17,Abu Dhabi Grand Prix,racing_point,Finished,1.0
+2020,17,Abu Dhabi Grand Prix,racing_point,Transmission,0.0
+2020,17,Abu Dhabi Grand Prix,red_bull,Finished,37.0
+2020,17,Abu Dhabi Grand Prix,renault,Finished,9.0
+2020,17,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2021,1,Bahrain Grand Prix,alfa,+1 Lap,0.0
+2021,1,Bahrain Grand Prix,alfa,Finished,0.0
+2021,1,Bahrain Grand Prix,alphatauri,Finished,2.0
+2021,1,Bahrain Grand Prix,alphatauri,Retired,0.0
+2021,1,Bahrain Grand Prix,alpine,+1 Lap,0.0
+2021,1,Bahrain Grand Prix,alpine,Brakes,0.0
+2021,1,Bahrain Grand Prix,aston_martin,+1 Lap,0.0
+2021,1,Bahrain Grand Prix,aston_martin,Finished,1.0
+2021,1,Bahrain Grand Prix,ferrari,Finished,12.0
+2021,1,Bahrain Grand Prix,haas,+1 Lap,0.0
+2021,1,Bahrain Grand Prix,haas,Accident,0.0
+2021,1,Bahrain Grand Prix,mclaren,Finished,18.0
+2021,1,Bahrain Grand Prix,mercedes,Finished,41.0
+2021,1,Bahrain Grand Prix,red_bull,Finished,28.0
+2021,1,Bahrain Grand Prix,williams,+1 Lap,0.0
+2021,1,Bahrain Grand Prix,williams,Retired,0.0
+2021,2,Emilia Romagna Grand Prix,alfa,+1 Lap,0.0
+2021,2,Emilia Romagna Grand Prix,alfa,Finished,0.0
+2021,2,Emilia Romagna Grand Prix,alphatauri,Finished,6.0
+2021,2,Emilia Romagna Grand Prix,alpine,Finished,3.0
+2021,2,Emilia Romagna Grand Prix,aston_martin,Finished,4.0
+2021,2,Emilia Romagna Grand Prix,aston_martin,Gearbox,0.0
+2021,2,Emilia Romagna Grand Prix,ferrari,Finished,22.0
+2021,2,Emilia Romagna Grand Prix,haas,+2 Laps,0.0
+2021,2,Emilia Romagna Grand Prix,mclaren,Finished,23.0
+2021,2,Emilia Romagna Grand Prix,mercedes,Collision,0.0
+2021,2,Emilia Romagna Grand Prix,mercedes,Finished,19.0
+2021,2,Emilia Romagna Grand Prix,red_bull,Finished,25.0
+2021,2,Emilia Romagna Grand Prix,williams,Collision,0.0
+2021,3,Portuguese Grand Prix,alfa,+1 Lap,0.0
+2021,3,Portuguese Grand Prix,alfa,Collision damage,0.0
+2021,3,Portuguese Grand Prix,alphatauri,+1 Lap,0.0
+2021,3,Portuguese Grand Prix,alphatauri,Finished,1.0
+2021,3,Portuguese Grand Prix,alpine,Finished,10.0
+2021,3,Portuguese Grand Prix,aston_martin,+1 Lap,0.0
+2021,3,Portuguese Grand Prix,ferrari,Finished,8.0
+2021,3,Portuguese Grand Prix,haas,+2 Laps,0.0
+2021,3,Portuguese Grand Prix,mclaren,Finished,12.0
+2021,3,Portuguese Grand Prix,mercedes,Finished,41.0
+2021,3,Portuguese Grand Prix,red_bull,Finished,30.0
+2021,3,Portuguese Grand Prix,williams,+1 Lap,0.0
+2021,3,Portuguese Grand Prix,williams,+2 Laps,0.0
+2021,4,Spanish Grand Prix,alfa,+1 Lap,0.0
+2021,4,Spanish Grand Prix,alphatauri,+1 Lap,1.0
+2021,4,Spanish Grand Prix,alphatauri,Electrical,0.0
+2021,4,Spanish Grand Prix,alpine,+1 Lap,2.0
+2021,4,Spanish Grand Prix,aston_martin,+1 Lap,0.0
+2021,4,Spanish Grand Prix,ferrari,Finished,18.0
+2021,4,Spanish Grand Prix,haas,+2 Laps,0.0
+2021,4,Spanish Grand Prix,mclaren,+1 Lap,4.0
+2021,4,Spanish Grand Prix,mclaren,Finished,8.0
+2021,4,Spanish Grand Prix,mercedes,Finished,40.0
+2021,4,Spanish Grand Prix,red_bull,Finished,29.0
+2021,4,Spanish Grand Prix,williams,+1 Lap,0.0
+2021,5,Monaco Grand Prix,alfa,+1 Lap,1.0
+2021,5,Monaco Grand Prix,alphatauri,+1 Lap,0.0
+2021,5,Monaco Grand Prix,alphatauri,Finished,8.0
+2021,5,Monaco Grand Prix,alpine,+1 Lap,2.0
+2021,5,Monaco Grand Prix,aston_martin,+1 Lap,4.0
+2021,5,Monaco Grand Prix,aston_martin,Finished,10.0
+2021,5,Monaco Grand Prix,ferrari,Driveshaft,0.0
+2021,5,Monaco Grand Prix,ferrari,Finished,18.0
+2021,5,Monaco Grand Prix,haas,+3 Laps,0.0
+2021,5,Monaco Grand Prix,mclaren,+1 Lap,0.0
+2021,5,Monaco Grand Prix,mclaren,Finished,15.0
+2021,5,Monaco Grand Prix,mercedes,Finished,7.0
+2021,5,Monaco Grand Prix,mercedes,Wheel nut,0.0
+2021,5,Monaco Grand Prix,red_bull,Finished,37.0
+2021,5,Monaco Grand Prix,williams,+1 Lap,0.0
+2021,6,Azerbaijan Grand Prix,alfa,Finished,1.0
+2021,6,Azerbaijan Grand Prix,alphatauri,Finished,21.0
+2021,6,Azerbaijan Grand Prix,alpine,Finished,8.0
+2021,6,Azerbaijan Grand Prix,alpine,Turbo,0.0
+2021,6,Azerbaijan Grand Prix,aston_martin,Accident,0.0
+2021,6,Azerbaijan Grand Prix,aston_martin,Finished,18.0
+2021,6,Azerbaijan Grand Prix,ferrari,Finished,16.0
+2021,6,Azerbaijan Grand Prix,haas,Finished,0.0
+2021,6,Azerbaijan Grand Prix,mclaren,Finished,12.0
+2021,6,Azerbaijan Grand Prix,mercedes,Finished,0.0
+2021,6,Azerbaijan Grand Prix,red_bull,Accident,0.0
+2021,6,Azerbaijan Grand Prix,red_bull,Finished,25.0
+2021,6,Azerbaijan Grand Prix,williams,Finished,0.0
+2021,6,Azerbaijan Grand Prix,williams,Gearbox,0.0
+2021,7,French Grand Prix,alfa,+1 Lap,0.0
+2021,7,French Grand Prix,alphatauri,+1 Lap,0.0
+2021,7,French Grand Prix,alphatauri,Finished,6.0
+2021,7,French Grand Prix,alpine,+1 Lap,0.0
+2021,7,French Grand Prix,alpine,Finished,4.0
+2021,7,French Grand Prix,aston_martin,Finished,3.0
+2021,7,French Grand Prix,ferrari,+1 Lap,0.0
+2021,7,French Grand Prix,ferrari,Finished,0.0
+2021,7,French Grand Prix,haas,+1 Lap,0.0
+2021,7,French Grand Prix,mclaren,Finished,18.0
+2021,7,French Grand Prix,mercedes,Finished,30.0
+2021,7,French Grand Prix,red_bull,Finished,41.0
+2021,7,French Grand Prix,williams,+1 Lap,0.0
+2021,8,Styrian Grand Prix,alfa,+1 Lap,0.0
+2021,8,Styrian Grand Prix,alphatauri,+1 Lap,1.0
+2021,8,Styrian Grand Prix,alphatauri,Collision,0.0
+2021,8,Styrian Grand Prix,alpine,+1 Lap,2.0
+2021,8,Styrian Grand Prix,aston_martin,+1 Lap,4.0
+2021,8,Styrian Grand Prix,ferrari,+1 Lap,14.0
+2021,8,Styrian Grand Prix,haas,+2 Laps,0.0
+2021,8,Styrian Grand Prix,haas,+3 Laps,0.0
+2021,8,Styrian Grand Prix,mclaren,+1 Lap,10.0
+2021,8,Styrian Grand Prix,mercedes,Finished,34.0
+2021,8,Styrian Grand Prix,red_bull,Finished,37.0
+2021,8,Styrian Grand Prix,williams,+3 Laps,0.0
+2021,8,Styrian Grand Prix,williams,Engine,0.0
+2021,9,Austrian Grand Prix,alfa,+1 Lap,0.0
+2021,9,Austrian Grand Prix,alphatauri,+1 Lap,0.0
+2021,9,Austrian Grand Prix,alphatauri,Finished,2.0
+2021,9,Austrian Grand Prix,alpine,+1 Lap,1.0
+2021,9,Austrian Grand Prix,alpine,Collision,0.0
+2021,9,Austrian Grand Prix,aston_martin,+1 Lap,0.0
+2021,9,Austrian Grand Prix,aston_martin,Collision,0.0
+2021,9,Austrian Grand Prix,ferrari,Finished,14.0
+2021,9,Austrian Grand Prix,haas,+2 Laps,0.0
+2021,9,Austrian Grand Prix,mclaren,Finished,21.0
+2021,9,Austrian Grand Prix,mercedes,Finished,30.0
+2021,9,Austrian Grand Prix,red_bull,Finished,34.0
+2021,9,Austrian Grand Prix,williams,+1 Lap,0.0
+2021,10,British Grand Prix,alfa,+1 Lap,0.0
+2021,10,British Grand Prix,alphatauri,Finished,1.0
+2021,10,British Grand Prix,alpine,Finished,8.0
+2021,10,British Grand Prix,aston_martin,Finished,4.0
+2021,10,British Grand Prix,aston_martin,Retired,0.0
+2021,10,British Grand Prix,ferrari,Finished,26.0
+2021,10,British Grand Prix,haas,+1 Lap,0.0
+2021,10,British Grand Prix,mclaren,Finished,22.0
+2021,10,British Grand Prix,mercedes,Finished,40.0
+2021,10,British Grand Prix,red_bull,+1 Lap,0.0
+2021,10,British Grand Prix,red_bull,Collision,0.0
+2021,10,British Grand Prix,williams,+1 Lap,0.0
+2021,11,Hungarian Grand Prix,alfa,+1 Lap,1.0
+2021,11,Hungarian Grand Prix,alphatauri,Finished,19.0
+2021,11,Hungarian Grand Prix,alpine,Finished,37.0
+2021,11,Hungarian Grand Prix,aston_martin,Collision,0.0
+2021,11,Hungarian Grand Prix,aston_martin,Disqualified,0.0
+2021,11,Hungarian Grand Prix,ferrari,Collision,0.0
+2021,11,Hungarian Grand Prix,ferrari,Finished,15.0
+2021,11,Hungarian Grand Prix,haas,+1 Lap,0.0
+2021,11,Hungarian Grand Prix,haas,Collision,0.0
+2021,11,Hungarian Grand Prix,mclaren,+1 Lap,0.0
+2021,11,Hungarian Grand Prix,mclaren,Collision,0.0
+2021,11,Hungarian Grand Prix,mercedes,Collision,0.0
+2021,11,Hungarian Grand Prix,mercedes,Finished,18.0
+2021,11,Hungarian Grand Prix,red_bull,Collision,0.0
+2021,11,Hungarian Grand Prix,red_bull,Finished,2.0
+2021,11,Hungarian Grand Prix,williams,Finished,10.0
+2021,12,Belgian Grand Prix,alfa,Finished,0.0
+2021,12,Belgian Grand Prix,alphatauri,Finished,4.0
+2021,12,Belgian Grand Prix,alpine,Finished,3.0
+2021,12,Belgian Grand Prix,aston_martin,Finished,5.0
+2021,12,Belgian Grand Prix,ferrari,Finished,2.5
+2021,12,Belgian Grand Prix,haas,Finished,0.0
+2021,12,Belgian Grand Prix,mclaren,Finished,6.0
+2021,12,Belgian Grand Prix,mercedes,Finished,7.5
+2021,12,Belgian Grand Prix,red_bull,Finished,12.5
+2021,12,Belgian Grand Prix,williams,Finished,10.0
+2021,13,Dutch Grand Prix,alfa,+2 Laps,0.0
+2021,13,Dutch Grand Prix,alphatauri,+1 Lap,12.0
+2021,13,Dutch Grand Prix,alphatauri,Power Unit,0.0
+2021,13,Dutch Grand Prix,alpine,+1 Lap,10.0
+2021,13,Dutch Grand Prix,aston_martin,+2 Laps,0.0
+2021,13,Dutch Grand Prix,ferrari,+1 Lap,16.0
+2021,13,Dutch Grand Prix,haas,+3 Laps,0.0
+2021,13,Dutch Grand Prix,haas,Hydraulics,0.0
+2021,13,Dutch Grand Prix,mclaren,+1 Lap,1.0
+2021,13,Dutch Grand Prix,mercedes,Finished,34.0
+2021,13,Dutch Grand Prix,red_bull,+1 Lap,4.0
+2021,13,Dutch Grand Prix,red_bull,Finished,25.0
+2021,13,Dutch Grand Prix,williams,+2 Laps,0.0
+2021,13,Dutch Grand Prix,williams,Gearbox,0.0
+2021,14,Italian Grand Prix,alfa,Finished,0.0
+2021,14,Italian Grand Prix,alphatauri,Brakes,0.0
+2021,14,Italian Grand Prix,alphatauri,Suspension,0.0
+2021,14,Italian Grand Prix,alpine,Finished,5.0
+2021,14,Italian Grand Prix,aston_martin,Finished,6.0
+2021,14,Italian Grand Prix,ferrari,Finished,20.0
+2021,14,Italian Grand Prix,haas,Finished,0.0
+2021,14,Italian Grand Prix,haas,Power Unit,0.0
+2021,14,Italian Grand Prix,mclaren,Finished,44.0
+2021,14,Italian Grand Prix,mercedes,Collision,0.0
+2021,14,Italian Grand Prix,mercedes,Finished,15.0
+2021,14,Italian Grand Prix,red_bull,Collision,0.0
+2021,14,Italian Grand Prix,red_bull,Finished,10.0
+2021,14,Italian Grand Prix,williams,Finished,2.0
+2021,15,Russian Grand Prix,alfa,+1 Lap,0.0
+2021,15,Russian Grand Prix,alfa,Finished,4.0
+2021,15,Russian Grand Prix,alphatauri,+1 Lap,0.0
+2021,15,Russian Grand Prix,alpine,+1 Lap,0.0
+2021,15,Russian Grand Prix,alpine,Finished,8.0
+2021,15,Russian Grand Prix,aston_martin,+1 Lap,0.0
+2021,15,Russian Grand Prix,aston_martin,Finished,0.0
+2021,15,Russian Grand Prix,ferrari,+1 Lap,0.0
+2021,15,Russian Grand Prix,ferrari,Finished,15.0
+2021,15,Russian Grand Prix,haas,+2 Laps,0.0
+2021,15,Russian Grand Prix,haas,Oil leak,0.0
+2021,15,Russian Grand Prix,mclaren,Finished,19.0
+2021,15,Russian Grand Prix,mercedes,Finished,35.0
+2021,15,Russian Grand Prix,red_bull,Finished,20.0
+2021,15,Russian Grand Prix,williams,Accident,0.0
+2021,15,Russian Grand Prix,williams,Finished,1.0
+2021,16,Turkish Grand Prix,alfa,+1 Lap,0.0
+2021,16,Turkish Grand Prix,alphatauri,+1 Lap,0.0
+2021,16,Turkish Grand Prix,alphatauri,Finished,8.0
+2021,16,Turkish Grand Prix,alpine,+1 Lap,1.0
+2021,16,Turkish Grand Prix,aston_martin,+1 Lap,0.0
+2021,16,Turkish Grand Prix,aston_martin,Finished,2.0
+2021,16,Turkish Grand Prix,ferrari,Finished,16.0
+2021,16,Turkish Grand Prix,haas,+2 Laps,0.0
+2021,16,Turkish Grand Prix,mclaren,+1 Lap,0.0
+2021,16,Turkish Grand Prix,mclaren,Finished,6.0
+2021,16,Turkish Grand Prix,mercedes,Finished,36.0
+2021,16,Turkish Grand Prix,red_bull,Finished,33.0
+2021,16,Turkish Grand Prix,williams,+1 Lap,0.0
+2021,17,United States Grand Prix,alfa,+1 Lap,0.0
+2021,17,United States Grand Prix,alphatauri,+1 Lap,2.0
+2021,17,United States Grand Prix,alphatauri,Suspension,0.0
+2021,17,United States Grand Prix,alpine,Mechanical,0.0
+2021,17,United States Grand Prix,alpine,Rear wing,0.0
+2021,17,United States Grand Prix,aston_martin,+1 Lap,1.0
+2021,17,United States Grand Prix,ferrari,Finished,18.0
+2021,17,United States Grand Prix,haas,+2 Laps,0.0
+2021,17,United States Grand Prix,mclaren,Finished,14.0
+2021,17,United States Grand Prix,mercedes,Finished,27.0
+2021,17,United States Grand Prix,red_bull,Finished,40.0
+2021,17,United States Grand Prix,williams,+1 Lap,0.0
+2021,18,Mexico City Grand Prix,alfa,+1 Lap,4.0
+2021,18,Mexico City Grand Prix,alphatauri,Collision,0.0
+2021,18,Mexico City Grand Prix,alphatauri,Finished,12.0
+2021,18,Mexico City Grand Prix,alpine,+1 Lap,2.0
+2021,18,Mexico City Grand Prix,aston_martin,+1 Lap,6.0
+2021,18,Mexico City Grand Prix,aston_martin,+2 Laps,0.0
+2021,18,Mexico City Grand Prix,ferrari,+1 Lap,8.0
+2021,18,Mexico City Grand Prix,ferrari,Finished,10.0
+2021,18,Mexico City Grand Prix,haas,+3 Laps,0.0
+2021,18,Mexico City Grand Prix,haas,Collision,0.0
+2021,18,Mexico City Grand Prix,mclaren,+1 Lap,1.0
+2021,18,Mexico City Grand Prix,mercedes,+2 Laps,0.0
+2021,18,Mexico City Grand Prix,mercedes,Finished,18.0
+2021,18,Mexico City Grand Prix,red_bull,Finished,40.0
+2021,18,Mexico City Grand Prix,williams,+2 Laps,0.0
+2021,19,São Paulo Grand Prix,alfa,+1 Lap,0.0
+2021,19,São Paulo Grand Prix,alphatauri,+1 Lap,6.0
+2021,19,São Paulo Grand Prix,alpine,+1 Lap,6.0
+2021,19,São Paulo Grand Prix,aston_martin,+1 Lap,0.0
+2021,19,São Paulo Grand Prix,aston_martin,Collision damage,0.0
+2021,19,São Paulo Grand Prix,ferrari,Finished,18.0
+2021,19,São Paulo Grand Prix,haas,+2 Laps,0.0
+2021,19,São Paulo Grand Prix,mclaren,+1 Lap,1.0
+2021,19,São Paulo Grand Prix,mclaren,Power loss,0.0
+2021,19,São Paulo Grand Prix,mercedes,Finished,40.0
+2021,19,São Paulo Grand Prix,red_bull,Finished,31.0
+2021,19,São Paulo Grand Prix,williams,+1 Lap,0.0
+2021,20,Qatar Grand Prix,alfa,+1 Lap,0.0
+2021,20,Qatar Grand Prix,alphatauri,+1 Lap,0.0
+2021,20,Qatar Grand Prix,alpine,Finished,25.0
+2021,20,Qatar Grand Prix,aston_martin,+1 Lap,1.0
+2021,20,Qatar Grand Prix,aston_martin,Finished,8.0
+2021,20,Qatar Grand Prix,ferrari,Finished,10.0
+2021,20,Qatar Grand Prix,haas,+1 Lap,0.0
+2021,20,Qatar Grand Prix,haas,+2 Laps,0.0
+2021,20,Qatar Grand Prix,mclaren,+1 Lap,2.0
+2021,20,Qatar Grand Prix,mercedes,Damage,0.0
+2021,20,Qatar Grand Prix,mercedes,Finished,25.0
+2021,20,Qatar Grand Prix,red_bull,Finished,31.0
+2021,20,Qatar Grand Prix,williams,+2 Laps,0.0
+2021,20,Qatar Grand Prix,williams,Puncture,0.0
+2021,21,Saudi Arabian Grand Prix,alfa,+1 Lap,0.0
+2021,21,Saudi Arabian Grand Prix,alfa,Finished,2.0
+2021,21,Saudi Arabian Grand Prix,alphatauri,+1 Lap,0.0
+2021,21,Saudi Arabian Grand Prix,alphatauri,Finished,8.0
+2021,21,Saudi Arabian Grand Prix,alpine,+1 Lap,0.0
+2021,21,Saudi Arabian Grand Prix,alpine,Finished,12.0
+2021,21,Saudi Arabian Grand Prix,aston_martin,Collision damage,0.0
+2021,21,Saudi Arabian Grand Prix,aston_martin,Finished,0.0
+2021,21,Saudi Arabian Grand Prix,ferrari,Finished,10.0
+2021,21,Saudi Arabian Grand Prix,haas,Accident,0.0
+2021,21,Saudi Arabian Grand Prix,haas,Collision,0.0
+2021,21,Saudi Arabian Grand Prix,mclaren,Finished,11.0
+2021,21,Saudi Arabian Grand Prix,mercedes,Finished,41.0
+2021,21,Saudi Arabian Grand Prix,red_bull,Collision,0.0
+2021,21,Saudi Arabian Grand Prix,red_bull,Finished,18.0
+2021,21,Saudi Arabian Grand Prix,williams,Collision,0.0
+2021,21,Saudi Arabian Grand Prix,williams,Finished,0.0
+2021,22,Abu Dhabi Grand Prix,alfa,Brakes,0.0
+2021,22,Abu Dhabi Grand Prix,alfa,Gearbox,0.0
+2021,22,Abu Dhabi Grand Prix,alphatauri,Finished,22.0
+2021,22,Abu Dhabi Grand Prix,alpine,Finished,6.0
+2021,22,Abu Dhabi Grand Prix,aston_martin,+1 Lap,0.0
+2021,22,Abu Dhabi Grand Prix,aston_martin,Finished,0.0
+2021,22,Abu Dhabi Grand Prix,ferrari,Finished,16.0
+2021,22,Abu Dhabi Grand Prix,haas,+1 Lap,0.0
+2021,22,Abu Dhabi Grand Prix,haas,Illness,0.0
+2021,22,Abu Dhabi Grand Prix,mclaren,+1 Lap,0.0
+2021,22,Abu Dhabi Grand Prix,mclaren,Finished,6.0
+2021,22,Abu Dhabi Grand Prix,mercedes,Finished,26.0
+2021,22,Abu Dhabi Grand Prix,red_bull,Engine,0.0
+2021,22,Abu Dhabi Grand Prix,red_bull,Finished,26.0
+2021,22,Abu Dhabi Grand Prix,williams,Accident,0.0
+2021,22,Abu Dhabi Grand Prix,williams,Gearbox,0.0
+2022,1,Bahrain Grand Prix,alfa,Finished,9.0
+2022,1,Bahrain Grand Prix,alphatauri,Finished,4.0
+2022,1,Bahrain Grand Prix,alphatauri,Power Unit,0.0
+2022,1,Bahrain Grand Prix,alpine,Finished,8.0
+2022,1,Bahrain Grand Prix,aston_martin,Finished,0.0
+2022,1,Bahrain Grand Prix,ferrari,Finished,44.0
+2022,1,Bahrain Grand Prix,haas,Finished,10.0
+2022,1,Bahrain Grand Prix,mclaren,Finished,0.0
+2022,1,Bahrain Grand Prix,mercedes,Finished,27.0
+2022,1,Bahrain Grand Prix,red_bull,Fuel pressure,0.0
+2022,1,Bahrain Grand Prix,williams,Finished,0.0
+2022,2,Saudi Arabian Grand Prix,alfa,Cooling system,0.0
+2022,2,Saudi Arabian Grand Prix,alfa,Finished,0.0
+2022,2,Saudi Arabian Grand Prix,alphatauri,Finished,4.0
+2022,2,Saudi Arabian Grand Prix,alphatauri,Power Unit,0.0
+2022,2,Saudi Arabian Grand Prix,alpine,Finished,8.0
+2022,2,Saudi Arabian Grand Prix,alpine,Water pump,0.0
+2022,2,Saudi Arabian Grand Prix,aston_martin,+1 Lap,0.0
+2022,2,Saudi Arabian Grand Prix,aston_martin,Finished,0.0
+2022,2,Saudi Arabian Grand Prix,ferrari,Finished,34.0
+2022,2,Saudi Arabian Grand Prix,haas,Finished,2.0
+2022,2,Saudi Arabian Grand Prix,haas,Withdrew,0.0
+2022,2,Saudi Arabian Grand Prix,mclaren,Finished,6.0
+2022,2,Saudi Arabian Grand Prix,mclaren,Gearbox,0.0
+2022,2,Saudi Arabian Grand Prix,mercedes,Finished,11.0
+2022,2,Saudi Arabian Grand Prix,red_bull,Finished,37.0
+2022,2,Saudi Arabian Grand Prix,williams,Accident,0.0
+2022,2,Saudi Arabian Grand Prix,williams,Collision damage,0.0
+2022,3,Australian Grand Prix,alfa,Finished,4.0
+2022,3,Australian Grand Prix,alphatauri,+1 Lap,0.0
+2022,3,Australian Grand Prix,alphatauri,Finished,2.0
+2022,3,Australian Grand Prix,alpine,+1 Lap,0.0
+2022,3,Australian Grand Prix,alpine,Finished,6.0
+2022,3,Australian Grand Prix,aston_martin,Accident,0.0
+2022,3,Australian Grand Prix,aston_martin,Finished,0.0
+2022,3,Australian Grand Prix,ferrari,Finished,26.0
+2022,3,Australian Grand Prix,ferrari,Spun off,0.0
+2022,3,Australian Grand Prix,haas,+1 Lap,0.0
+2022,3,Australian Grand Prix,mclaren,Finished,18.0
+2022,3,Australian Grand Prix,mercedes,Finished,27.0
+2022,3,Australian Grand Prix,red_bull,Finished,18.0
+2022,3,Australian Grand Prix,red_bull,Fuel leak,0.0
+2022,3,Australian Grand Prix,williams,+1 Lap,0.0
+2022,3,Australian Grand Prix,williams,Finished,1.0
+2022,4,Emilia Romagna Grand Prix,alfa,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,alfa,Finished,10.0
+2022,4,Emilia Romagna Grand Prix,alphatauri,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,alphatauri,Finished,6.0
+2022,4,Emilia Romagna Grand Prix,alpine,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,alpine,Collision damage,0.0
+2022,4,Emilia Romagna Grand Prix,aston_martin,+1 Lap,1.0
+2022,4,Emilia Romagna Grand Prix,aston_martin,Finished,4.0
+2022,4,Emilia Romagna Grand Prix,ferrari,Collision,0.0
+2022,4,Emilia Romagna Grand Prix,ferrari,Finished,8.0
+2022,4,Emilia Romagna Grand Prix,haas,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,haas,Finished,2.0
+2022,4,Emilia Romagna Grand Prix,mclaren,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,mclaren,Finished,15.0
+2022,4,Emilia Romagna Grand Prix,mercedes,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,mercedes,Finished,12.0
+2022,4,Emilia Romagna Grand Prix,red_bull,Finished,44.0
+2022,4,Emilia Romagna Grand Prix,williams,+1 Lap,0.0
+2022,5,Miami Grand Prix,alfa,Finished,6.0
+2022,5,Miami Grand Prix,alfa,Water leak,0.0
+2022,5,Miami Grand Prix,alphatauri,Finished,0.0
+2022,5,Miami Grand Prix,alphatauri,Suspension,0.0
+2022,5,Miami Grand Prix,alpine,Finished,4.0
+2022,5,Miami Grand Prix,aston_martin,Collision,0.0
+2022,5,Miami Grand Prix,aston_martin,Finished,1.0
+2022,5,Miami Grand Prix,ferrari,Finished,33.0
+2022,5,Miami Grand Prix,haas,Finished,0.0
+2022,5,Miami Grand Prix,haas,Front wing,0.0
+2022,5,Miami Grand Prix,mclaren,Collision,0.0
+2022,5,Miami Grand Prix,mclaren,Finished,0.0
+2022,5,Miami Grand Prix,mercedes,Finished,18.0
+2022,5,Miami Grand Prix,red_bull,Finished,38.0
+2022,5,Miami Grand Prix,williams,Finished,2.0
+2022,6,Spanish Grand Prix,alfa,Finished,8.0
+2022,6,Spanish Grand Prix,alfa,Power loss,0.0
+2022,6,Spanish Grand Prix,alphatauri,+1 Lap,1.0
+2022,6,Spanish Grand Prix,alpine,+1 Lap,2.0
+2022,6,Spanish Grand Prix,alpine,Finished,6.0
+2022,6,Spanish Grand Prix,aston_martin,+1 Lap,0.0
+2022,6,Spanish Grand Prix,ferrari,Finished,12.0
+2022,6,Spanish Grand Prix,ferrari,Turbo,0.0
+2022,6,Spanish Grand Prix,haas,+1 Lap,0.0
+2022,6,Spanish Grand Prix,haas,+2 Laps,0.0
+2022,6,Spanish Grand Prix,mclaren,+1 Lap,0.0
+2022,6,Spanish Grand Prix,mclaren,Finished,4.0
+2022,6,Spanish Grand Prix,mercedes,Finished,25.0
+2022,6,Spanish Grand Prix,red_bull,Finished,44.0
+2022,6,Spanish Grand Prix,williams,+2 Laps,0.0
+2022,7,Monaco Grand Prix,alfa,+1 Lap,0.0
+2022,7,Monaco Grand Prix,alfa,Finished,2.0
+2022,7,Monaco Grand Prix,alphatauri,+1 Lap,0.0
+2022,7,Monaco Grand Prix,alphatauri,Finished,0.0
+2022,7,Monaco Grand Prix,alpine,Finished,6.0
+2022,7,Monaco Grand Prix,aston_martin,Finished,1.0
+2022,7,Monaco Grand Prix,ferrari,Finished,30.0
+2022,7,Monaco Grand Prix,haas,Accident,0.0
+2022,7,Monaco Grand Prix,haas,Water pressure,0.0
+2022,7,Monaco Grand Prix,mclaren,Finished,9.0
+2022,7,Monaco Grand Prix,mercedes,Finished,14.0
+2022,7,Monaco Grand Prix,red_bull,Finished,40.0
+2022,7,Monaco Grand Prix,williams,+1 Lap,0.0
+2022,7,Monaco Grand Prix,williams,Mechanical,0.0
+2022,8,Azerbaijan Grand Prix,alfa,+1 Lap,0.0
+2022,8,Azerbaijan Grand Prix,alfa,Hydraulics,0.0
+2022,8,Azerbaijan Grand Prix,alphatauri,+1 Lap,0.0
+2022,8,Azerbaijan Grand Prix,alphatauri,Finished,10.0
+2022,8,Azerbaijan Grand Prix,alpine,Finished,7.0
+2022,8,Azerbaijan Grand Prix,aston_martin,Finished,8.0
+2022,8,Azerbaijan Grand Prix,aston_martin,Vibrations,0.0
+2022,8,Azerbaijan Grand Prix,ferrari,Hydraulics,0.0
+2022,8,Azerbaijan Grand Prix,ferrari,Power Unit,0.0
+2022,8,Azerbaijan Grand Prix,haas,+1 Lap,0.0
+2022,8,Azerbaijan Grand Prix,haas,Power Unit,0.0
+2022,8,Azerbaijan Grand Prix,mclaren,Finished,6.0
+2022,8,Azerbaijan Grand Prix,mercedes,Finished,27.0
+2022,8,Azerbaijan Grand Prix,red_bull,Finished,44.0
+2022,8,Azerbaijan Grand Prix,williams,+1 Lap,0.0
+2022,9,Canadian Grand Prix,alfa,Finished,10.0
+2022,9,Canadian Grand Prix,alphatauri,Accident,0.0
+2022,9,Canadian Grand Prix,alphatauri,Finished,0.0
+2022,9,Canadian Grand Prix,alpine,Finished,10.0
+2022,9,Canadian Grand Prix,aston_martin,Finished,1.0
+2022,9,Canadian Grand Prix,ferrari,Finished,29.0
+2022,9,Canadian Grand Prix,haas,Engine,0.0
+2022,9,Canadian Grand Prix,haas,Finished,0.0
+2022,9,Canadian Grand Prix,mclaren,Finished,0.0
+2022,9,Canadian Grand Prix,mercedes,Finished,27.0
+2022,9,Canadian Grand Prix,red_bull,Finished,25.0
+2022,9,Canadian Grand Prix,red_bull,Gearbox,0.0
+2022,9,Canadian Grand Prix,williams,Finished,0.0
+2022,10,British Grand Prix,alfa,Collision,0.0
+2022,10,British Grand Prix,alfa,Gearbox,0.0
+2022,10,British Grand Prix,alphatauri,Collision damage,0.0
+2022,10,British Grand Prix,alphatauri,Finished,0.0
+2022,10,British Grand Prix,alpine,Finished,10.0
+2022,10,British Grand Prix,alpine,Fuel pump,0.0
+2022,10,British Grand Prix,aston_martin,Finished,2.0
+2022,10,British Grand Prix,ferrari,Finished,37.0
+2022,10,British Grand Prix,haas,Finished,5.0
+2022,10,British Grand Prix,mclaren,Finished,8.0
+2022,10,British Grand Prix,mercedes,Collision,0.0
+2022,10,British Grand Prix,mercedes,Finished,16.0
+2022,10,British Grand Prix,red_bull,Finished,24.0
+2022,10,British Grand Prix,williams,Collision,0.0
+2022,10,British Grand Prix,williams,Finished,0.0
+2022,11,Austrian Grand Prix,alfa,+1 Lap,0.0
+2022,11,Austrian Grand Prix,alphatauri,+1 Lap,0.0
+2022,11,Austrian Grand Prix,alpine,+1 Lap,1.0
+2022,11,Austrian Grand Prix,alpine,Finished,10.0
+2022,11,Austrian Grand Prix,aston_martin,+1 Lap,0.0
+2022,11,Austrian Grand Prix,ferrari,Finished,25.0
+2022,11,Austrian Grand Prix,ferrari,Power Unit,0.0
+2022,11,Austrian Grand Prix,haas,+1 Lap,12.0
+2022,11,Austrian Grand Prix,mclaren,+1 Lap,8.0
+2022,11,Austrian Grand Prix,mercedes,Finished,27.0
+2022,11,Austrian Grand Prix,red_bull,Collision damage,0.0
+2022,11,Austrian Grand Prix,red_bull,Finished,19.0
+2022,11,Austrian Grand Prix,williams,+1 Lap,0.0
+2022,11,Austrian Grand Prix,williams,Undertray,0.0
+2022,12,French Grand Prix,alfa,+6 Laps,0.0
+2022,12,French Grand Prix,alfa,Finished,0.0
+2022,12,French Grand Prix,alphatauri,Finished,0.0
+2022,12,French Grand Prix,alphatauri,Undertray,0.0
+2022,12,French Grand Prix,alpine,Finished,12.0
+2022,12,French Grand Prix,aston_martin,Finished,1.0
+2022,12,French Grand Prix,ferrari,Accident,0.0
+2022,12,French Grand Prix,ferrari,Finished,11.0
+2022,12,French Grand Prix,haas,Collision damage,0.0
+2022,12,French Grand Prix,haas,Finished,0.0
+2022,12,French Grand Prix,mclaren,Finished,8.0
+2022,12,French Grand Prix,mercedes,Finished,33.0
+2022,12,French Grand Prix,red_bull,Finished,37.0
+2022,12,French Grand Prix,williams,Collision damage,0.0
+2022,12,French Grand Prix,williams,Finished,0.0
+2022,13,Hungarian Grand Prix,alfa,+1 Lap,0.0
+2022,13,Hungarian Grand Prix,alfa,Power Unit,0.0
+2022,13,Hungarian Grand Prix,alphatauri,+1 Lap,0.0
+2022,13,Hungarian Grand Prix,alphatauri,+2 Laps,0.0
+2022,13,Hungarian Grand Prix,alpine,+1 Lap,6.0
+2022,13,Hungarian Grand Prix,aston_martin,+1 Lap,1.0
+2022,13,Hungarian Grand Prix,ferrari,Finished,20.0
+2022,13,Hungarian Grand Prix,haas,+1 Lap,0.0
+2022,13,Hungarian Grand Prix,mclaren,+1 Lap,0.0
+2022,13,Hungarian Grand Prix,mclaren,Finished,6.0
+2022,13,Hungarian Grand Prix,mercedes,Finished,34.0
+2022,13,Hungarian Grand Prix,red_bull,Finished,35.0
+2022,13,Hungarian Grand Prix,williams,+1 Lap,0.0
+2022,14,Belgian Grand Prix,alfa,Accident,0.0
+2022,14,Belgian Grand Prix,alfa,Finished,0.0
+2022,14,Belgian Grand Prix,alphatauri,Finished,2.0
+2022,14,Belgian Grand Prix,alpine,Finished,16.0
+2022,14,Belgian Grand Prix,aston_martin,Finished,4.0
+2022,14,Belgian Grand Prix,ferrari,Finished,23.0
+2022,14,Belgian Grand Prix,haas,+1 Lap,0.0
+2022,14,Belgian Grand Prix,mclaren,Finished,0.0
+2022,14,Belgian Grand Prix,mercedes,Collision damage,0.0
+2022,14,Belgian Grand Prix,mercedes,Finished,12.0
+2022,14,Belgian Grand Prix,red_bull,Finished,44.0
+2022,14,Belgian Grand Prix,williams,+1 Lap,0.0
+2022,14,Belgian Grand Prix,williams,Finished,1.0
+2022,15,Dutch Grand Prix,alfa,Engine,0.0
+2022,15,Dutch Grand Prix,alfa,Finished,0.0
+2022,15,Dutch Grand Prix,alphatauri,Differential,0.0
+2022,15,Dutch Grand Prix,alphatauri,Finished,0.0
+2022,15,Dutch Grand Prix,alpine,Finished,10.0
+2022,15,Dutch Grand Prix,aston_martin,Finished,1.0
+2022,15,Dutch Grand Prix,ferrari,Finished,19.0
+2022,15,Dutch Grand Prix,haas,Finished,0.0
+2022,15,Dutch Grand Prix,mclaren,Finished,6.0
+2022,15,Dutch Grand Prix,mercedes,Finished,30.0
+2022,15,Dutch Grand Prix,red_bull,Finished,36.0
+2022,15,Dutch Grand Prix,williams,+1 Lap,0.0
+2022,15,Dutch Grand Prix,williams,Finished,0.0
+2022,16,Italian Grand Prix,alfa,+1 Lap,0.0
+2022,16,Italian Grand Prix,alfa,Finished,1.0
+2022,16,Italian Grand Prix,alphatauri,+1 Lap,0.0
+2022,16,Italian Grand Prix,alphatauri,Finished,4.0
+2022,16,Italian Grand Prix,alpine,Finished,0.0
+2022,16,Italian Grand Prix,alpine,Water pressure,0.0
+2022,16,Italian Grand Prix,aston_martin,Engine,0.0
+2022,16,Italian Grand Prix,ferrari,Finished,30.0
+2022,16,Italian Grand Prix,haas,+1 Lap,0.0
+2022,16,Italian Grand Prix,haas,Finished,0.0
+2022,16,Italian Grand Prix,mclaren,Finished,6.0
+2022,16,Italian Grand Prix,mclaren,Oil leak,0.0
+2022,16,Italian Grand Prix,mercedes,Finished,25.0
+2022,16,Italian Grand Prix,red_bull,Finished,34.0
+2022,16,Italian Grand Prix,williams,+1 Lap,0.0
+2022,16,Italian Grand Prix,williams,Finished,2.0
+2022,17,Singapore Grand Prix,alfa,Collision,0.0
+2022,17,Singapore Grand Prix,alfa,Finished,0.0
+2022,17,Singapore Grand Prix,alphatauri,Accident,0.0
+2022,17,Singapore Grand Prix,alphatauri,Finished,1.0
+2022,17,Singapore Grand Prix,alpine,Engine,0.0
+2022,17,Singapore Grand Prix,aston_martin,Finished,12.0
+2022,17,Singapore Grand Prix,ferrari,Finished,33.0
+2022,17,Singapore Grand Prix,haas,+1 Lap,0.0
+2022,17,Singapore Grand Prix,haas,Finished,0.0
+2022,17,Singapore Grand Prix,mclaren,Finished,22.0
+2022,17,Singapore Grand Prix,mercedes,+2 Laps,0.0
+2022,17,Singapore Grand Prix,mercedes,Finished,2.0
+2022,17,Singapore Grand Prix,red_bull,Finished,31.0
+2022,17,Singapore Grand Prix,williams,Collision damage,0.0
+2022,18,Japanese Grand Prix,alfa,Finished,0.0
+2022,18,Japanese Grand Prix,alphatauri,Finished,0.0
+2022,18,Japanese Grand Prix,alpine,Finished,18.0
+2022,18,Japanese Grand Prix,aston_martin,Finished,8.0
+2022,18,Japanese Grand Prix,ferrari,Accident,0.0
+2022,18,Japanese Grand Prix,ferrari,Finished,15.0
+2022,18,Japanese Grand Prix,haas,Finished,0.0
+2022,18,Japanese Grand Prix,mclaren,Finished,1.0
+2022,18,Japanese Grand Prix,mercedes,Finished,14.0
+2022,18,Japanese Grand Prix,red_bull,Finished,43.0
+2022,18,Japanese Grand Prix,williams,Finished,2.0
+2022,18,Japanese Grand Prix,williams,Hydraulics,0.0
+2022,19,United States Grand Prix,alfa,Finished,0.0
+2022,19,United States Grand Prix,alfa,Spun off,0.0
+2022,19,United States Grand Prix,alphatauri,Finished,1.0
+2022,19,United States Grand Prix,alpine,Finished,6.0
+2022,19,United States Grand Prix,aston_martin,Collision,0.0
+2022,19,United States Grand Prix,aston_martin,Finished,4.0
+2022,19,United States Grand Prix,ferrari,Collision damage,0.0
+2022,19,United States Grand Prix,ferrari,Finished,15.0
+2022,19,United States Grand Prix,haas,Finished,2.0
+2022,19,United States Grand Prix,mclaren,Finished,8.0
+2022,19,United States Grand Prix,mercedes,Finished,29.0
+2022,19,United States Grand Prix,red_bull,Finished,37.0
+2022,19,United States Grand Prix,williams,Finished,0.0
+2022,20,Mexico City Grand Prix,alfa,+1 Lap,1.0
+2022,20,Mexico City Grand Prix,alphatauri,+1 Lap,0.0
+2022,20,Mexico City Grand Prix,alphatauri,Collision damage,0.0
+2022,20,Mexico City Grand Prix,alpine,+1 Lap,4.0
+2022,20,Mexico City Grand Prix,alpine,Engine,0.0
+2022,20,Mexico City Grand Prix,aston_martin,+1 Lap,0.0
+2022,20,Mexico City Grand Prix,ferrari,Finished,18.0
+2022,20,Mexico City Grand Prix,haas,+1 Lap,0.0
+2022,20,Mexico City Grand Prix,mclaren,+1 Lap,8.0
+2022,20,Mexico City Grand Prix,mercedes,Finished,31.0
+2022,20,Mexico City Grand Prix,red_bull,Finished,40.0
+2022,20,Mexico City Grand Prix,williams,+1 Lap,0.0
+2022,20,Mexico City Grand Prix,williams,+2 Laps,0.0
+2022,21,Brazilian Grand Prix,alfa,Finished,2.0
+2022,21,Brazilian Grand Prix,alphatauri,+1 Lap,0.0
+2022,21,Brazilian Grand Prix,alphatauri,Finished,0.0
+2022,21,Brazilian Grand Prix,alpine,Finished,14.0
+2022,21,Brazilian Grand Prix,aston_martin,Finished,1.0
+2022,21,Brazilian Grand Prix,ferrari,Finished,27.0
+2022,21,Brazilian Grand Prix,haas,Collision,0.0
+2022,21,Brazilian Grand Prix,haas,Finished,0.0
+2022,21,Brazilian Grand Prix,mclaren,Collision,0.0
+2022,21,Brazilian Grand Prix,mclaren,Gearbox,0.0
+2022,21,Brazilian Grand Prix,mercedes,Finished,44.0
+2022,21,Brazilian Grand Prix,red_bull,Finished,14.0
+2022,21,Brazilian Grand Prix,williams,Finished,0.0
+2022,22,Abu Dhabi Grand Prix,alfa,+1 Lap,0.0
+2022,22,Abu Dhabi Grand Prix,alphatauri,+1 Lap,0.0
+2022,22,Abu Dhabi Grand Prix,alphatauri,Finished,0.0
+2022,22,Abu Dhabi Grand Prix,alpine,Finished,6.0
+2022,22,Abu Dhabi Grand Prix,alpine,Water leak,0.0
+2022,22,Abu Dhabi Grand Prix,aston_martin,Finished,5.0
+2022,22,Abu Dhabi Grand Prix,ferrari,Finished,30.0
+2022,22,Abu Dhabi Grand Prix,haas,+1 Lap,0.0
+2022,22,Abu Dhabi Grand Prix,mclaren,Finished,11.0
+2022,22,Abu Dhabi Grand Prix,mercedes,Finished,10.0
+2022,22,Abu Dhabi Grand Prix,mercedes,Hydraulics,0.0
+2022,22,Abu Dhabi Grand Prix,red_bull,Finished,40.0
+2022,22,Abu Dhabi Grand Prix,williams,+1 Lap,0.0
+2022,22,Abu Dhabi Grand Prix,williams,Collision damage,0.0
